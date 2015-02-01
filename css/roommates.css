@@ -11,16 +11,27 @@ body {
     min-width: 150px;
 }
 
-.jumbotron {
-    min-height: calc(690px * (90/150));
-    height: 100vh;
+.icon {
+    color: #5454D6;
+}
+
+#top {
     background-color: #5454D6;
     color: #ffffff;
 }
+#features {
+    text-align: center;
+}
 
+#features h1 {
+    font-size: 50px;
+}
 
-#main-title {
-    font-weight: 100;
+.section {
+    min-height: calc(690px * (90/150));
+    height: 100vh;
+    margin-bottom: 0;
+    padding: 40px;
 }
 
 #main-title h2 {
