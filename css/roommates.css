@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    background-color: #1B1B80;
+    border: medium none;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 16px 25px;
+    min-width: 150px;
+}
+
+.jumbotron {
+    min-height: calc(690px * (90/150));
+    height: 100vh;
+    background-color: #5454D6;
+    color: #ffffff;
+}
+
+
+#main-title {
+    font-weight: 100;
+}
+
+#main-title h2 {
+    font-size: 3em;
+}
+
+.vertical-center {
+    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+}
+
+.phone-image {
+    max-width: 350px;
+    margin: auto auto 50px;
+}
+
+/* FONT FACE LOADER */
+@font-face {
+    font-family: 'Lane';
+    src: url('../fonts/lanenar_Lane.eot');
+    src: url('../fonts/lanenar_Lane.eot?#iefix') format('embedded-opentype'), url('../fonts/lanenar_Lane.woff') format('woff'), url('../fonts/lanenar_Lane.ttf') format('truetype'), url('../fonts/lanenar_Lane.svg#Lane') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* HEADINGS */
+
+h1,
+h2 {
+    font-family: 'Lane', sans-serif;
+    font-weight: normal;
+}
