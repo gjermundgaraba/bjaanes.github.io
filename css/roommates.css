@@ -19,11 +19,17 @@ body {
     background-color: #5454D6;
     color: #ffffff;
 }
+
 #features {
     text-align: center;
 }
 
-#features h1 {
+#story {
+    background-color: #F7F8FA;
+    font-size: 18px;
+}
+
+#features h1, #story h1 {
     font-size: 50px;
 }
 
@@ -31,7 +37,8 @@ body {
     min-height: calc(690px * (90/150));
     height: 100vh;
     margin-bottom: 0;
-    padding: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 #main-title h2 {
