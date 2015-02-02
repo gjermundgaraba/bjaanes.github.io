@@ -29,6 +29,10 @@ body {
     font-size: 18px;
 }
 
+#screenshots {
+    text-align: center;
+}
+
 #features h1, #story h1 {
     font-size: 50px;
 }
@@ -56,6 +60,11 @@ body {
 .phone-image {
     max-width: 350px;
     margin: auto auto 50px;
+}
+
+.screenshot {
+    padding: 10px;
+    margin: 10px;
 }
 
 /* FONT FACE LOADER */
