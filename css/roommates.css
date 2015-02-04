@@ -33,7 +33,13 @@ body {
     text-align: center;
 }
 
-#features h1, #story h1 {
+#download {
+    text-align: center;
+    background-color: #5454d6;
+    color: #ffffff;
+}
+
+h1 {
     font-size: 50px;
 }
 
