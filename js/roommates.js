@@ -10,3 +10,9 @@ $(document).ready(function() {
         itemsMobile: false // itemsMobile disabled - inherit from itemsTablet option
     });
 });
+
+jQuery(function( $ ){
+    $('#download-top-button').localScroll({
+        duration:1000
+    });
+});
