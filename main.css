@@ -45,6 +45,23 @@ nav li:last-child {
     margin-right: 0;
 }
 
+p {
+    font-size: 2em;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
+img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+}
+
 #hero {
     height: 100vh;
     width: 100vw;
@@ -78,7 +95,22 @@ nav li:last-child {
 }
 
 #aboutme {
-    text-align: center;
-    padding: 3em 0;
+    padding: 10em 0;
+    width: 60%;
+    margin: 0 auto 0 auto;
+}
+
+#aboutme h1 {
+    margin-bottom: 2em;
+}
+
+#aboutme h2 {
+    margin-bottom: 1.5em;
+}
+
+#aboutme img {
+    float: left;
+    margin-right: 5em;
+    margin-bottom: 3em;
 }
 
