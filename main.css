@@ -61,11 +61,18 @@ img {
     -moz-border-radius: 150px;
 }
 
+.section {
+    padding: 10em 0;
+    width: 60%;
+    margin: 0 auto 0 auto;
+}
+
 #hero {
     height: 100vh;
     color: #ffffff;
     text-align: center;
     background: #000 url(cloud-suit01.png) no-repeat;
+    -webkit-background-size: cover;
     background-size: cover;
     position: relative;
 }
@@ -92,23 +99,21 @@ img {
     right: 0;
 }
 
-#aboutme {
-    padding: 10em 0;
-    width: 60%;
-    margin: 0 auto 0 auto;
-}
-
-#aboutme h1 {
+.section h1 {
     margin-bottom: 2em;
 }
 
-#aboutme h2 {
+.section h2 {
     margin-bottom: 1.5em;
 }
 
-#aboutme img {
+.section img {
     float: left;
     margin-right: 5em;
     margin-bottom: 3em;
 }
 
+#skills {
+    background-color: #999;
+    color: #eee;
+}
