@@ -1,61 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
+---
+layout: default
+---
 
-    <link rel="stylesheet" href="reset.css">
-    <link rel="stylesheet" href="main.css">
+<div class="home">
 
-    <link href='http://fonts.googleapis.com/css?family=Dosis:300|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+  <h1 class="page-heading">Posts</h1>
 
-    <title>Portfolio - Gjermund Bjaanes</title>
-</head>
-<body>
-    <nav>
-        <ul>
-            <li><a href="#aboutme">About Me</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#">Projects</a></li>
-            <li><a href="#">Work & Education</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
-    <div id="hero">
-        <h1>Gjermund Bjaanes</h1>
-        <h2>Software Engineer</h2>
-    </div>
-    <div id="aboutme">
-        <div class="section">
-            <img src="me.jpg">
-            <h1>About Me</h1>
-            <h2>My name is Gjermund Bjaanes</h2>
-            <p>
-                I am 25 years old, born and raised in Norway. I am a developer, geek and enthusiast in general. I’m passionate about programming and software engineering in general. Currently I focus on web development and mobile development on my free time.
-            </p>
-            <p>
-                I am a software engineer and developer by trade and by passion.
-            </p>
-            <p>
-                I have always had a very enthusiastic interest for computers, dated to when I was little. It became  an obsession for programming, IT, gadgets and new technology. I love being a developer, and that is why I do it as much as I can!
-            </p>
-            <p>
-                Other than that; In my spare time I like to code, read, cook, hang out with friends and to work out.
-            </p>
-        </div>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-    </div>
-    <div id="skills">
-        <div class="section">
-            <h1>Skills</h1>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-            <p>
-                I am a trained ninja...
-            </p>
-            <p>
-                More coming...
-            </p>
-        </div>
-    </div>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</body>
-</html>
+</div>
