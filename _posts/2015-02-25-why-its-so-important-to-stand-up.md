@@ -34,7 +34,7 @@ Unless you have a standing desk, you are probably sitting 8 hours a day, and the
 
 That is no way to live. And even if you don’t sit all day when you get home, it’s still too much sitting still. 
 
-Actually it is killing your body &#8211; AND your productivity (short term and long term).
+Actually it is killing your body - AND your productivity (short term and long term).
 
 &nbsp;
 
@@ -42,9 +42,9 @@ Actually it is killing your body &#8211; AND your productivity (short term and l
 
 First things first: start exercising! There is just no good reason not to. You will actually be a LOT more productive if you get your body in a bit better shape. Your head can stay in the game longer and you body wont get in your way. In order to function, we have to take care of all parts of your machinery. The body is a huge part of that. If you do not maintain it, it will fall apart, and you will get nothing done.
 
-# Sitting. Don&#8217;t.
+# Sitting. Don't.
 
-Sitting. We are just not made for it. The human body does not work properly when sitting on it&#8217;s ass all day. And while you might (and really should!) get some exercise every day, you still need to take some breaks from sitting too. The sitting marathons we take part in every day is destroying our bodies. Almost every part of your body suffers from this. Not only that, but your MIND even suffers from it. If you stand up every once in a while and walk around a bit, not only will you feel better, but your mind will refresh and get ready to work again!
+Sitting. We are just not made for it. The human body does not work properly when sitting on it's ass all day. And while you might (and really should!) get some exercise every day, you still need to take some breaks from sitting too. The sitting marathons we take part in every day is destroying our bodies. Almost every part of your body suffers from this. Not only that, but your MIND even suffers from it. If you stand up every once in a while and walk around a bit, not only will you feel better, but your mind will refresh and get ready to work again!
 
 # Why not sit?
 

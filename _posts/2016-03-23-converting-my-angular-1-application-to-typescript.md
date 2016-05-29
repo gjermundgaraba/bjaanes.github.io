@@ -23,7 +23,7 @@ tags:
 With the soon-ish release of Angular 2, it makes sense to start upgrading Angular 1 apps to use TypeScript.
 
 <!--more-->
-I have an Angular 1.x app called &#8220;Extreme Results&#8221;, which I want to upgrade to Angular 2 at some point. All the code mentioned in this post can be found in the GitHub repo for that app:
+I have an Angular 1.x app called "Extreme Results", which I want to upgrade to Angular 2 at some point. All the code mentioned in this post can be found in the GitHub repo for that app:
 
 <a href="https://github.com/bjaanes/ExtremeResults-WebApp" target="_blank">https://github.com/bjaanes/ExtremeResults-WebApp</a>
 
@@ -101,7 +101,7 @@ I then added a the gulp task to do the actually compilation:
         .pipe(gulp.dest('tmp/typescript'));
     });</pre>
 
-This compiles every .ts file into JavaScript (specifically ES5, which works on all browsers) and saves them to &#8216;tmp/typescript&#8217;.
+This compiles every .ts file into JavaScript (specifically ES5, which works on all browsers) and saves them to &#8216;tmp/typescript'.
 
 &nbsp;
 
@@ -123,7 +123,7 @@ I also had to update my bundle configuration file to look for my compiled files 
 
 This was actually everything that was required for development and distribution builds to work. The bundle task picks up all the compiled files and bundles them just like before.
 
-If you don&#8217;t use bundles, you have to tweak this to make sense for you. Perhaps you have to point your development server to the compiled output folder, or something similar.
+If you don't use bundles, you have to tweak this to make sense for you. Perhaps you have to point your development server to the compiled output folder, or something similar.
 
 It should hopefully require little more effort than this, but you might have to find a solution that fits your particular build process.
 
@@ -131,7 +131,7 @@ It should hopefully require little more effort than this, but you might have to 
 
 # Unit tests
 
-The first step needed for unit tests to run was to point karma.conf.js to my compiled files, instead of the regular JavaScript files (which again, don&#8217;t really exist anymore).
+The first step needed for unit tests to run was to point karma.conf.js to my compiled files, instead of the regular JavaScript files (which again, don't really exist anymore).
 
 This also means that you have to build before running tests.
 
@@ -153,7 +153,7 @@ The tests now load the compiled files instead, and the tests run like they shoul
 
 &nbsp;
 
-Everything works! Except for one thing&#8230;
+Everything works! Except for one thing...
 
 &nbsp;
 
@@ -224,7 +224,7 @@ The karma configuration file now needs these changes:
 
 &nbsp;
 
-I now run the coverage against the compiled TypeScript files (in my tmp/typescript folder) and generate a JSON coverage report for those. This report is what I&#8217;ll be using in the next step.
+I now run the coverage against the compiled TypeScript files (in my tmp/typescript folder) and generate a JSON coverage report for those. This report is what I'll be using in the next step.
 
 &nbsp;
 
@@ -232,7 +232,7 @@ I now run the coverage against the compiled TypeScript files (in my tmp/typescri
 
 To create the proper report, I used a tool called remap-istanbul. I have not integrated this tool into any build processes other than creating an npm script for it.
 
-The reason for this, is that I don&#8217;t really need the coverage report all the time.
+The reason for this, is that I don't really need the coverage report all the time.
 
 I create them when I need them, and more specifically, I create them in Travis (my Continous Integration system) and send them to codecov to get a nice coverage badge in my <a href="https://github.com/bjaanes/ExtremeResults-WebApp/blob/master/README.md" target="_blank">GitHub README file</a>.
 

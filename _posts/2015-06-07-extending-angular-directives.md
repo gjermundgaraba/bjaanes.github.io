@@ -354,7 +354,7 @@ What happens when you click Do Something Else:
 
 [<img class="alignnone wp-image-295" src="http://maximumdeveloper.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-20.00.10.png" alt="Screenshot delegate do something else" width="743" height="27" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-20.00.10.png 1210w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-20.00.10-300x11.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-20.00.10-1024x37.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-20.00.10-945x34.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-20.00.10-600x22.png 600w" sizes="(max-width: 743px) 100vw, 743px" />](http://maximumdeveloper.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-20.00.10.png)
 
-The reason for this last part is because I didn&#8217;t implement the second delegate function. This might be useful if you want fallback functionality.
+The reason for this last part is because I didn't implement the second delegate function. This might be useful if you want fallback functionality.
 
 &nbsp;
 

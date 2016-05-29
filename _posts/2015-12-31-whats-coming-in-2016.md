@@ -24,7 +24,7 @@ I started this blog in January 2015, setting out to write about Programming, Pro
 
 It started out as Maximum Developer, and later turned into a more personal blog, to allow me to write about whatever I wanted.
 
-I am very proud of what I have achieved here. Not in terms of reader numbers. Not in terms of money, &#8220;fame&#8221; or whatever either. But instead in terms of what I have learned. That I actually have a blog with over 50 posts in 1 year.
+I am very proud of what I have achieved here. Not in terms of reader numbers. Not in terms of money, "fame" or whatever either. But instead in terms of what I have learned. That I actually have a blog with over 50 posts in 1 year.
 
 I am proud that I did what I set out to do!
 
@@ -34,7 +34,7 @@ I am proud that I did what I set out to do!
 
 &nbsp;
 
-# So what&#8217;s next for the blog?
+# So what's next for the blog?
 
 If I did what I set out to do, then what is next? More.
 

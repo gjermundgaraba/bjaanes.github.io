@@ -28,7 +28,7 @@ tags:
 Food is very important. You probably knew that already. But its not only important in terms of survival.
 
 <!--more-->
-It&#8217;s important that the food you do eat is good for you. For maximum performance, there is no good in eating only junk. After a while your body won’t properly work, but your mind will slow down very quickly if you fuel yourself with sugar and lots of processed crap. Both will suffer, but your mind will take the first real hit, then your body will take a more ‘permanent’ hit.
+It's important that the food you do eat is good for you. For maximum performance, there is no good in eating only junk. After a while your body won’t properly work, but your mind will slow down very quickly if you fuel yourself with sugar and lots of processed crap. Both will suffer, but your mind will take the first real hit, then your body will take a more ‘permanent’ hit.
 
 Eating healthy and smart is not just something you do. You actually have to know HOW to do it too. If you are not properly educated on the topic, you will probably make bad decisions (and not even know it!). Sure, everyone knows McDonalds is not healthy, but are you aware of how much sugar is in different kind of foods? How much carbs is in the food you eat? How much unhealthy fat? How many calories? (especially important if you want to lose weight as well). Do you know which foods are good for you and will help you perform your best? If you never have taken an interest, then probably not.
 
@@ -58,9 +58,9 @@ You can also search the web for tips and guides for eating healthy. But keep in 
 
 There is probably a local nutrition expert where you live. This is probably the absolute best option, as a nutrition expert can give you advice that corresponds really well to you and your goals. You can get custom diets and food plans that you can actually follow and live with.
 
-#### My current &#8216;system&#8217;
+#### My current &#8216;system'
 
-My current food plan is very simple. It&#8217;s not even much of a system. It&#8217;s just a general plan with my own guidelines. These are things I think I can actually follow and that will benefit me.
+My current food plan is very simple. It's not even much of a system. It's just a general plan with my own guidelines. These are things I think I can actually follow and that will benefit me.
 
   * I try not to eat fast food.
   * I try not to eat or drink stuff with lots of sugar in it (artificial or otherwise).
@@ -78,7 +78,7 @@ Take the time to research eating healthy food. Research the food you already eat
 
 This is one of the best investments you can make for yourself, it it will certainly pay off in terms of health, happiness, productivity and lots of other great stuff.
 
-Just&#8230;
+Just...
 
 [<img class=" wp-image-221" src="http://maximumdeveloper.com/wp-content/uploads/2015/04/Do-it1.png" alt="Do it - From the masterpiece 'Starsky and Hutch'." width="627" height="482" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png 529w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1-300x231.png 300w" sizes="(max-width: 627px) 100vw, 627px" />](http://maximumdeveloper.com/wp-content/uploads/2015/04/Do-it1.png)
 

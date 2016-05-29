@@ -26,7 +26,7 @@ tags:
   - Mobile
   - Programming
 ---
-I have just launched my new app on App Store and Play Store. It’s an app for organizing shared housing. Living with Roommates made easy &#8211; basically.
+I have just launched my new app on App Store and Play Store. It’s an app for organizing shared housing. Living with Roommates made easy - basically.
 
 I want to share the story of the app, and how I got to this point.
 
@@ -35,9 +35,9 @@ I want to share the story of the app, and how I got to this point.
 
 The idea for this app came to life during the last year of computer engineering school. We either had to come up with a final project for the degree ourselves, or be handed some teacher-made stuffy project. I knew right away that I needed to come up with an idea for myself, because I really wanted to mould a large project from start to finish.
 
-I wanted to make an mobile app. Because its fun to do mobile. I wanted to make software made for users &#8211; I like that much better than stuff nobody really interfaces with. I also wanted to do sync, cloud, users &#8211; there were many things I wanted to do with this app &#8211; just to learn it (I love learning new things!). And cross-platform. I need to think cross-platform. In this case that meant iOS and Android.
+I wanted to make an mobile app. Because its fun to do mobile. I wanted to make software made for users - I like that much better than stuff nobody really interfaces with. I also wanted to do sync, cloud, users - there were many things I wanted to do with this app - just to learn it (I love learning new things!). And cross-platform. I need to think cross-platform. In this case that meant iOS and Android.
 
-I had lived with many different kinds of people on many different occasions and knew what a pain it could be and the struggles with keeping things organized. So I though that might be a cool problem to solve &#8211; with an app. So thats what I did. Or I should say we. Because while the idea originated from me, the project group developed it from basic idea to a functional product as a team.
+I had lived with many different kinds of people on many different occasions and knew what a pain it could be and the struggles with keeping things organized. So I though that might be a cool problem to solve - with an app. So thats what I did. Or I should say we. Because while the idea originated from me, the project group developed it from basic idea to a functional product as a team.
 
 After the project was finished, we all graduated with fine scores and all was well. I did however feel a bit sad that our awesome project was going to die. So I got back into the code and started to clean it up. Both the iOS and the Android app had some bugs and minor design issues, so I went right away and cleaned those up.
 
@@ -61,7 +61,7 @@ Roommates has four main areas (or screens. or scenes) to keep things organized w
 
 **Me** is the user and household management section.
 
-**Tasks** are for task lists (todo&#8217;s and such).
+**Tasks** are for task lists (todo's and such).
 
 **Expenses** is for splitting up expenses between roommates.
 
@@ -69,7 +69,7 @@ Roommates has four main areas (or screens. or scenes) to keep things organized w
 
 This app is built with an BaaS (Backend as a Service) product called Parse. It allows all the data to live in the cloud, managed entirely by them. They provide an SDK with an easy-to-use API that is fast to get started with. It made the syncing and data management part extremely easy. All that was left to do was design the architecture, app and data. And code the clients. So lots of work really, but it was nice to not manage our own backend all the way.
 
-Parse provides a feature called Cloud Code. It&#8217;s Javascript code that lives in the cloud that can be called from the clients. It also provides some hooks for specific events (like delete and create for different classes). Not everything is implemented in Cloud Code, but the most critical logic lives nicely up there in this cloud.
+Parse provides a feature called Cloud Code. It's Javascript code that lives in the cloud that can be called from the clients. It also provides some hooks for specific events (like delete and create for different classes). Not everything is implemented in Cloud Code, but the most critical logic lives nicely up there in this cloud.
 
 The app is made for iOS and Android, and each application is built with the native tools, instead of using some cross-platform SDK. Both apps have the same feature set and work together (both sync with the same data from Parse).
 

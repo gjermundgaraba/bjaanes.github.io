@@ -31,7 +31,7 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
-This post is kind of a cheat post, but I still think this is very important &#8211; especially if you are a hard worker!
+This post is kind of a cheat post, but I still think this is very important - especially if you are a hard worker!
 
 &nbsp;
 

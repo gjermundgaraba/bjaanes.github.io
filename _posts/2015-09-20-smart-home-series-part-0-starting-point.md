@@ -54,7 +54,7 @@ In terms of hardware, I have a couple of things already. I have an Arduino to do
   <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/09/0.jpg"><img class="size-full wp-image-372" src="http://gjermundbjaanes.com/wp-content/uploads/2015/09/0.jpg" alt="All my hardware looking real messy" width="640" height="480" /></a>
   
   <p class="wp-caption-text">
-    All my hardware looking real messy &#8211; like it&#8217;s supposed to!
+    All my hardware looking real messy - like it's supposed to!
   </p>
 </div>
 

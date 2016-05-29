@@ -23,7 +23,7 @@ The progress for Extreme Results is really coming along, even though I had hoped
 
 Since Extreme Results was an Angular app, I decided that my next projects needed to be something else, so I have used Meteor.js and React. Mostly just to learn something new and get some new perspectives on web development. And for fun, of course.
 
-I won&#8217;t explain that much about Meteor or React, because I wrote about those front end frameworks/libraries in a recent &#8220;Picks of The Month&#8221;:
+I won't explain that much about Meteor or React, because I wrote about those front end frameworks/libraries in a recent "Picks of The Month":
   
 <a href="http://gjermundbjaanes.com/picks-of-the-month-september-2015/" target="_blank">Picks of the month – September 2015</a>
 
@@ -53,9 +53,9 @@ The code can be found here:
 
 # Minesweeper (React)
 
-I also kind of half hearted started writing a minesweeper app written in React. It&#8217;s not something I focus on, but rather something to fiddle with when I don&#8217;t feel like messing with IoT, Anguler or Meteor. It&#8217;s basically a side-side project.
+I also kind of half hearted started writing a minesweeper app written in React. It's not something I focus on, but rather something to fiddle with when I don't feel like messing with IoT, Anguler or Meteor. It's basically a side-side project.
 
-I don&#8217;t really have any graphic to show yet, because I have just fiddled around with React thus far. However, the code is as always located on GitHub:
+I don't really have any graphic to show yet, because I have just fiddled around with React thus far. However, the code is as always located on GitHub:
   
 <a href="https://github.com/bjaanes/ReactMineSweeper" target="_blank">ReactMineSweeper on GitHub</a>
 

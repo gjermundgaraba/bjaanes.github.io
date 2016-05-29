@@ -34,21 +34,21 @@ I know that I need to charge up my batteries again.
 
 &nbsp;
 
-So, remember to take all the vacation you can, because you won&#8217;t be very efficient if you run on fumes the next year!
+So, remember to take all the vacation you can, because you won't be very efficient if you run on fumes the next year!
 
 &nbsp;
 
-# #2 The new Coldplay album: &#8220;A Head Full of Dreams&#8221;
+# #2 The new Coldplay album: "A Head Full of Dreams"
 
 <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams.png" rel="attachment wp-att-511"><img class="alignnone  wp-image-511" src="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams.png" alt="Coldplay A Head Full of Dreams Cover" width="175" height="175" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams-150x150.png 150w" sizes="(max-width: 175px) 100vw, 175px" /></a>
 
 I like Coldplay quite a bit. They have many good songs. But their latest album is _really_ working for me!
 
-So many good songs that I just listen to over and over and over and&#8230; Yeah.
+So many good songs that I just listen to over and over and over and... Yeah.
 
 &nbsp;
 
-If you haven&#8217;t given it a listen, I would recommend that you do. It&#8217;s a classic album in my book.
+If you haven't given it a listen, I would recommend that you do. It's a classic album in my book.
 
 &nbsp;
 
@@ -56,7 +56,7 @@ If you haven&#8217;t given it a listen, I would recommend that you do. It&#8217;
 
 <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/12/shield-large.png" rel="attachment wp-att-513"><img class="alignnone  wp-image-513" src="http://gjermundbjaanes.com/wp-content/uploads/2015/12/shield-large.png" alt="Angular 2 Shield" width="168" height="183" /></a>
 
-Angular 2 is finally out of Alpha! That means that the API&#8217;s are more stable and as such: the time to play around with it is definitely here!
+Angular 2 is finally out of Alpha! That means that the API's are more stable and as such: the time to play around with it is definitely here!
 
 &nbsp;
 

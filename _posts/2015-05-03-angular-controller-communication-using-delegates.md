@@ -79,7 +79,7 @@ For this to work, the Main Controller needs to send the delegate object to the S
 
 <pre class="lang:default decode:true ">&lt;my-directive delegate="someObjectThatCanWorkAsDelegate"&gt;&lt;/my-directive&gt;</pre>
 
-The &#8216;=&#8217; allows the controller for myDirective to access the delegate on its isolate scope.
+The &#8216;=' allows the controller for myDirective to access the delegate on its isolate scope.
 
 &nbsp;
 

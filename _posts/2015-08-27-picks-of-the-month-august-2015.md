@@ -35,13 +35,13 @@ I can easily navigate through feedbin without touching the mouse, which is great
 
 You can easily share the articles you read to Pocket (for reading later, which I use all the time!), Evernote (for storage) or any of the other services that Feedbin integrates with.
 
-It aslo has several smooth themes for better readability. It&#8217;s just a nice and simple feed reader. All feeds saved in feedbin can usual be read by most mobile RSS readers too (like Reeder).
+It aslo has several smooth themes for better readability. It's just a nice and simple feed reader. All feeds saved in feedbin can usual be read by most mobile RSS readers too (like Reeder).
 
-It costs $3 a month (or $30 a year), but it&#8217;s money well spent in my opinion. You can also take it for a trial run.
+It costs $3 a month (or $30 a year), but it's money well spent in my opinion. You can also take it for a trial run.
 
 &nbsp;
 
-(No, I don&#8217;t get anything for praising this service. I use it all the time and love it &#8211; so I thought perhaps you might enjoy it as well!)
+(No, I don't get anything for praising this service. I use it all the time and love it - so I thought perhaps you might enjoy it as well!)
 
 &nbsp;
 
@@ -49,7 +49,7 @@ It costs $3 a month (or $30 a year), but it&#8217;s money well spent in my opini
 
 I have trained up my legs for a year now with walking and small jogging bursts. I am finally at the point where I can actually run about 3-5 km (from time to time) without having much pain in my legs.
 
-The feeling you get when you get in the rhythm while running is just fantastic. Time goes by like nothing. It takes some time to be able to really enjoy it, but once you do, it&#8217;s well worth it.
+The feeling you get when you get in the rhythm while running is just fantastic. Time goes by like nothing. It takes some time to be able to really enjoy it, but once you do, it's well worth it.
 
 &nbsp;
 

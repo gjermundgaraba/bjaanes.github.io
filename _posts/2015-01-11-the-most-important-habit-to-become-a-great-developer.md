@@ -6,18 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://maximumdeveloper.com/?p=51
 permalink: /the-most-important-habit-to-become-a-great-developer/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3410541175
 categories:
@@ -43,7 +31,7 @@ This is a really simple concept many people seem to forget. The only real way to
 
 David Byttow wrote about ABC in this great article about landing an engineering job:
   
-<a href="https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2" target="_blank">https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2</a>
+[https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2){:target="_blank"}
 
 &nbsp;
 
@@ -61,7 +49,7 @@ This is the hard part where people often seem to fall short. It’s not enough t
 
 One way to achieve this is to create a project on Github (or use one you already have) and make commit to it every single day. You will get a streak on Github that is very rewarding to look at, and it is not so easy broken as a simple promise. It is also a good way to boost your Github account.
 
-Don&#8217;t just code on the job, code in your free time as well!
+Don't just code on the job, code in your free time as well!
 
 &nbsp;
 
@@ -71,9 +59,7 @@ You can (and should) code on a project of your choice every day. A simple side p
 
 But this is not your only choice. You can deliberately practice programming using Code Kata’s. Code Kata’s are repeatable practice sessions you can perform. Its a simple problem that you are supposed to solve and improve on each time you code it. You start from scratch every single time. The time frame is perhaps 30 minutes or an hour. It should be doable for everyone to do a couple of Kata’s every day. The point of a Code Kata is not the answer. The entire point is what your learn as you do them.
 
-Read more about it on: <a title="codekata.com" href="http://www.codekata.com" target="_blank">codekata.com</a>
-  
-(or just google it)
+Read more about it on: [codekata.com](http://codekata.com){:target="_blank"}
 
 &nbsp;
 
@@ -82,9 +68,3 @@ Read more about it on: <a title="codekata.com" href="http://www.codekata.com" ta
 Like with everything else taking a break once in a while is important also. Just not too often. That is what vacations are for. Other than that, I think you should try to code a little every day, and try to code a lot most days. After all, the more you code, the better you get. And you do want to become great, right?
 
 So remember to **A**lways **B**e **C**oding.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_4">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fthe-most-important-habit-to-become-a-great-developer%2F&linkname=The%20most%20important%20habit%20to%20become%20a%20great%20developer" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fthe-most-important-habit-to-become-a-great-developer%2F&linkname=The%20most%20important%20habit%20to%20become%20a%20great%20developer" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fthe-most-important-habit-to-become-a-great-developer%2F&linkname=The%20most%20important%20habit%20to%20become%20a%20great%20developer" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

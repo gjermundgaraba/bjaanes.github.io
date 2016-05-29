@@ -15,9 +15,9 @@ tags:
   - Raspberry Pi
   - Smart home series
 ---
-I have set up a couple Raspberry Pi&#8217;s with GrovePi+ and a few sensors. They send out data with MQTT.
+I have set up a couple Raspberry Pi's with GrovePi+ and a few sensors. They send out data with MQTT.
 
-That is not so useful without something to pick up those MQTT messages and doing something about them. Like showing them to me&#8230;
+That is not so useful without something to pick up those MQTT messages and doing something about them. Like showing them to me...
 
 <!--more-->
 &nbsp;
@@ -34,15 +34,15 @@ I have changed my mind. There is a great existing tool that seems to fit all my 
 
 &nbsp;
 
-OpenHAB, in their own words is &#8220;a vendor and technology agnostic open source automation software for your home&#8221;
+OpenHAB, in their own words is "a vendor and technology agnostic open source automation software for your home"
 
-It&#8217;s basically a very powerful home automation hub that works with a bunch of different types of technologies.
+It's basically a very powerful home automation hub that works with a bunch of different types of technologies.
 
 &nbsp;
 
 I have been using part of my Easter vacation playing with OpenHAB, and it seems to work very well.
 
-It&#8217;s not the easiest to set up, because you have to fiddle with a bunch of configuration files. But it works, and it seems to be able to do everything I need it to (right now at least).
+It's not the easiest to set up, because you have to fiddle with a bunch of configuration files. But it works, and it seems to be able to do everything I need it to (right now at least).
 
 It can show real time data from MQTT (and a ton of other protocols), and it supports a bunch of different options for persistence.
 
@@ -56,13 +56,13 @@ You can read more about OpenHAB on their website:
 
 # The Setup
 
-I have currently 3 Raspberry Pi&#8217;s working for me. I have one with OpenHAB and the MQTT message broker and two others placed in my apartment with some sensors attached to them.
+I have currently 3 Raspberry Pi's working for me. I have one with OpenHAB and the MQTT message broker and two others placed in my apartment with some sensors attached to them.
 
 <a href="http://gjermundbjaanes.com/wp-content/uploads/2016/04/IMG_20160410_185710.jpg" rel="attachment wp-att-664"><img class="alignnone wp-image-664" src="http://gjermundbjaanes.com/wp-content/uploads/2016/04/IMG_20160410_185710.jpg" alt="Raspberry Pi with Grove" width="369" height="491" /></a>
 
 &nbsp;
 
-It&#8217;s not pretty yet, but I have bought some super generic electronic project boxes from ebay to put them in.
+It's not pretty yet, but I have bought some super generic electronic project boxes from ebay to put them in.
 
 It will look nice at some point, I promise!
 
@@ -82,13 +82,13 @@ In the OpenHAB app, it looks like this:
 
 &nbsp;
 
-It&#8217;s not much yet &#8211; but it&#8217;s a start!
+It's not much yet - but it's a start!
 
 &nbsp;
 
 # Configuration
 
-It&#8217;s not the easiest thing to do, since all the setup is done in configuration files. Luckily there exists a bunch of great documentation on the web.
+It's not the easiest thing to do, since all the setup is done in configuration files. Luckily there exists a bunch of great documentation on the web.
 
 My strategy for learning the configuration was to download the demo site and just changing the configuration to fit my data.
 
@@ -96,9 +96,9 @@ The demo site can be found at their downloads page: <a href="http://www.openhab
 
 &nbsp;
 
-To be able to use MQTT, you have to install an addon for it, and set up the broker. There&#8217;s a lot of fiddling around basically.
+To be able to use MQTT, you have to install an addon for it, and set up the broker. There's a lot of fiddling around basically.
 
-I won&#8217;t go into detail about exactly how to do all of this here, but an upcoming post I am working on will do just that.
+I won't go into detail about exactly how to do all of this here, but an upcoming post I am working on will do just that.
 
 &nbsp;
 
@@ -106,7 +106,7 @@ I won&#8217;t go into detail about exactly how to do all of this here, but an up
 
 I feel like I have a solid starting point for adding more stuff to my smart home.
 
-Except for the fact that it&#8217;s not really a smart home just yet. It&#8217;s just a home with some data I can look at. In real time.
+Except for the fact that it's not really a smart home just yet. It's just a home with some data I can look at. In real time.
 
 &nbsp;
 

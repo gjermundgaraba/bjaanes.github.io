@@ -26,7 +26,7 @@ It might be that I am just totally incompetent with Arduino, or that my hardware
 
 # Arduino is out
 
-So I decided that I wanted something I could more easily debug and understand &#8211; a proper computer with less complicated hardware fiddeling to worry about.
+So I decided that I wanted something I could more easily debug and understand - a proper computer with less complicated hardware fiddeling to worry about.
 
 Enters Raspberry Pi.
 
@@ -52,9 +52,9 @@ Grove is a modular system with ready-to-use sensors and things you can just plug
 
 All you need is a connector/interface for your system, which you plug all your Grove sensors into.
 
-They have connectors for Arduino (which I didn&#8217;t buy), Raspberry Pi (which I did buy), Beagle Board and many others.
+They have connectors for Arduino (which I didn't buy), Raspberry Pi (which I did buy), Beagle Board and many others.
 
-They have all kinds of sensors you can connect and work with, and it looks like there is very little stupid tinkering of hardware that needs to be done &#8211; which fits me right now.
+They have all kinds of sensors you can connect and work with, and it looks like there is very little stupid tinkering of hardware that needs to be done - which fits me right now.
 
 To get started, I ordered:
 
@@ -77,19 +77,19 @@ I plan to buy many others, if this pans out.
 
 &nbsp;
 
-They have not yet arrived, but I will write about my experience with Grove when it gets here (in 15-45 days&#8230;).
+They have not yet arrived, but I will write about my experience with Grove when it gets here (in 15-45 days...).
 
 &nbsp;
 
 # Trying out the Raspberry Pi with a sensor
 
-If you don&#8217;t know what MQTT is, I suggest that you go back and read: <a href="http://gjermundbjaanes.com/smart-home-series-part-1-learning-mqtt-and-buying-stuff/" target="_blank">Smart home series – Part 1 – Learning MQTT and buying stuff</a>
+If you don't know what MQTT is, I suggest that you go back and read: <a href="http://gjermundbjaanes.com/smart-home-series-part-1-learning-mqtt-and-buying-stuff/" target="_blank">Smart home series – Part 1 – Learning MQTT and buying stuff</a>
 
 I wanted to prove that getting things to work would be easier with Raspberry Pi, than it was with Arduino. Even without Grove. Just switch out the Arduino for a Raspberry Pi.
 
 I actually got a Raspberry Pi hooked up to a DHT22 (temperature sensor) with just a couple of wires and few lines of code.
 
-It took me a couple of hours to get everything to work (compared to weeks with Arduino &#8211; which never _actually_ worked).
+It took me a couple of hours to get everything to work (compared to weeks with Arduino - which never _actually_ worked).
 
 It is even sending MQTT messages to my MQTT broker.
 
@@ -115,7 +115,7 @@ Most of this stuff is dirt cheap. The only thing that has a significant cost is 
 
 The first thing I did was to install and set up the Raspberry Pi with a simple Raspbian Jessie Lite image, downloaded from here: <a href="https://www.raspberrypi.org/downloads/raspbian/" target="_blank">https://www.raspberrypi.org/downloads/raspbian/</a>
 
-You don&#8217;t have to use the Lite image if you want a Desktop with GUI and stuff, but I didn&#8217;t really feel like I needed it for this.
+You don't have to use the Lite image if you want a Desktop with GUI and stuff, but I didn't really feel like I needed it for this.
 
 &nbsp;
 
@@ -165,7 +165,7 @@ The logic is very simple:
 In an infinite loop I do the following:
 
   1. Read the temperature (and humidity actually, but I am currently not using it)
-  2. Publish the temperature to &#8220;office/temperature&#8221; (which is the MQTT subject I decided would be appropriate)
+  2. Publish the temperature to "office/temperature" (which is the MQTT subject I decided would be appropriate)
   3. Sleep for 30 seconds
 
 And so it goes, forever.
@@ -186,9 +186,9 @@ def readTemperature():
 
 readTemperature()</pre>
 
-I have to admit, I don&#8217;t have much experience with Python yet, so the above code might be very inefficient and ugly &#8211; but it works!
+I have to admit, I don't have much experience with Python yet, so the above code might be very inefficient and ugly - but it works!
 
-The only issue I have, is that I have to start the script as root. It&#8217;s because the Adafruit library requires root access to read out from the pins on the Raspberry Pi. I am not focusing on that, but I don&#8217;t want that in the future, if I can avoid it.
+The only issue I have, is that I have to start the script as root. It's because the Adafruit library requires root access to read out from the pins on the Raspberry Pi. I am not focusing on that, but I don't want that in the future, if I can avoid it.
 
 &nbsp;
 
@@ -202,7 +202,7 @@ So to run the script I just write the following in the terminal:
 
 ## Does everything work?
 
-I have a MQTT client on my computer called MQTTfx, which I use to test the other clients and the broker. I just subscribe to &#8220;office/temperature&#8221; from my broker, and I can see the temperature getting published every 30 seconds.
+I have a MQTT client on my computer called MQTTfx, which I use to test the other clients and the broker. I just subscribe to "office/temperature" from my broker, and I can see the temperature getting published every 30 seconds.
 
 <a href="http://gjermundbjaanes.com/wp-content/uploads/2016/01/MQTTfx.png" rel="attachment wp-att-547"><img class="alignnone wp-image-547" src="http://gjermundbjaanes.com/wp-content/uploads/2016/01/MQTTfx.png" alt="MQTTfx - MQTT client" width="668" height="501" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/01/MQTTfx.png 1026w, http://gjermundbjaanes.com/wp-content/uploads/2016/01/MQTTfx-768x576.png 768w" sizes="(max-width: 668px) 100vw, 668px" /></a>
 
@@ -214,11 +214,11 @@ Nice! Things that work, feels great after struggeling for such a long time with 
 
 While waiting for the Grove components to get here, I am probably going to play around with the hardware I got, and learn a little bit more Python.
 
-I might also get started on an application to pick up MQTT messages and do something useful with them. Perhaps store them away in some database. And possibly show them on a monitor &#8211; which might require a web interface of some kind.
+I might also get started on an application to pick up MQTT messages and do something useful with them. Perhaps store them away in some database. And possibly show them on a monitor - which might require a web interface of some kind.
 
 &nbsp;
 
-I don&#8217;t really know how things will look later, but that is half the fun.
+I don't really know how things will look later, but that is half the fun.
 
 Just learning about the possibilities and experimenting/playing with them was one of the reasons I started this project in the first place.
 

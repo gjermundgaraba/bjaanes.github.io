@@ -30,12 +30,12 @@ You certainly want to work as much as possible, and as effective as possible. Af
 
 You want to learn as much as humanly possible. You just want to code, dammit!
 
-And please do. BUT &#8211; sometimes, it’s time to take a break.
+And please do. BUT - sometimes, it’s time to take a break.
 
 <!--more-->
 Sometimes you just need to stop working and do something else.
 
-If you don’t, it will come back and bite you hard in the ass! If you get burnt out, or injured, it won’t help that you powered through the pain, because you’ll be out of the game for an even longer time. It&#8217;s just not effective use of your time. And nobody wants that.
+If you don’t, it will come back and bite you hard in the ass! If you get burnt out, or injured, it won’t help that you powered through the pain, because you’ll be out of the game for an even longer time. It's just not effective use of your time. And nobody wants that.
 
 When the time for that comes, only you can truly know, because it will differ from person to person. There are however a few important things to consider that are pretty universal. It all boils down to listening to your body and your mind. It will tell you.
 

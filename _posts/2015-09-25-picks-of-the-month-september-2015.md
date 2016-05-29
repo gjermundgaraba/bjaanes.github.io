@@ -24,7 +24,7 @@ It can be anything from blog posts and software tools to books and techniques.
 
 &nbsp;
 
-Meteor.js is a very nice platform for creating web apps (and actually mobile apps as well). It’s super fast to get started and it&#8217;s really easy to achieve a lot of cool things.
+Meteor.js is a very nice platform for creating web apps (and actually mobile apps as well). It’s super fast to get started and it's really easy to achieve a lot of cool things.
 
 Meteor allows you to write isomorphic javascript, which means the code you write can run on both the client and the server. It’s a really neat concept.
 
@@ -68,7 +68,7 @@ It was awesome to spend 2 entire days just learning about new things! The next p
 
 &nbsp;
 
-# #4 How to make your code sustainable &#8211; what they don&#8217;t teach you &#8211; Christin Gorman
+# #4 How to make your code sustainable - what they don't teach you - Christin Gorman
 
 Christin Gorman is a norwegian developer and she is extremely energetic! Her talks are fast paced, very insightful, and also quite funny!
 

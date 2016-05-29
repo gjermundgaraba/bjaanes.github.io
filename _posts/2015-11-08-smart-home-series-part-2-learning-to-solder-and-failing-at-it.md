@@ -64,9 +64,9 @@ I am sure there are huge differences between different solder wires, but I am no
 
 ## Second Hands
 
-I am not sure if &#8216;Second Hands&#8217; is the correct name of this, but I know could not have done it without it.
+I am not sure if &#8216;Second Hands' is the correct name of this, but I know could not have done it without it.
 
-It holds the pins and the board while soldering, and that was completely crucial. Don&#8217;t try to do this stuff without it.
+It holds the pins and the board while soldering, and that was completely crucial. Don't try to do this stuff without it.
 
 [<img class="alignnone wp-image-450 " src="http://gjermundbjaanes.com/wp-content/uploads/2015/11/IMG_0642-e1447004160900.jpg" alt="Second Hands" width="304" height="405" />](http://gjermundbjaanes.com/wp-content/uploads/2015/11/IMG_0642.jpg)
 
@@ -74,7 +74,7 @@ It holds the pins and the board while soldering, and that was completely crucial
 
 ## Brass Sponge
 
-For cleaning the tip of the soldering iron, I read that brass sponges were better to use than regular sponges. So that is what I used. It worked really well to wipe off solder&#8230; stuff?
+For cleaning the tip of the soldering iron, I read that brass sponges were better to use than regular sponges. So that is what I used. It worked really well to wipe off solder... stuff?
 
 [<img class="alignnone wp-image-451" src="http://gjermundbjaanes.com/wp-content/uploads/2015/11/BrassSponge.jpg" alt="Brass Sponge" width="330" height="273" />](http://gjermundbjaanes.com/wp-content/uploads/2015/11/BrassSponge.jpg)
 
@@ -100,13 +100,13 @@ And this is the result after watching that video.
 
 &nbsp;
 
-Looks pretty OK, I think. However&#8230;
+Looks pretty OK, I think. However...
 
 &nbsp;
 
-# It didn&#8217;t work!?!
+# It didn't work!?!
 
-Turns out, I did something wrong. Or the hardware was broken before I event got it. I can&#8217;t upload to the Arduino after inserting the shield. I just get this error message:
+Turns out, I did something wrong. Or the hardware was broken before I event got it. I can't upload to the Arduino after inserting the shield. I just get this error message:
 
 <pre class="lang:default decode:true ">avrdude: stk500_recv(): programmer is not responding
 avrdude: stk500_getsync() attempt 1 of 10: not in sync: resp=0x00</pre>
@@ -115,7 +115,7 @@ avrdude: stk500_getsync() attempt 1 of 10: not in sync: resp=0x00</pre>
 
 And this happens no matter what code I try to upload to it while the shield is on.
 
-The internet tells me this can be because of several things, but only one thing seems possible to me: the shield is broken. The reason I believe that is that the Arduino works just fine when I don&#8217;t have the shield on it.
+The internet tells me this can be because of several things, but only one thing seems possible to me: the shield is broken. The reason I believe that is that the Arduino works just fine when I don't have the shield on it.
 
 &nbsp;
 
@@ -125,7 +125,7 @@ I also ordered a few non-shield versions of the ESP8266 so that I can still cont
 
 &nbsp;
 
-Perhaps I should have practiced on some less important things first? Yes, I should have. I really should have&#8230; \*sigh\*. Nothing do to about that now.
+Perhaps I should have practiced on some less important things first? Yes, I should have. I really should have... \*sigh\*. Nothing do to about that now.
 
 &nbsp;
 

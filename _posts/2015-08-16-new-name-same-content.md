@@ -17,9 +17,9 @@ tags:
 I have struggled a bit lately with the name of the blog, and how I want to portrait it to the world. I eventually came to the conclusion that Maximum Developer is only a partially correct name for the blog.
 
 <!--more-->
-I still want to write about becoming the best possible developer, but i also want to be &#8220;able&#8221; to write about whatever I want. I have actually already done this all the time, but I felt a bit bad about the AngularJS specific posts and whatnot. I don&#8217;t want that.
+I still want to write about becoming the best possible developer, but i also want to be "able" to write about whatever I want. I have actually already done this all the time, but I felt a bit bad about the AngularJS specific posts and whatnot. I don't want that.
 
-I created this blog to be able to express myself, and hopefully help someone else when they are struggling with stuff. Because of this, I feel like just using my own name as the name of the blog works better than &#8216;Maximum Developer&#8217;.
+I created this blog to be able to express myself, and hopefully help someone else when they are struggling with stuff. Because of this, I feel like just using my own name as the name of the blog works better than &#8216;Maximum Developer'.
 
 &nbsp;
 

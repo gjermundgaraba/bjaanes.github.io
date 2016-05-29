@@ -30,7 +30,7 @@ While I was waiting for the Grove stuff to arrive, I started creating a new appl
 
 I needed a pretty simple application. Something to listen to MQTT messages on specific topics and save those messages to a database. That way I can have other applications fetch data from said database and use it for stuff (like displaying statistics and other things, Im sure).
 
-The application is written in Python and is thought to run on a Raspberry Pi (of course &#8211; where else!?). It uses a config file to set up connections to the MQTT broker and a Mongo Database. You give it a list of topics to listen for, and just let it loose.
+The application is written in Python and is thought to run on a Raspberry Pi (of course - where else!?). It uses a config file to set up connections to the MQTT broker and a Mongo Database. You give it a list of topics to listen for, and just let it loose.
 
 &nbsp;
 
@@ -42,9 +42,9 @@ The code is available at Github:
 
 # Grove
 
-Let&#8217;s just start out with what I didn&#8217;t like about the Grove stuff: The documentation isn&#8217;t always 100%. The language is sometimes a bit lacking, and it seems outdated some places. It works, and you usually don&#8217;t have to mess too much around to make things work &#8211; but it&#8217;s not perfect.
+Let's just start out with what I didn't like about the Grove stuff: The documentation isn't always 100%. The language is sometimes a bit lacking, and it seems outdated some places. It works, and you usually don't have to mess too much around to make things work - but it's not perfect.
 
-However, it DOES work. And it was so nice to have software problems, instead of hardware ones. I can understand software issues &#8211; those are easily debuggable. It was heaven compared to the Ardunio mess.
+However, it DOES work. And it was so nice to have software problems, instead of hardware ones. I can understand software issues - those are easily debuggable. It was heaven compared to the Ardunio mess.
 
 &nbsp;
 
@@ -66,13 +66,13 @@ Using the following instructions:
   
 <a href="http://www.seeedstudio.com/wiki/index.php?title=Grove_-_Temperature_Sensor&uselang=en#With_Raspberry_Pi" target="_blank">http://www.seeedstudio.com/wiki/index.php?title=Grove_-_Temperature_Sensor&uselang=en#With_Raspberry_Pi</a>
 
-The instructions said to plug it into D3, but I found that the code used A0&#8230; That&#8217;s OK, just plug it in A0 instead.
+The instructions said to plug it into D3, but I found that the code used A0... That's OK, just plug it in A0 instead.
 
 &nbsp;
 
 ## Trying it for real
 
-The next step was to create a &#8220;real&#8221; test application with all of this. So I created a small application to read the temperature and publish it to the MQTT broker.
+The next step was to create a "real" test application with all of this. So I created a small application to read the temperature and publish it to the MQTT broker.
 
 First I had to install the Grove libraries globally like so:
 
@@ -111,7 +111,7 @@ readTemperature()</pre>
 
 Woho! It works!
 
-I have now ordered more Grove components and more Raspberry Pi&#8217;s. More is coming soon!
+I have now ordered more Grove components and more Raspberry Pi's. More is coming soon!
 
 <div class="addtoany_share_save_container addtoany_content_bottom">
   <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_61">

@@ -30,7 +30,7 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
-Welcome to this month&#8217;s &#8216;Picks of the month&#8217; &#8211; March 2015. Every month I deliver a few picks of my favorite things that I want to share that month. The picks themselves can be almost anything. Software tools, books (technical as well as fictional), blog posts, resources and so on.
+Welcome to this month's &#8216;Picks of the month' - March 2015. Every month I deliver a few picks of my favorite things that I want to share that month. The picks themselves can be almost anything. Software tools, books (technical as well as fictional), blog posts, resources and so on.
 
 In this edition I have a couple of picks which I am very exited about. One of which I have used for several years, and on I have just started using. Both are excellent!
 
@@ -38,7 +38,7 @@ In this edition I have a couple of picks which I am very exited about. One of wh
 
 # #1 Pluralsight
 
-Pluralsight is a online training platform with videos and tutorials for &#8216;Hardcore developer and IT training&#8217;.
+Pluralsight is a online training platform with videos and tutorials for &#8216;Hardcore developer and IT training'.
 
 This particular site is something I have not used before, but It’s one of those good new things. I have used codeschool a little previously, and liked that a lot, but I was truly blown away by Pluralsight.
 
@@ -56,7 +56,7 @@ Check it out: <a href="http://www.pluralsight.com/" target="_blank">http://www.p
 
 # #2 Evernote
 
-Evernote is a free app for mobile and desktop that you can use for almost everything. In it’s most basic form it’s just a note-taking app. But it has so many great features that basically makes it an ecosystem for your mind. I like to think of it as a place where I can store everything I don&#8217;t want to go around remembering (so almost everything) &#8211; a second brain.
+Evernote is a free app for mobile and desktop that you can use for almost everything. In it’s most basic form it’s just a note-taking app. But it has so many great features that basically makes it an ecosystem for your mind. I like to think of it as a place where I can store everything I don't want to go around remembering (so almost everything) - a second brain.
 
 I have used Evernote for several years, and have a lot of content stored in it. It gets better the more you use it (the more content you have there, the more value it provides). I cannot tell you enough how much I love using Evernote (hint: I am using Evernote to write this very article).
 

@@ -16,14 +16,14 @@ tags:
   - IoT
   - Smart home series
 ---
-It&#8217;s been a little while since I had any update for my Smart home series.
+It's been a little while since I had any update for my Smart home series.
 
 The last time I thought I had failed miserably at soldering, but after a brand new component gave the same errors, I finally sought some help.
 
 <!--more-->
 Turns out I the problem was with my Arduino setup. According to the help I got, the problem was:
 
-_&#8220;When you program the UNO using USB it communicates with the &#8216;328 via pins D0 & D1. The ESP8266 is interfering with this process.&#8221;_
+_"When you program the UNO using USB it communicates with the &#8216;328 via pins D0 & D1. The ESP8266 is interfering with this process."_
 
 The thread I started to get help: <a href="https://forum.arduino.cc/index.php?topic=369554.0" target="_blank">https://forum.arduino.cc/index.php?topic=369554.0</a>
 
@@ -86,7 +86,7 @@ Now that I finally have some momentum I hope to get something useful created pre
 
 The big next step is obviously to get my Arduino to somehow send MQTT messages based on information from one of my sensors.
 
-After that it&#8217;s all programming, testing and tweaking. Look out for more updates!
+After that it's all programming, testing and tweaking. Look out for more updates!
 
 <div class="addtoany_share_save_container addtoany_content_bottom">
   <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_57">

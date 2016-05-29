@@ -93,7 +93,7 @@ I keep a notebook for all tips, hacks and systems for personal development. Itâ€
 
 # Writing
 
-I write all my blog posts in Evernote. It&#8217;s very easy to capture ideas and turn them into an article in Evernote. I just sit down and write.
+I write all my blog posts in Evernote. It's very easy to capture ideas and turn them into an article in Evernote. I just sit down and write.
 
 I also keep a note full of blog post ideas that I regularly update and do brainstorms in.
 

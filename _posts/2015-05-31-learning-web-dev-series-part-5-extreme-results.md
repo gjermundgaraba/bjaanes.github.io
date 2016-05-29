@@ -33,7 +33,7 @@ It’s been a little while since <a href="http://maximumdeveloper.com/learning-w
 <!--more-->
 &nbsp;
 
-Since then I have not had the opportunity to work quite as much as I usually do because of some shoulder issues (basically because I worked too much, and exercised too little. Solution: Work less &#8211; for a while &#8211; and exercise more). I have however learned a lot. I never stop doing that. I read articles, I saw videos from conferences (like ng-conf), I read books and I have started slowly on my own project.
+Since then I have not had the opportunity to work quite as much as I usually do because of some shoulder issues (basically because I worked too much, and exercised too little. Solution: Work less - for a while - and exercise more). I have however learned a lot. I never stop doing that. I read articles, I saw videos from conferences (like ng-conf), I read books and I have started slowly on my own project.
 
 &nbsp;
 

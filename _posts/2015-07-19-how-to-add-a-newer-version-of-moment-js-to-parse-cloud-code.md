@@ -33,15 +33,15 @@ It's how to add a newer vsion of moment js to your Parse Cloud code.
 <!--more-->
 &nbsp;
 
-The Backend-As-A-Service &#8216;Parse&#8217; has a great feature called Cloud Code. It is Javascript that you host and run on Parse&#8217;s infrastructure. You can call it from your apps (via SDK&#8217;s or REST API&#8217;s). It&#8217;s a great way to reuse a lot of code (if you for instance are writing apps for web, iOS and Android &#8211; much of the complex logic can be extracted into Cloud Code).
+The Backend-As-A-Service &#8216;Parse' has a great feature called Cloud Code. It is Javascript that you host and run on Parse's infrastructure. You can call it from your apps (via SDK's or REST API's). It's a great way to reuse a lot of code (if you for instance are writing apps for web, iOS and Android - much of the complex logic can be extracted into Cloud Code).
 
-Anyways, I am currently writing a lot of Cloud Code for my new web app &#8220;Extreme Results&#8221; (which I wrote a little about here: <a href="http://maximumdeveloper.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">Learning Web Dev Series – Part 5: Extreme Results</a>).
+Anyways, I am currently writing a lot of Cloud Code for my new web app "Extreme Results" (which I wrote a little about here: <a href="http://maximumdeveloper.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">Learning Web Dev Series – Part 5: Extreme Results</a>).
 
 &nbsp;
 
 I found myself needing to use moment.js with Cloud Code to have a good way to get the start and end a week for a given date.
 
-Moment.js has great manipulation methods for just this (moment().startOf(&#8216;isoWeek&#8217;)), but unfortunately the built in version in Parse does not support those specific methods (Parse has version 1.7, and for this I needed >2.2).
+Moment.js has great manipulation methods for just this (moment().startOf(&#8216;isoWeek')), but unfortunately the built in version in Parse does not support those specific methods (Parse has version 1.7, and for this I needed >2.2).
 
 &nbsp;
 

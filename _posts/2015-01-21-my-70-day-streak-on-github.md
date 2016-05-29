@@ -37,7 +37,7 @@ But I want to share my small streak story and how it helped me get a ABC (Always
 
 # How it started
 
-I had not thought about doing a long streak, and I was not intending to done one either when I started out. It just happened. I had committed some code a couple of days in a row without thinking too much about it. I soon realized I had a small streak. I though it might be cool to get a couple of weeks in &#8211; just for fun.
+I had not thought about doing a long streak, and I was not intending to done one either when I started out. It just happened. I had committed some code a couple of days in a row without thinking too much about it. I soon realized I had a small streak. I though it might be cool to get a couple of weeks in - just for fun.
 
 After three weeks I was _hooked_. It was addicting to see the streak continue to grow. It was most of the time not too hard to code something that could be committed every day. Most days it was a breeze. Some days it wasn’t.
 
@@ -47,9 +47,9 @@ After three weeks I was _hooked_. It was addicting to see the streak continue to
 
 Like i mentioned it often was quite easy to keep going. Most days. Some days I almost forgot to commit, only saved by some random internal reminder at the very end of the day. Some days i dreaded the fact that I _had_ to code. Some days I knew in advanced would require some planning; the days that were basically packed with “mandatory” things. I could often do some testing and submit an issue, I usually had time for that at some point during the day.
 
-But the thing that really held me going on was a commitment i made. After I had decided that I wanted a decent streak, I made a commitment to myself that I would sit down and code every single day. This strong internal promise I had made to myself was what I needed to do this. It helped me remind myself, it told me when I didn&#8217;t really feel like coding that I had **promised**. So I kept going.
+But the thing that really held me going on was a commitment i made. After I had decided that I wanted a decent streak, I made a commitment to myself that I would sit down and code every single day. This strong internal promise I had made to myself was what I needed to do this. It helped me remind myself, it told me when I didn't really feel like coding that I had **promised**. So I kept going.
 
-For some people sticking with stuff is easy. If that&#8217;s you, great! Myself, I need a little push sometimes. It&#8217;s important for most people to have something to drive yourself to do what you want. A strong internal promise and commitment might be what you need.
+For some people sticking with stuff is easy. If that's you, great! Myself, I need a little push sometimes. It's important for most people to have something to drive yourself to do what you want. A strong internal promise and commitment might be what you need.
 
 &nbsp;
 

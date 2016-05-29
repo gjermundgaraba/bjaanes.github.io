@@ -32,11 +32,11 @@ It can be anything from blog posts and software tools to books and techniques.
 <!--more-->
 This month I have a couple of resources I think you might really benefit from. One is a developer resource that any web developer should be familiar with, the other an aid for your mind.
 
-I hope you enjoy this month&#8217;s picks!
+I hope you enjoy this month's picks!
 
 &nbsp;
 
-# #1 MDN &#8211; Mozilla Developer Network
+# #1 MDN - Mozilla Developer Network
 
 MDN is a great site for all things web documentation. MDN is one of the sites that usually comes up when you google for html, css or javascript stuff. They are a much more open and comprehensive resource than their counterpart w3schools.
 
@@ -70,7 +70,7 @@ He also made a page for this particular talk that you can check out here:
 
 During the talk, Igor recommends an app called Headspace. Headspace has guided meditations that are really great.
 
-Headspace help you understand the concepts of meditation and mindfullness in a very smooth way. It&#8217;s mostly practical, but you gain some insight into the general practice as well, which is nice.
+Headspace help you understand the concepts of meditation and mindfullness in a very smooth way. It's mostly practical, but you gain some insight into the general practice as well, which is nice.
 
 They have a huge library of guided (and un-guided) meditations that help you every step of the way. You can get started without knowing anything about the processes.
 
@@ -82,13 +82,13 @@ They also provide a 10-day free trail where you can do a 10-day start course to 
   <a href="http://maximumdeveloper.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png"><img class=" wp-image-268" src="http://maximumdeveloper.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png" alt="Headspace - Gym Membership for your Mind" width="633" height="269" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png 800w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20-300x128.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20-600x255.png 600w" sizes="(max-width: 633px) 100vw, 633px" /></a>
   
   <p class="wp-caption-text">
-    Headspace &#8211; Gym Membership for your Mind
+    Headspace - Gym Membership for your Mind
   </p>
 </div>
 
 &nbsp;
 
-Take a look at Headspace&#8217;s website:
+Take a look at Headspace's website:
   
 <a href="https://www.headspace.com/" target="_blank">https://www.headspace.com/</a>
 

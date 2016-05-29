@@ -50,21 +50,21 @@ With this in mind, I am thinking of myself as starting from scratch. I have neve
 
 &nbsp;
 
-# My Angle &#8211; Back to basics
+# My Angle - Back to basics
 
 Even though I haven’t really done Web Development in many years, I have picked up some things about the current ways of things. I have heard lots about Javascript Frameworks, backend and many cool projects floating around the Open Source scene.
 
 However, I am going to start with the basics first. I want to start as a real beginner. I don’t want old knowledge get in the way of learning how things are done now. I am sure they are quite different! **I am going to learn HTML and CSS first.**
 
-I want to be able to make some static web pages that looks OK. Later, I&#8217;ll assess all the possibilities in frameworks, backend solutions and all that stuff. I haven’t really decided all the steps yet, but I know where I am going to start.
+I want to be able to make some static web pages that looks OK. Later, I'll assess all the possibilities in frameworks, backend solutions and all that stuff. I haven’t really decided all the steps yet, but I know where I am going to start.
 
-I have some courses on Udemy.com that I picked up really cheap a little while a go that I am going to try. My first step is going to do a course called &#8220;<a href="https://www.udemy.com/learn-to-build-beautiful-html5-and-css3-websites-in-1-month/" target="_blank">Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Month</a>”. It’s seems to capture my intent pretty well. I don&#8217;t know if its any good, but I&#8217;ll try it out and let you know what I learn.
+I have some courses on Udemy.com that I picked up really cheap a little while a go that I am going to try. My first step is going to do a course called "<a href="https://www.udemy.com/learn-to-build-beautiful-html5-and-css3-websites-in-1-month/" target="_blank">Learn To Build Beautiful HTML5 And CSS3 Websites In 1 Month</a>”. It’s seems to capture my intent pretty well. I don't know if its any good, but I'll try it out and let you know what I learn.
 
 &nbsp;
 
-# The Journey &#8211; Visualized
+# The Journey - Visualized
 
-I have a visual aid to help show where I am currently at in my journey. I have created a &#8220;prezi&#8221; presentation to visualize my path more clearly. It will be updated through the course of this series &#8211; so it might be longer than the current post you are reading.
+I have a visual aid to help show where I am currently at in my journey. I have created a "prezi" presentation to visualize my path more clearly. It will be updated through the course of this series - so it might be longer than the current post you are reading.
   
 <!-- Generated using Prezi Embedder. Get yours here: http://wordpress.org/plugins/prezi-embedder/ --> .
 

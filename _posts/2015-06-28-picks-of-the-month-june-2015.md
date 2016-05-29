@@ -48,15 +48,15 @@ I wrote a little post about why should be standing more, take a read if you are 
   
 <a href="http://maximumdeveloper.com/why-its-so-important-to-stand-up/" target="_blank">Why it’s so important to stand up</a>
 
-# #2 Blogpost: &#8220;We have a problem with promises&#8221; by Nolan Lawson
+# #2 Blogpost: "We have a problem with promises" by Nolan Lawson
 
-I have used promises quite much for a while now, but I didn&#8217;t use their true potential (I didn’t even know). From this blog post I learned how to write cleaner and more powerful promise based code in Angular (and really everywhere else too).
+I have used promises quite much for a while now, but I didn't use their true potential (I didn’t even know). From this blog post I learned how to write cleaner and more powerful promise based code in Angular (and really everywhere else too).
 
 The blog post about really helped me understand how to properly promises them.
 
 If you deal with promises at all, I really recommend that you read this great article:
   
-<a href="http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html?utm_source=javascriptweekly&utm_medium=email" target="_blank">&#8220;We have a problem with promises&#8221; by Nolan Lawson</a>
+<a href="http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html?utm_source=javascriptweekly&utm_medium=email" target="_blank">"We have a problem with promises" by Nolan Lawson</a>
 
 &nbsp;
 

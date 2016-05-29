@@ -34,7 +34,7 @@ I still use IntelliJ as my IDE, and it happens to work perfectly on Linux (thank
 
 &nbsp;
 
-As a bonus, I learn more about Linux while using it. I feel like it&#8217;s more worthwhile to be good in Linux than in any other OS. I am also much more comfortable logging into deployed servers to fix stuff now.
+As a bonus, I learn more about Linux while using it. I feel like it's more worthwhile to be good in Linux than in any other OS. I am also much more comfortable logging into deployed servers to fix stuff now.
 
 &nbsp;
 
@@ -50,7 +50,7 @@ I still do actually, and I wrote about not feeling like you have the time to do 
 
 To combat this feeling, I figured that I needed to actually do something for my own pure enjoyment.
 
-Not feeling like I needed to achieve something big for a few hours. And as such I bought PS4 with a couple of games (Far Cry 4 and Metro Redux &#8211; both great games!).
+Not feeling like I needed to achieve something big for a few hours. And as such I bought PS4 with a couple of games (Far Cry 4 and Metro Redux - both great games!).
 
 &nbsp;
 

@@ -27,7 +27,7 @@ I am not going to try to convince you that I have found the best solutions to th
 
 # Take some time off
 
-Of course&#8230;
+Of course...
 
 &nbsp;
 
@@ -49,9 +49,9 @@ Of course. I had to go there, right?
 
 But I am very serious about this one. If you can take a proper workout one or two times a week, it will benefit you a lot.
 
-It&#8217;s feels like a refill. I go into the gym feeling drained with low energy. I go out of the gym feeling energized and ready tackle new problems. And it keeps me going for several days.
+It's feels like a refill. I go into the gym feeling drained with low energy. I go out of the gym feeling energized and ready tackle new problems. And it keeps me going for several days.
 
-If you can just go for a run a couple of times (or more&#8230;) a week, you will not regret it. And you do have time for that. If not, take time for it &#8211; because it will enable you to be able to work more efficiently.
+If you can just go for a run a couple of times (or more...) a week, you will not regret it. And you do have time for that. If not, take time for it - because it will enable you to be able to work more efficiently.
 
 &nbsp;
 
@@ -79,7 +79,7 @@ This is neat little trick when you are starting to feel overwhelmed.
 
 Take a step back, close your eyes and take a few really slow breaths. In through your nose and out through your mouth.
 
-You&#8217;ll feel calmer right away, and hopefully more able to deal with all those things going on.
+You'll feel calmer right away, and hopefully more able to deal with all those things going on.
 
 If you are having something that starts to look like panic attacks, take a look at 4-7-8 breath exercise (I recommend looking at this even if you are not having panic attacks!):
   

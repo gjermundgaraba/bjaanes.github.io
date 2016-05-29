@@ -38,7 +38,7 @@ You also need a message broker to control the flow of all these messages. It’s
 
 [<img class="alignnone wp-image-395" src="http://gjermundbjaanes.com/wp-content/uploads/2015/10/Document_2015-10-04_11-36-38-1-.png" alt="MQTT logo" width="505" height="390" />](http://gjermundbjaanes.com/wp-content/uploads/2015/10/Document_2015-10-04_11-36-38-1-.png)
 
-For instance, let say you have a temperature sensor device publishing on “/temperature/kitchen”. Every minute, the temperature sends out a message on &#8220;/temperature/kitchen&#8221; with the current temperature. The broker gets that messages and sends out two messages to it’s two subscribers. One log server that saves the temperature for historical view and a light bulb that shows a different hue depending on the temperature it receives (e.g. red for hot, blue for cold).
+For instance, let say you have a temperature sensor device publishing on “/temperature/kitchen”. Every minute, the temperature sends out a message on "/temperature/kitchen" with the current temperature. The broker gets that messages and sends out two messages to it’s two subscribers. One log server that saves the temperature for historical view and a light bulb that shows a different hue depending on the temperature it receives (e.g. red for hot, blue for cold).
 
 &nbsp;
 
@@ -46,7 +46,7 @@ For instance, let say you have a temperature sensor device publishing on “/tem
 
 I am planning on using a first-generation Raspberry Pi as my MQTT broker, and Raspberry Pi 2 for a small multipurpose data server (storing, viewing, statistics, etc.).
 
-I will be using Arduino somehow for the sensor devices, but I haven’t figured out how to create small permanent devices with Arduino yet. I&#8217;ll figure that out later!
+I will be using Arduino somehow for the sensor devices, but I haven’t figured out how to create small permanent devices with Arduino yet. I'll figure that out later!
 
 I highly recommend that you spend some time learning this technology, because it seems to be one of the cornerstones of this particular field. I watched this talk about MQTT, which even have a live demo:
 
@@ -58,7 +58,7 @@ I highly recommend that you spend some time learning this technology, because it
 
 # Buying
 
-I have bought a lot of stuff the last weeks. I went absolutely nuts on eBay and few electronic shops. I bought soldering tools, sensors, breadboards, wires, capacitors, resistors, storage boxes and some stuff to try to make my own small permanent Arduino device (we&#8217;ll see how that goes!).
+I have bought a lot of stuff the last weeks. I went absolutely nuts on eBay and few electronic shops. I bought soldering tools, sensors, breadboards, wires, capacitors, resistors, storage boxes and some stuff to try to make my own small permanent Arduino device (we'll see how that goes!).
 
 [<img class="alignnone wp-image-397" src="http://gjermundbjaanes.com/wp-content/uploads/2015/10/IMG_0510.jpg" alt="Stuff bought" width="428" height="321" />](http://gjermundbjaanes.com/wp-content/uploads/2015/10/IMG_0510.jpg)
 

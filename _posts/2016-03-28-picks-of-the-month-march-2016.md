@@ -26,7 +26,7 @@ It can be anything from blog posts and software tools to books and techniques.
 
 Since I have been playing with hardware a lot during Easter vacation, my desk has been more and more messy.
 
-Cables, Raspberry PI&#8217;s, phone, tablet, memory cards, etc, etc. Just a bunch of stuff I &#8220;need&#8221; to have there all the time.
+Cables, Raspberry PI's, phone, tablet, memory cards, etc, etc. Just a bunch of stuff I "need" to have there all the time.
 
 Or not. I found myself less and less inclined to sit down at my messy desk. So I finally cleaned it, and my work actually sped up a lot!
 
@@ -48,13 +48,13 @@ I used to get a lot of trouble with my arms and hands after working for longer p
 
 I felt carpel tunnel syndrome creeping up on me.
 
-Luckily, I found a keyboard and mouse that works wonders for me: Microsoft&#8217;s Sculpt Ergonomic Keyboard and Mouse.
+Luckily, I found a keyboard and mouse that works wonders for me: Microsoft's Sculpt Ergonomic Keyboard and Mouse.
 
 <a href="http://gjermundbjaanes.com/wp-content/uploads/2016/03/keyboardmouse.jpg" rel="attachment wp-att-649"><img class="alignnone wp-image-649" src="http://gjermundbjaanes.com/wp-content/uploads/2016/03/keyboardmouse.jpg" alt="Sculpt Ergonomic Desktop" width="500" height="276" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/03/keyboardmouse.jpg 780w, http://gjermundbjaanes.com/wp-content/uploads/2016/03/keyboardmouse-768x423.jpg 768w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 &nbsp;
 
-It takes a bit of time to get used to, but it feels very natural to use after a short while. And my arms doesn&#8217;t hurt anymore!
+It takes a bit of time to get used to, but it feels very natural to use after a short while. And my arms doesn't hurt anymore!
 
 <a href="https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001" target="_blank">https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001</a>
 

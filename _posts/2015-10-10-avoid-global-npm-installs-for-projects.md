@@ -34,7 +34,7 @@ There is a much better way that don’t require as much set up for a new dev env
 
 What if you could just use npm for everything? The only thing you really need is node and npm (which usually comes with node.js anyways). The great answer here is npm scripts.
 
-I have recently moved gulp, karma and protractor away from my required installs in my <a href="https://github.com/bjaanes/ExtremeResults-WebApp" target="_blank">Extreme Results</a> app (which I wrote about here: <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">Learning Web Dev Series – Part 5: Extreme Results</a>). These things are now provided when running &#8220;npm install”.
+I have recently moved gulp, karma and protractor away from my required installs in my <a href="https://github.com/bjaanes/ExtremeResults-WebApp" target="_blank">Extreme Results</a> app (which I wrote about here: <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">Learning Web Dev Series – Part 5: Extreme Results</a>). These things are now provided when running "npm install”.
 
 The way to still be able to run all your gulp tasks and whatnot, is by using npm scripts. For example, instead of doing
 
@@ -62,7 +62,7 @@ Easy and nice!
 
 &nbsp;
 
-Npm has a couple of script names that can be used without writing &#8220;run&#8221; in front of them, like start and test. For other words, you have to do it like this:
+Npm has a couple of script names that can be used without writing "run" in front of them, like start and test. For other words, you have to do it like this:
 
 <pre class="lang:default decode:true">npm run script_name</pre>
 

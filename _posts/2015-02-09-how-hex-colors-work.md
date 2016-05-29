@@ -35,7 +35,7 @@ What color is #AA3939 or #888888 and why is that combination giving the color th
 Well, it’s not magic, nor is it randomly picked values that correspond to colors. 
 
 <!--more-->
-It&#8217;s actually a pretty simple and logical system. The only thing you have to really learn is how the hexadecimal number system work.
+It's actually a pretty simple and logical system. The only thing you have to really learn is how the hexadecimal number system work.
 
 &nbsp;
 
@@ -143,7 +143,7 @@ A hex color is made up of three parts that represent the amount of Red, Green an
 
 &nbsp;
 
-Knowing this, you can now specify the amount of red, green and blue in a color. Since there are two hex numbers for each color, you can have 0 amount of a color (00), all the way up to 255 (FF). Using this system, we can specify a large number of different colors, using the amount of red, green and blue (255\*255\*255=16 581 375 &#8211; to be exact).
+Knowing this, you can now specify the amount of red, green and blue in a color. Since there are two hex numbers for each color, you can have 0 amount of a color (00), all the way up to 255 (FF). Using this system, we can specify a large number of different colors, using the amount of red, green and blue (255\*255\*255=16 581 375 - to be exact).
 
 _Examples:_
   
@@ -151,7 +151,7 @@ _Examples:_
 
 **Black** is when there are no amount of any of the colors. #000000
 
-**Shades of grey** can be done like this: #111111 (very dark grey &#8211; almost black). #CCCCCC (very light grey)
+**Shades of grey** can be done like this: #111111 (very dark grey - almost black). #CCCCCC (very light grey)
 
 &nbsp;
 

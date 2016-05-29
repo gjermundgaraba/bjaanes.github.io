@@ -48,7 +48,7 @@ At least that is what I call it, because it feels like big bump in the road.
 
 &nbsp;
 
-It’s one of those things that are incredibly frustrating and difficult to deal with. It&#8217;s just in your way!
+It’s one of those things that are incredibly frustrating and difficult to deal with. It's just in your way!
 
 You might even get angry (I certainly do sometimes).
 
@@ -108,7 +108,7 @@ _Do not quit right away._
 
 Don’t quit the moment you feel like things are going slow (or not going at all). Most of the time, this is exactly when you need to continue.
 
-Perseverance really is key to the maximum developer, and it still is the fact when what you really need is a break. It&#8217;s just that you need to hit the reset button to be the most productive. It&#8217;s not point going on forever killing yourself, when a short break might be more efficient.
+Perseverance really is key to the maximum developer, and it still is the fact when what you really need is a break. It's just that you need to hit the reset button to be the most productive. It's not point going on forever killing yourself, when a short break might be more efficient.
 
 &nbsp;
 
@@ -118,7 +118,7 @@ You need to get to know yourself. You need to learn when to stop for a bit, and 
 
 &nbsp;
 
-However, when your mind is not capable anymore, and everything seems hopeless &#8211; get some space. Preferably some head space with meditation and mindfulness (it that is your cup of tea).
+However, when your mind is not capable anymore, and everything seems hopeless - get some space. Preferably some head space with meditation and mindfulness (it that is your cup of tea).
 
 There is nothing new about this at all. I have practiced these extremely simple techniques for as long as I can remember, but sometimes I have to be reminded about them.
 

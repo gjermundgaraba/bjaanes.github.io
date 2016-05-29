@@ -21,7 +21,7 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
-First &#8220;picks of the month&#8221; this year!
+First "picks of the month" this year!
 
 This month I have a few new obsessions of mine to share.
 
@@ -45,11 +45,11 @@ I look forward to having a bunch of these connected around in my home, being jus
 
 We recently had a bunch of snow fall at home, and since running outside in a bunch of snow is completely out of the question for me, I turned to Cross-Country Skiing.
 
-Turns out, it&#8217;s super fun!
+Turns out, it's super fun!
 
 I have skied before, but it was almost 10 years ago, and probably not voluntarily.
 
-After a couple of clumsy runs on the local ski track, I can finally get around at a pretty OK pace. It&#8217;s still not Petter Northug or Therese Johaug, but it&#8217;s enough to get me out of breath.
+After a couple of clumsy runs on the local ski track, I can finally get around at a pretty OK pace. It's still not Petter Northug or Therese Johaug, but it's enough to get me out of breath.
 
 So, if you have snow, and want a fun way to exercise: try Cross-Country Skiing.
 
@@ -67,7 +67,7 @@ I wanted to try something else again. So I went and bought myself Nexus 5X.
 
 I have previously been very happy with the Nexus devices, and this time was no different.
 
-I can&#8217;t stand the bloated Samsung and other devices like that &#8211; I want my Android plain and nice, without all the extra &#8220;software&#8221; the other vendors insist on putting on their phones.
+I can't stand the bloated Samsung and other devices like that - I want my Android plain and nice, without all the extra "software" the other vendors insist on putting on their phones.
 
 What you get with the Nexus devices is simple: Pure Android, they way it was intended by Google.
 
@@ -75,7 +75,7 @@ What you get with the Nexus devices is simple: Pure Android, they way it was int
 
 The price is very much right for this phone. It costs almost half of the newest iPhone, and it only feels slightly cheaper. It feels just as fast and responsive, and I have yet to miss anything from Apple land. Very much value for you money.
 
-The fingerprint reader is much faster, and more ergonomically placed than on my old iPhone 6. I can actually use it without it being &#8220;in the way&#8221;.
+The fingerprint reader is much faster, and more ergonomically placed than on my old iPhone 6. I can actually use it without it being "in the way".
 
 The battery life is not ideal. It certainly lasts the day, but I would be more comfortable if the battery lasted at least two days (which my iPhone 6 never did either).
 

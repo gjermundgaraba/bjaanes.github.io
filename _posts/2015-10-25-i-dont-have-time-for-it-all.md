@@ -35,15 +35,15 @@ I want to do so many things, but the time is just never there. It always falls s
 
 How can I deal with this? Should I sleep less? Be more productive? Do less? Strive for less?
 
-How this actually works is that I have to choose every day which things I can do. And it never feels right to down-prioritize something. I just don&#8217;t like it. But if I didn&#8217;t, something important would end up not getting done.
+How this actually works is that I have to choose every day which things I can do. And it never feels right to down-prioritize something. I just don't like it. But if I didn't, something important would end up not getting done.
 
 Not having time to do all the things you want to do is extremely frustrating. I also think it is very human to want to do more than you can ever realize.
 
-The only thing I can really do is to prioritize, stay productive (facebook, away!), and try to feel good about it all. The last part is actually the most difficult part of it all. Feeling good about not doing something I want to doesn&#8217;t come naturally to me. So I have to practice that. Practice feeling fine with all the things I never get to do.
+The only thing I can really do is to prioritize, stay productive (facebook, away!), and try to feel good about it all. The last part is actually the most difficult part of it all. Feeling good about not doing something I want to doesn't come naturally to me. So I have to practice that. Practice feeling fine with all the things I never get to do.
 
 &nbsp;
 
-# Possible &#8220;solution&#8221;: Agile Results
+# Possible "solution": Agile Results
 
 I use a productivity system called Agile Results. It actually helps out quite a bit with this. It forces you focus and prioritize what things you want to achieve for the day. You have to pick three really important things every day. It is a great way to remove clutter and get important things done.
 

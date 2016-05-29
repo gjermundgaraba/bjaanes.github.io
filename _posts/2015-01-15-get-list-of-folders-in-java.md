@@ -30,7 +30,7 @@ tags:
 If you need to list only the folders in some directory (and not folders AND files), that can be done without too much effort in Java.
 
 <!--more-->
-The key is use File&#8217;s listFiles with a FileFilter:
+The key is use File's listFiles with a FileFilter:
 
 <pre class="nums:false lang:default decode:true">public File[] listFiles(FileFilter filter)</pre>
 
@@ -42,7 +42,7 @@ You can create an anonymous class like this to pass to your File object.
     }
 };</pre>
 
-When you now call listFiles with the &#8220;directoryFileFilter&#8221;, you will get a list of the folders inside your File object.
+When you now call listFiles with the "directoryFileFilter", you will get a list of the folders inside your File object.
 
 <pre class="lang:java decode:true">File directory = new File("/some/directory/");
 directory.listFiles(directoryFileFilter);</pre>

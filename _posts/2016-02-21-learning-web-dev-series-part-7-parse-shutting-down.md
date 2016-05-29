@@ -110,7 +110,7 @@ With the following pros and cons in mind:
 
 &nbsp;
 
-I chose **option #3** &#8211; creating my own server from scratch.
+I chose **option #3** - creating my own server from scratch.
 
 The pro I weighted most was the possibility to learn new stuff. It was just too good an opportunity to pass on.
 

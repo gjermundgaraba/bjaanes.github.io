@@ -25,12 +25,12 @@ categories:
 tags:
   - Book review
 ---
-This is a book review of the book &#8220;Soft Skills: The software developer&#8217;s life manual&#8221; by John Sonmez.
+This is a book review of the book "Soft Skills: The software developer's life manual" by John Sonmez.
 
 <!--more-->
 # What is soft skills?
 
-Soft skills are basically the non-techical skills you need to be successful in your career and life in general. Personal traits, people skills, habits, and everything else that you need to get a job, and to keep it. There are many articles and books available about this topic, but none that specifically targets the modern software developer. At least it didn’t used to be. Thats where &#8220;Soft Skills: The software developer&#8217;s life manual” by John Sonmez come into play.
+Soft skills are basically the non-techical skills you need to be successful in your career and life in general. Personal traits, people skills, habits, and everything else that you need to get a job, and to keep it. There are many articles and books available about this topic, but none that specifically targets the modern software developer. At least it didn’t used to be. Thats where "Soft Skills: The software developer's life manual” by John Sonmez come into play.
 
 John Sonmez is the founder of the amazing blog “Simple Programmer” (www.simpleprogrammer.com), and is also involved in many different endeavours (like podcasts, development, speaking etc). He has a long track record of showing people how to get their dream job and in general get ahead in life. His blog is full of this stuff.
 
@@ -66,7 +66,7 @@ How to learn yourself things. He covers his 10-step program for learning new tec
 
 ## Productivity
 
-This is a big one for me. I love productivity. However I felt like this chapter wasn&#8217;t enough for me. But that is probably because I have studied this field on my own for a long time. That said, John really touches on some extremely important topics like focus and reasons to why you aren’t really productive (and where you are waisting your time). It’s a great primer for the productivity beginner/intermediate, while also giving some real techniques that you can apply for yourself.
+This is a big one for me. I love productivity. However I felt like this chapter wasn't enough for me. But that is probably because I have studied this field on my own for a long time. That said, John really touches on some extremely important topics like focus and reasons to why you aren’t really productive (and where you are waisting your time). It’s a great primer for the productivity beginner/intermediate, while also giving some real techniques that you can apply for yourself.
 
 ## Financial
 

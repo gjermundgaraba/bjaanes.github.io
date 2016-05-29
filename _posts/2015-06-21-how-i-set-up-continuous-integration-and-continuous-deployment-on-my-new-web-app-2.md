@@ -70,7 +70,7 @@ It does some setup so that I can run Firefox (for tests), but the thing I had to
 
 ## Protractor
 
-I have set up Travis to run protractor as well. The most important parts of the script for this is the &#8220;gulp > /dev/null &&#8221; which builds the project and start a local web server (it might be done a different way for you).
+I have set up Travis to run protractor as well. The most important parts of the script for this is the "gulp > /dev/null &" which builds the project and start a local web server (it might be done a different way for you).
 
 In my case the default gulp task starts a web server locally at port 8080. I then have a param in my protractor.conf.js file like this:
 
@@ -109,7 +109,7 @@ Feel free to use my travis script, it was taken from the angular seed project:
 
 # Continuous Deployment with dploy
 
-I wanted my code to be pushed to a DigitalOcean droplet. The reason for that is because DigitalOcean is what I use to do these sort of things. It&#8217;s also very cheap and easy to set up some droplets/vps for basically anything.
+I wanted my code to be pushed to a DigitalOcean droplet. The reason for that is because DigitalOcean is what I use to do these sort of things. It's also very cheap and easy to set up some droplets/vps for basically anything.
 
 I started out by creating my account and connecting to GitHub and DigitalOcean.
 

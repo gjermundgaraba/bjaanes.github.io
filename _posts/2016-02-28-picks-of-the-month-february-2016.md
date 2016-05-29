@@ -49,7 +49,7 @@ If you want to have a look at what you can buy, take a look here:
 
 I <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-7-parse-shutting-down/" target="_blank">recently wrote about the fact that Parse was shutting down</a> and that I am writing the back-end for Extreme Results with Node.js and Express.
 
-It has been such a great experience that I wanted to pick them both. It&#8217;s so easy to write the API endpoints with great test coverage.
+It has been such a great experience that I wanted to pick them both. It's so easy to write the API endpoints with great test coverage.
 
 The speed of development is also really fast. I can write a couple of new endpoints with a bunch of tests within the boundaries of a short evening.
 
@@ -65,13 +65,13 @@ Take a look at the blog post where I explain what I am doing with Node.js and Ex
 
 <a href="http://gjermundbjaanes.com/wp-content/uploads/2016/02/pocket-logo.png" rel="attachment wp-att-607"><img class="alignnone  wp-image-607" src="http://gjermundbjaanes.com/wp-content/uploads/2016/02/pocket-logo.png" alt="pocket logo" width="485" height="124" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/02/pocket-logo.png 1103w, http://gjermundbjaanes.com/wp-content/uploads/2016/02/pocket-logo-768x196.png 768w" sizes="(max-width: 485px) 100vw, 485px" /></a>
 
-Pocket was previously called &#8220;Read it Later&#8221; which in my opinion is a better and more descriptive name. It&#8217;s all about saving stuff for reading later. It has several other features, but none that I actually care that much about.
+Pocket was previously called "Read it Later" which in my opinion is a better and more descriptive name. It's all about saving stuff for reading later. It has several other features, but none that I actually care that much about.
 
 All I use it for is to save things to read it later.
 
 &nbsp;
 
-During the day, whenever I stumble over something I want to read, but don&#8217;t have time for right away, I just save to Pocket.
+During the day, whenever I stumble over something I want to read, but don't have time for right away, I just save to Pocket.
 
 Then I can pick it up and read it whenever I feel like it (on my computer, phone or tablet).
 

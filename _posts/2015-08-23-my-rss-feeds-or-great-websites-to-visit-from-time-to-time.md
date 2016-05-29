@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-RSS is a fantastic way to keep current with lots of different sources, without the hassle of going through a bunch of sites every day. You make sure you never miss something important. It&#8217;s a huge help for me when trying to stay up to date all the time (especially on web development, which we all know is moving extremely fast).
+RSS is a fantastic way to keep current with lots of different sources, without the hassle of going through a bunch of sites every day. You make sure you never miss something important. It's a huge help for me when trying to stay up to date all the time (especially on web development, which we all know is moving extremely fast).
 
 <!--more-->
 I wanted to share the list of all my current RSS feeds I follow. I really want to keep this list up to date, so I will try my very best to keep it current at all times.
@@ -46,7 +46,7 @@ I like to sprinkle in some deep and reflective stuff in my feed list. It gets bo
 
 ### 99U
 
-99U provides short but sweet articles about inspiration and creativity. Doesn&#8217;t take much time to read, but the articles provide great value and are well written.
+99U provides short but sweet articles about inspiration and creativity. Doesn't take much time to read, but the articles provide great value and are well written.
 
 Website: <a href="http://99u.com/" target="_blank">http://99u.com/</a>
 
@@ -64,9 +64,9 @@ Feed: http://www.fundamentalprogrammer.com/feed/
 
 &nbsp;
 
-### J.D. Meier&#8217;s Blog
+### J.D. Meier's Blog
 
-J.D. Meier is the author of the fantastic book &#8216;Getting Results the Agile Way&#8217;. The very same book I am basing one of my new apps on (which I wrote about a little here: [Extreme Results](http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/))
+J.D. Meier is the author of the fantastic book &#8216;Getting Results the Agile Way'. The very same book I am basing one of my new apps on (which I wrote about a little here: [Extreme Results](http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/))
 
 Meier posts inspirational and productivity-centered posts.
 
@@ -150,7 +150,7 @@ Feed: https://adactio.com/articles/rss
 
 Great site by Chris Coyier. He is a resourceful guy that also has a great podcast called ShopTalk, and he is the creator of CodePen.
 
-Despite it&#8217;s name, CSS-Tricks is not JUST about CSS. It&#8217;s about Web Development and Design in general.
+Despite it's name, CSS-Tricks is not JUST about CSS. It's about Web Development and Design in general.
 
 Website: <a href="https://css-tricks.com" target="_blank">https://css-tricks.com</a>
 
@@ -160,7 +160,7 @@ Feed: http://feeds.feedburner.com/CssTricks
 
 ### David Walsh Blog
 
-David Walsh is a Senior Web Developer at Mozilla and he provides a lot of great tips through his blog. It&#8217;s very neatly written and provides short and great learnings.
+David Walsh is a Senior Web Developer at Mozilla and he provides a lot of great tips through his blog. It's very neatly written and provides short and great learnings.
 
 Website: <a href="http://davidwalsh.name/" target="_blank">http://davidwalsh.name/</a>
 
@@ -170,7 +170,7 @@ Feed: http://davidwalsh.name/feed
 
 ### Inspect Element (articles)
 
-All about design. Written by Tom Kenny. I especially love his &#8216;Learn from Great Design&#8217; articles where he goes through some web site and showcases why the design just works.
+All about design. Written by Tom Kenny. I especially love his &#8216;Learn from Great Design' articles where he goes through some web site and showcases why the design just works.
 
 Website: <a href="http://inspectelement.com/" target="_blank">http://inspectelement.com/</a>
 
@@ -178,11 +178,11 @@ Feed: http://inspectelement.com/feed/
 
 &nbsp;
 
-### Joel Glovier&#8217;s Blog
+### Joel Glovier's Blog
 
-Joel Glovier&#8217;s Blog. He works at Github.
+Joel Glovier's Blog. He works at Github.
 
-Posts about many different things, mostly about creative stuff. It&#8217;s his personal blog, so I guess it will be about anything he wants 🙂
+Posts about many different things, mostly about creative stuff. It's his personal blog, so I guess it will be about anything he wants 🙂
 
 Website: <a href="http://joelglovier.com/" target="_blank">http://joelglovier.com/</a>
 
@@ -204,7 +204,7 @@ Feed: http://feeds2.feedburner.com/onextrapixel
 
 Another design focused blog, written by Cedric Dugas.
 
-In it&#8217;s own words: &#8220;Thoughts about UX, front-end development & product management&#8221;
+In it's own words: "Thoughts about UX, front-end development & product management"
 
 Website: <a href="http://www.position-absolute.com/" target="_blank">http://www.position-absolute.com/</a>
 
@@ -214,7 +214,7 @@ Feed: http://feeds.feedburner.com/position-absolute/nyJv
 
 ### The Eisenberg Effect
 
-Rob Eisenberg&#8217;s blog. This guy has worked on many great frameworks. Recently he was working on Angular 2, before he went on to create another one of his own called Aurelia.
+Rob Eisenberg's blog. This guy has worked on many great frameworks. Recently he was working on Angular 2, before he went on to create another one of his own called Aurelia.
 
 Website: <a href="http://eisenbergeffect.bluespire.com/" target="_blank">http://eisenbergeffect.bluespire.com/</a>
 
@@ -250,7 +250,7 @@ Feed: http://feeds.feedburner.com/Viget
 
 Not my favorite resource, but they sure have some great tips about new tools.
 
-However, it&#8217;s often stuff like free WP-themes, free icon-packs and so on. Sometimes that&#8217;s nice too!
+However, it's often stuff like free WP-themes, free icon-packs and so on. Sometimes that's nice too!
 
 Website: <a href="http://www.webappers.com/" target="_blank">http://www.webappers.com/</a>
 
@@ -270,7 +270,7 @@ I am a Software Engineer, so this stuff really works for me.
 
 ### The Clean Code Blog
 
-From my favorite person in Software Development, Robert C. Martin (also known as Uncle Bob). He is the author of my favorite Software Development books: &#8216;Clean Code&#8217; and &#8216;The Clean Coder&#8217;. He write about my favorite Software Development topic too: Clean Code. I incidentally wrote a bit about just that a while ago: <a href="http://gjermundbjaanes.com/how-i-got-started-with-clean-code/" target="_blank">How I got started with Clean Code</a>.
+From my favorite person in Software Development, Robert C. Martin (also known as Uncle Bob). He is the author of my favorite Software Development books: &#8216;Clean Code' and &#8216;The Clean Coder'. He write about my favorite Software Development topic too: Clean Code. I incidentally wrote a bit about just that a while ago: <a href="http://gjermundbjaanes.com/how-i-got-started-with-clean-code/" target="_blank">How I got started with Clean Code</a>.
 
 I might be a bit of a fanboy, but this guy is just funny and seriously smart. Follow this blog.
 
@@ -290,7 +290,7 @@ Feed: http://martinfowler.com/feed.atom
 
 &nbsp;
 
-### Scott Hanselman&#8217;s Blog
+### Scott Hanselman's Blog
 
 Scott Hanselman is known for his great posts and all the great stuff he does (like his podcast Hanselminutes). Very likeable guy. Works at Microsoft.
 
@@ -304,7 +304,7 @@ Feed: http://feeds.hanselman.com/scotthanselman
 
 ### yegor256.com
 
-Yegor Bugayenko is seriously opinionated guy. Particularly about Object Oriented design. I don&#8217;t always agree with him, but his posts sure a great read. And they are very interesting as well.
+Yegor Bugayenko is seriously opinionated guy. Particularly about Object Oriented design. I don't always agree with him, but his posts sure a great read. And they are very interesting as well.
 
 Website: <a href="http://www.yegor256.com/" target="_blank">http://www.yegor256.com/</a>
 
@@ -324,7 +324,7 @@ Feed: http://feeds.feedburner.com/ThePassionateProgrammer
 
 ### Coding Horror
 
-Fantastic and funny blog by Jeff Atwood. This guy is one of the co-founder of freakin&#8217; Stack Overflow.
+Fantastic and funny blog by Jeff Atwood. This guy is one of the co-founder of freakin' Stack Overflow.
 
 Website: <a href="http://blog.codinghorror.com/" target="_blank">http://blog.codinghorror.com/</a>
 
@@ -334,7 +334,7 @@ Feed: http://blog.codinghorror.com/rss/
 
 ### Karoline Klever
 
-A Norwegian developer (that writes in English, don&#8217;t worry) that write honestly about her life as a developer and speaker.
+A Norwegian developer (that writes in English, don't worry) that write honestly about her life as a developer and speaker.
 
 Website: <a href="http://www.karolikl.com/" target="_blank">http://www.karolikl.com/</a>
 
@@ -344,7 +344,7 @@ Feed: http://www.karolikl.com/feeds/posts/default
 
 ### Bjorn Tipling
 
-Bjørn Tipling&#8217;s Blog. Some of my favorite posts this summer was from this guy. He wrote about the &#8216;this&#8217; keyword in Javascript in a way that made me understand (the post btw is here: <a href="http://bjorn.tipling.com/all-this" target="_blank">http://bjorn.tipling.com/all-this</a>)
+Bjørn Tipling's Blog. Some of my favorite posts this summer was from this guy. He wrote about the &#8216;this' keyword in Javascript in a way that made me understand (the post btw is here: <a href="http://bjorn.tipling.com/all-this" target="_blank">http://bjorn.tipling.com/all-this</a>)
 
 Website: <a href="http://bjorn.tipling.com/" target="_blank">http://bjorn.tipling.com/</a>
 
@@ -354,7 +354,7 @@ Feed: http://bjorn.tipling.com/feed
 
 ### Agile Jong
 
-Junilu Lacar is a nice guy that writes about Agile stuff and Java. Great reads coming from this guy&#8217;s blog!
+Junilu Lacar is a nice guy that writes about Agile stuff and Java. Great reads coming from this guy's blog!
 
 Website: <a href="http://agilejong.blogspot.no/" target="_blank">http://agilejong.blogspot.no/</a>
 
@@ -366,7 +366,7 @@ Feed: http://agilejong.blogspot.com/feeds/posts/default
 
 ## Other
 
-I don&#8217;t keep many feeds that are unrelated to development or productivity in some way, but there are a few. Under each one I&#8217;ll explain.
+I don't keep many feeds that are unrelated to development or productivity in some way, but there are a few. Under each one I'll explain.
 
 ### 
 
@@ -374,7 +374,7 @@ I don&#8217;t keep many feeds that are unrelated to development or productivity 
 
 I love Ubuntu and Linux (even though I am using almost exclusively Apple products right now). I like to keep current with what is happening in the Ubuntu Scene, so I like to get a couple of posts in my feed from OMG! Ubuntu! every once in a while.
 
-This is the only tech news site I keep here, because it&#8217;s the only one I don&#8217;t have bookmarked and visit often.
+This is the only tech news site I keep here, because it's the only one I don't have bookmarked and visit often.
 
 Website: <a href="http://www.omgubuntu.co.uk/" target="_blank">http://www.omgubuntu.co.uk/</a>
 
@@ -384,7 +384,7 @@ Feed: http://www.omgubuntu.co.uk/feed
 
 ### The Mozilla Blog
 
-I love Mozilla, so I need to get all my Mozilla news straight into my feed. It&#8217;s that simple.
+I love Mozilla, so I need to get all my Mozilla news straight into my feed. It's that simple.
 
 Website: <a href="https://blog.mozilla.org/" target="_blank">https://blog.mozilla.org/</a>
 

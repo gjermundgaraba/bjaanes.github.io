@@ -44,21 +44,21 @@ It was all because i sit in front of the computer, programming all day, every da
 
 &nbsp;
 
-It&#8217;s very important to take steps to fix the problem before it becomes a huge issue, where you can&#8217;t work at all. Nobody wants that.
+It's very important to take steps to fix the problem before it becomes a huge issue, where you can't work at all. Nobody wants that.
 
 &nbsp;
 
 # Stop!
 
-First things first, cut down on computer time and other activities that hurt your shoulder. I didn&#8217;t stop working (it&#8217;s my job after all), but I had to cut down on my own coding time.
+First things first, cut down on computer time and other activities that hurt your shoulder. I didn't stop working (it's my job after all), but I had to cut down on my own coding time.
 
-This certainly sucks, but until the problem is solved, you need to chill out for a while. I got better after a few weeks (but still working my day job &#8211; and some occasional coding at home).
+This certainly sucks, but until the problem is solved, you need to chill out for a while. I got better after a few weeks (but still working my day job - and some occasional coding at home).
 
 &nbsp;
 
 # Get moving!
 
-You need to exercise. Cardio that gets your arms moving. Walking, running, ellipse machine, etc. Biking won&#8217;t help much, because you need blood flowing to those inflamed shoulders.
+You need to exercise. Cardio that gets your arms moving. Walking, running, ellipse machine, etc. Biking won't help much, because you need blood flowing to those inflamed shoulders.
 
 If you can, try to do some very light strength exercises for your shoulders. Mostly rotator and supraspinatus exercise. For example, take a look here:
   
@@ -72,7 +72,7 @@ The most important thing is that is should NOT hurt. At all! The best thing you 
 
 When you do sit down and work, get up every 30 minutes or so and move around. Roll your shoulders and walk around. Get blood flowing.
 
-It&#8217;s also very beneficial for health and productivity, so thats good! I actually wrote a little bit about that recently: <a href="http://maximumdeveloper.com/why-its-so-important-to-stand-up/" target="_blank">Why it’s so important to stand up</a>
+It's also very beneficial for health and productivity, so thats good! I actually wrote a little bit about that recently: <a href="http://maximumdeveloper.com/why-its-so-important-to-stand-up/" target="_blank">Why it’s so important to stand up</a>
 
 &nbsp;
 
@@ -96,7 +96,7 @@ Read more about it here:
 
 # Take it seriously!
 
-Please, do not ignore your pain &#8211; shoulders or otherwise. Ignoring it will most certainly kick you hard in the teeth pretty soon. And it will _not_ be worth it!
+Please, do not ignore your pain - shoulders or otherwise. Ignoring it will most certainly kick you hard in the teeth pretty soon. And it will _not_ be worth it!
 
 Good luck!
 

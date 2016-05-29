@@ -30,7 +30,7 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
-This month&#8217;s picks are going to be a couple of things I have recently enjoyed quite a lot.
+This month's picks are going to be a couple of things I have recently enjoyed quite a lot.
 
 # #1 ng-conf 2015
 
@@ -40,7 +40,7 @@ If you are at all interested in AngularJS, i truly recommend taking the time to 
 
 I have learned a lot of stuff that I am going to get much use out of going forward with my Angular development.
 
-Go to <a href="http://www.ng-conf.org/" target="_blank">http://www.ng-conf.org/</a> and learn a ton about Angular as well as were it&#8217;s going!
+Go to <a href="http://www.ng-conf.org/" target="_blank">http://www.ng-conf.org/</a> and learn a ton about Angular as well as were it's going!
 
 &nbsp;
 
@@ -58,7 +58,7 @@ I have nothing to distract me, and that has been really great. It’s much easie
   
 <a href="http://maximumdeveloper.com/keep-your-life-and-code-clutter-free/" target="_blank">Keep your life (and code) clutter-free</a>
 
-The monitor is also insanely crisp and everything looks really vibrant on it. The resolution make it very easy to multitask. More pixels > more monitors. I also want a secondary 5K monitor now, because&#8230; Well, it would be awesome!
+The monitor is also insanely crisp and everything looks really vibrant on it. The resolution make it very easy to multitask. More pixels > more monitors. I also want a secondary 5K monitor now, because... Well, it would be awesome!
 
 &nbsp;
 

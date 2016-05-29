@@ -27,10 +27,10 @@ tags:
   - MaximumDeveloper
   - Programming
 ---
-I had always heard about writing good, clean and pretty code &#8211; but I never really understood what it meant. I knew it had something to do with readability. And possibly a profession pride thing, too.
+I had always heard about writing good, clean and pretty code - but I never really understood what it meant. I knew it had something to do with readability. And possibly a profession pride thing, too.
 
 <!--more-->
-Well, I was right, but it was more, and I did not know what it actually \*meant\* to write clean code &#8211; and how it affected the developers writing and _reading_ the code.
+Well, I was right, but it was more, and I did not know what it actually \*meant\* to write clean code - and how it affected the developers writing and _reading_ the code.
 
 I am not going to explain how to write clean code, because I am not a master at it. I want to teach it, but for now I will just share my starting point.
 
@@ -48,13 +48,13 @@ The first thing you need is the wish, the need, the desire to be great; a real c
 
 **You need to _want_ to write clean code.**
 
-If you don&#8217;t got that, it won&#8217;t matter. Your passion for the craft is going to drive your learning all the way. You won&#8217;t be compelled to write truly clean code if you don&#8217;t care about it.
+If you don't got that, it won't matter. Your passion for the craft is going to drive your learning all the way. You won't be compelled to write truly clean code if you don't care about it.
 
 &nbsp;
 
-# You need &#8220;The book&#8221;!
+# You need "The book"!
 
-The second thing you need is a book from Robert C. Martin (aka. Uncle Bob) called &#8220;Clean Code&#8221;:
+The second thing you need is a book from Robert C. Martin (aka. Uncle Bob) called "Clean Code":
 
 <a href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882</a>
 
@@ -68,9 +68,9 @@ I promise you, your code will become much better very quickly.
 
 &nbsp;
 
-I got this book a year ago, when I started working as a software engineer. It was the best training I could&#8217;ve hoped for.
+I got this book a year ago, when I started working as a software engineer. It was the best training I could've hoped for.
 
-&#8220;Clean Code&#8221; was a transforming book for me. It is without a doubt the single most influential book I have ever read on software development. If you start looking around, you will find that many others are also praising this book.
+"Clean Code" was a transforming book for me. It is without a doubt the single most influential book I have ever read on software development. If you start looking around, you will find that many others are also praising this book.
 
 &nbsp;
 
@@ -82,7 +82,7 @@ I am not paid or get anything from writing this. I wrote this, because I think e
 
 And one more time:
 
-**_Practice everything you learn from &#8220;Clean Code&#8221; in you every-day code_**.
+**_Practice everything you learn from "Clean Code" in you every-day code_**.
 
 It is how you learn, and how you become a clean code practitioner (aka. a professional).
 

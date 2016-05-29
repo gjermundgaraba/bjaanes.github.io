@@ -118,7 +118,7 @@ The important bits are:
 
 <pre class="lang:js decode:true"><span class="pl-k">var</span> common <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">Common</span>();</pre>
 
-Which both set up the required &#8216;common&#8217; module.
+Which both set up the required &#8216;common' module.
 
 But the real code is:
 

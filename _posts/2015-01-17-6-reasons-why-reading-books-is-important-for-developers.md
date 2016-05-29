@@ -33,7 +33,7 @@ I grew up reading a lot of books. My parents read to me before I could read myse
 
 &nbsp;
 
-After early school years I became “too busy” to read books. There was “important&#8221; gaming to be done, friends to hang with, girls to be chased. I think that might have been a bad move (not doing those things, just the stop reading part), because my writing got a lot worse. Even still, I am struggling a lot writing this blog post right now (and I am reading a lot more these days).
+After early school years I became “too busy” to read books. There was “important" gaming to be done, friends to hang with, girls to be chased. I think that might have been a bad move (not doing those things, just the stop reading part), because my writing got a lot worse. Even still, I am struggling a lot writing this blog post right now (and I am reading a lot more these days).
 
 &nbsp;
 
@@ -65,7 +65,7 @@ When you read a lot, you will also get better at it. You will pick up your pace 
 
 I touched on this already, but I find that writing is very tightly coupled with reading. Of course writing is the best practice for writing, but reading is a great way to push you literacy even further. You will learn new ways to express yourself properly, and that is key when you are a developer.
 
-You will not only get better at writing essays (because, how often do you really need that?), but also get better at writing well written code, emails, documentation, IM&#8217;s, etc.
+You will not only get better at writing essays (because, how often do you really need that?), but also get better at writing well written code, emails, documentation, IM's, etc.
 
 More on writing for Software Engineers in this great blog post: <a title="Software engineers should write by Shubhro Saha" href="http://www.shubhro.com/2014/12/27/software-engineers-should-write/" target="_blank">Software engineers should write by Shubhro Saha</a>
 
@@ -73,13 +73,13 @@ More on writing for Software Engineers in this great blog post: <a title="Softwa
 
 # 3. You’ll keep your mind sharp
 
-You&#8217;ll think a lot while reading. You have to keep parts of what you have read in memory, and recall information while reading. It’s a great way to do some real word brain-training.
+You'll think a lot while reading. You have to keep parts of what you have read in memory, and recall information while reading. It’s a great way to do some real word brain-training.
 
 &nbsp;
 
 # 4. You’ll acquire knowledge
 
-You&#8217;ll learn new concepts and ideas that will help you form a more nuanced look on the world. New knowledge can be used to tackle different situations in a better way. More knowledge is ALWAYS helpful for anyone. This alone is for me enough to pick up a book.
+You'll learn new concepts and ideas that will help you form a more nuanced look on the world. New knowledge can be used to tackle different situations in a better way. More knowledge is ALWAYS helpful for anyone. This alone is for me enough to pick up a book.
 
 &nbsp;
 

@@ -28,7 +28,7 @@ tags:
 ---
 This may be a personal opinion, but I believe that in order to keep your life running smoothly, it needs to be as free from clutter as possible. Clutter, in any form, is something that causes chaos and disorder. 
 
-Every ‘thing’ that surrounds us take some portion of our attention. Every &#8216;thing&#8217; demands attention.
+Every ‘thing’ that surrounds us take some portion of our attention. Every &#8216;thing' demands attention.
 
 <!--more-->
 This goes for everything. Crap laying around in our house. Crappy cluttered code. Things you have to remember all the time. Files scattered around your file system. They are all things that demand attention from you when you encounter them (or think about them).
@@ -65,7 +65,7 @@ Try to delete as much as humanly possible. You can back up some stuff on an exte
 
 This is not a one-off thing that you do. This is a very nice practice that will keep you productive and calm. Sit down and write down everything that you know you must do. Write down every idea that you have floating around in your memory. Get all your worries written down. If you keep all your thoughts in writing instead, you will free up your mind to do work and also to be more creative.
 
-You can come back to your thoughts you have written later. You don&#8217;t need to deal with it right now. But you know where they are and can feel safe that they won&#8217;t disappear.
+You can come back to your thoughts you have written later. You don't need to deal with it right now. But you know where they are and can feel safe that they won't disappear.
 
 Every time you think of something new you have to do, write it down immediately. Every time your think of some idea, stupid or not, write it down immediately. That way you won’t forget, and you keep your head clean.
 
@@ -73,7 +73,7 @@ Every time you think of something new you have to do, write it down immediately.
 
 # Then what?
 
-Take a breath. Close your eyes and feel the &#8216;zen&#8217; feeling coming over your. And then get your ass to work. Craft that beautiful code!
+Take a breath. Close your eyes and feel the &#8216;zen' feeling coming over your. And then get your ass to work. Craft that beautiful code!
 
 With life and mind clean and clutter-free, you can more easily focus on what you need and want to do. You can more easily get into the mindset of clean and clutter-free code. You can also feel good about relaxing, because everything is in order.
 

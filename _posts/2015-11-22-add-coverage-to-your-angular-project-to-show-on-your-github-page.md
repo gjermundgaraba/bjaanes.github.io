@@ -35,7 +35,7 @@ You need a couple of things for this guide to make any sense to you:
   * Project on GitHub
   * Project building and testing in Travis
 
-If you are missing any of these, don&#8217;t worry, it can be easily fixed.
+If you are missing any of these, don't worry, it can be easily fixed.
 
 In particular, if you are not building and testing in Travis, you can refer to my guide where I showed you how to set it up:
 
@@ -57,7 +57,7 @@ And now, it looks like this (with a couple of other badges as well):
 
 &nbsp;
 
-Take a look for yourself too, it&#8217;s pretty cool:
+Take a look for yourself too, it's pretty cool:
 
 <a href="https://github.com/bjaanes/ExtremeResults-WebApp" target="_blank">https://github.com/bjaanes/ExtremeResults-WebApp</a>
 
@@ -67,7 +67,7 @@ I had tried a couple of times previously to get this working, but I finally made
 
 The rest of this guide will tell you how to set up your project to give that great code coverage report to Codecov, and show it on your GitHub page.
 
-It&#8217;s surprisingly easy when you just know what to do (just like anything, I guess, but still).
+It's surprisingly easy when you just know what to do (just like anything, I guess, but still).
 
 &nbsp;
 
@@ -146,7 +146,7 @@ You just have to find a small snippet on Codecov.io under you project to add to 
 
 &nbsp;
 
-Open your project and click on the gears to the right on the page. Then select &#8220;Badge&#8221;.
+Open your project and click on the gears to the right on the page. Then select "Badge".
 
 [<img class="alignnone wp-image-468" src="http://gjermundbjaanes.com/wp-content/uploads/2015/11/Codecov-Badge.png" alt="Codecov Badge Screenshot" width="530" height="445" />](http://gjermundbjaanes.com/wp-content/uploads/2015/11/Codecov-Badge.png)
 

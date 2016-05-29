@@ -41,7 +41,7 @@ The courses I have taken on codeschool since last time is:
   * Real-time Web with Node.js
   * Bulding Blocks of Express.js
 
-Not as many courses done as previously, but I have instead taken on a more &#8220;hand-on” approach with my learning (aka. I have coded more on my own stuff).
+Not as many courses done as previously, but I have instead taken on a more "hand-on” approach with my learning (aka. I have coded more on my own stuff).
 
 I have tried to learn as much JavaScript as possible, and it has truly been a blast!
 
@@ -49,7 +49,7 @@ I have tried to learn as much JavaScript as possible, and it has truly been a bl
 
 # AngularJS
 
-My primary focus have been front end development &#8211; but even more specifically I fell totally in love with AngularJS. Its such a great framework. I haven&#8217;t much to compare it with at this time (even though I have looked at some of the other popular in the space), but at least I enjoy it.
+My primary focus have been front end development - but even more specifically I fell totally in love with AngularJS. Its such a great framework. I haven't much to compare it with at this time (even though I have looked at some of the other popular in the space), but at least I enjoy it.
 
 I have done most of my Angular learning on code school. I have also utilized the <a href="https://docs.angularjs.org/tutorial" target="_blank">AngularJS official tutorial</a>, <a href="https://docs.angularjs.org/guide" target="_blank">developer guide</a> and <a href="https://docs.angularjs.org/api" target="_blank">API Reference</a>. They have in combination proved to be a great way to learn the ropes (it was for me anyway).
 
@@ -59,9 +59,9 @@ After a while, when getting down into Angular i found that without a proper back
 
 # Node.js
 
-I spent some time looking at possible solutions for a back-end. I tried the Java route, but I don&#8217;t really love their approach. It just takes too much time for a simple solution. I looked at Parse (which I already know pretty well) and FireBase as a BaaS (Back-end as a Service) solution, but it felt wrong; I didn&#8217;t need anything super fancy &#8211; I just wanted a REST API I could use in my Angular app. Enters Node.js and Express.js.
+I spent some time looking at possible solutions for a back-end. I tried the Java route, but I don't really love their approach. It just takes too much time for a simple solution. I looked at Parse (which I already know pretty well) and FireBase as a BaaS (Back-end as a Service) solution, but it felt wrong; I didn't need anything super fancy - I just wanted a REST API I could use in my Angular app. Enters Node.js and Express.js.
 
-It&#8217;s so frickin&#8217; easy to create a simple back-end with node and express. Even getting up some persistence with MongoDB was a breeze. I mean, why make it complex and difficult if you don&#8217;t really need all that complexity? I can fit my entire back-end logic into a small file as is (I will probably split it up later, but it works just fine for now).
+It's so frickin' easy to create a simple back-end with node and express. Even getting up some persistence with MongoDB was a breeze. I mean, why make it complex and difficult if you don't really need all that complexity? I can fit my entire back-end logic into a small file as is (I will probably split it up later, but it works just fine for now).
 
 I learned the basics of node and express from codeschool, and googled my way to using mongojs (a MongoDB driver for node). Real easy! And fun!
 
@@ -69,11 +69,11 @@ I learned the basics of node and express from codeschool, and googled my way to 
 
 # Show and tell
 
-I really wanted to have something concrete to actually show you guys with this post, and I have! I have made a little learning project that I put up on my <a title="Angular Cards on Github" href="https://github.com/bjaanes/AngularCards" target="_blank">Github account</a>. It’s called AngularCards. It&#8217;s nothing fancy and probably nothing anyone would use for anything, but it made for a great learning experience.
+I really wanted to have something concrete to actually show you guys with this post, and I have! I have made a little learning project that I put up on my <a title="Angular Cards on Github" href="https://github.com/bjaanes/AngularCards" target="_blank">Github account</a>. It’s called AngularCards. It's nothing fancy and probably nothing anyone would use for anything, but it made for a great learning experience.
 
 It uses AngularJS with some Bootstrap for all the front-end parts, and node.js, express.js and MongoDB for back-end. It’s actually the MEAN (MongoDB, Express, AngularJS and Node) stack.
 
-The app istelf doesn&#8217;t do anything too fancy. The app revolves around cards with text. The user can see all the cards laid out. Cards can be added, and deleted.
+The app istelf doesn't do anything too fancy. The app revolves around cards with text. The user can see all the cards laid out. Cards can be added, and deleted.
 
 &nbsp;
 
@@ -83,9 +83,9 @@ The app istelf doesn&#8217;t do anything too fancy. The app revolves around card
 
 # Next up
 
-I am getting more exited about this learning journey for each day! I just wish I had even more time to commit to it. It&#8217;s done entirely on my own time after work and it sometimes feel like I don&#8217;t get as much done with it as I want (obviously).
+I am getting more exited about this learning journey for each day! I just wish I had even more time to commit to it. It's done entirely on my own time after work and it sometimes feel like I don't get as much done with it as I want (obviously).
 
-That said, I am going to continue doing this, and I won&#8217;t stop! I have a pretty huge project that I am working on, but I I&#8217;m not sure when I&#8217;ll get the opportunity to show it. I want it to take some shape before I share it with the &#8216;world&#8217;. Rest assured, it will be entirely open, and also solving an actual problem of mine.
+That said, I am going to continue doing this, and I won't stop! I have a pretty huge project that I am working on, but I I'm not sure when I'll get the opportunity to show it. I want it to take some shape before I share it with the &#8216;world'. Rest assured, it will be entirely open, and also solving an actual problem of mine.
 
 In terms of learning I have a couple more codeschool courses I want to take. I also want to learn more about web design. But my focus will certainly be coding (on the MEAN stack).
 

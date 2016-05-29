@@ -36,21 +36,21 @@ I though I would chime in on what I felt was missing from my education in comput
 
 These opinions are based upon what my education was like, and what I have heard from other students about their education. That said, I am certain that there are also lots of great schools that are teaching student what they need to know.
 
-Personally, believe there is a massive deficit in the current software education system. The academia and the real world industry is not in sync. I don&#8217;t know why this is, but I suspect it comes down to many factors. A couple of which I think might be:
+Personally, believe there is a massive deficit in the current software education system. The academia and the real world industry is not in sync. I don't know why this is, but I suspect it comes down to many factors. A couple of which I think might be:
 
-  * Teachers that haven&#8217;t worked in the industry for some time (or not at all), and don&#8217;t stay up to date.
-  * Academia has it&#8217;s own thoughts and opinions on subjects which are not applicable in the industry.
+  * Teachers that haven't worked in the industry for some time (or not at all), and don't stay up to date.
+  * Academia has it's own thoughts and opinions on subjects which are not applicable in the industry.
   * Schools not focusing on the industry, and what it actually need from potential workers.
 
 &nbsp;
 
-# What we don&#8217;t learn &#8211; but should have.
+# What we don't learn - but should have.
 
-We learn lots of great stuff, but there are many skills that don&#8217;t get taught in school. I will focus on these.
+We learn lots of great stuff, but there are many skills that don't get taught in school. I will focus on these.
 
 ## Debugging. Real debugging.
 
-This makes me so angry! Why were we never told that debugging is more than putting print statements all over your code? How to use a proper debugger to make your way through logic is so important that I can&#8217;t even fathom why this isn&#8217;t taught first year? It makes understanding code easier and it is a skill that is needed (and expected).
+This makes me so angry! Why were we never told that debugging is more than putting print statements all over your code? How to use a proper debugger to make your way through logic is so important that I can't even fathom why this isn't taught first year? It makes understanding code easier and it is a skill that is needed (and expected).
 
 &nbsp;
 
@@ -62,7 +62,7 @@ We were almost exclusively building small applications from scratch. This is alm
 
 ## Bug fixing.
 
-Fixing existing bugs in some code base your haven&#8217;t written yourself is not something though today. Let people go into Open Source software and fix some bugs in existing project. Its what you will do your first years anyway!
+Fixing existing bugs in some code base your haven't written yourself is not something though today. Let people go into Open Source software and fix some bugs in existing project. Its what you will do your first years anyway!
 
 &nbsp;
 
@@ -99,7 +99,7 @@ I have a couple of solutions I think will go a long way.
 ## For schools
 
   * Talk to the industry. Ask them what they expect and want from newly educated developers.
-  * Get good teachers with real-world experience and a passion for both teaching and software development (I realize this might be very hard to actually find &#8211; but it would awesome).
+  * Get good teachers with real-world experience and a passion for both teaching and software development (I realize this might be very hard to actually find - but it would awesome).
   * Focus on giving students fundamental skills in software development, but also teach them how to learn properly on their own.
 
 ## For students
