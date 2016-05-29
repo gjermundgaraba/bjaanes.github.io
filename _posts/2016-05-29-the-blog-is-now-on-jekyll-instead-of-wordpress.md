@@ -1,6 +1,6 @@
 ---
 title: The blog is now on Jekyll instead of Wordpress!
-date: 2016-05-29 19:51:00
+date: 2016-05-29T20:25:00+02:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /the-blog-is-now-on-jekyll-instead-of-wordpress/
@@ -8,12 +8,13 @@ categories:
   - Uncategorized
 ---
 The blog now has a brand new technology stack associated with it.
- 
+
 Previously I have used the oh-so-popular CMS, Wordpress.
 
 Now I am using the much simpler static website generator, Jekyll.
     
 <!--more-->
+
 I even moved the hosting over to Github!
 
 Actually, you can see the entire blog source code right here:
