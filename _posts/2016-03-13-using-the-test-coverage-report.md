@@ -20,8 +20,9 @@ tags:
   - TDD
   - Testing
 ---
-In this post, I want to talk a little about why and how you can use your test coverage reports.
+In this post, I want to talk a little about how to get test coverage reports, and what you might want use them for.
 
+<!--more-->
 If you are not already writing tests, you might want to consider doing that. I am not going into why tests are good in this post, but there are many sources on the internet for more about just that.
 
 &nbsp;

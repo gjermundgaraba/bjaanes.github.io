@@ -20,14 +20,21 @@ link_title:
   - 
 dsq_thread_id:
   - 3548035474
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Lifestyle
 ---
-As software developers, our job is to sit a lot. Well, its actually to develop a lot, but it usually involves a whole lot of sitting. Unless you have a standing desk, you are probably sitting 8 hours a day, and then probably sitting even more when you get home. That is no way to live. And even if you don’t sit all day when you get home, it’s still too much sitting still. Actually it is killing your body &#8211; AND your productivity (short term and long term).
+As software developers, our job is to sit a lot. 
+
+Well, its actually to develop a lot, but it usually involves a whole lot of sitting. 
+
+<!--more-->
+Unless you have a standing desk, you are probably sitting 8 hours a day, and then probably sitting even more when you get home. 
+
+That is no way to live. And even if you don’t sit all day when you get home, it’s still too much sitting still. 
+
+Actually it is killing your body &#8211; AND your productivity (short term and long term).
 
 &nbsp;
 

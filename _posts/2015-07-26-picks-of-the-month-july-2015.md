@@ -20,14 +20,17 @@ link_title:
   - 
 dsq_thread_id:
   - 3972452157
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Lifestyle
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 This post is kind of a cheat post, but I still think this is very important &#8211; especially if you are a hard worker!
 
 &nbsp;

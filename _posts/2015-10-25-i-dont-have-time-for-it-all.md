@@ -16,8 +16,11 @@ tags:
   - Lifestyle
   - Stress
 ---
-I feel this constant pressure to do so many things! Things I feel i have to do. Things I feel I should do. Things I just want to do- I never have time for it all. I never get to do all the things. Just like everyone else.
+I feel this constant pressure to do so many things! Things I feel i have to do. Things I feel I should do. Things I just want to do- I never have time for it all. I never get to do all the things. 
 
+Just like everyone else.
+
+<!--more-->
 I want to program on my side projects. I want to write blog posts. I want to spend more time with my girlfriend and dog. I want to mediate. I want to relax with games. I want to hang out with friends. I want to read technology news. I want to listen to podcasts. I want to do it all, and so much more.
 
 I want to do so many things, but the time is just never there. It always falls short. I always fall short.

@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=360
 permalink: /picks-of-the-month-august-2015/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4071708084
 categories:
@@ -16,6 +14,11 @@ tags:
   - Lifestyle
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 # #1 Feedbin
 
 [Last week](http://gjermundbjaanes.com/my-rss-feeds-or-great-websites-to-visit-from-time-to-time/), I wrote about my RSS feeds and at the same time mentioned Feedbin.

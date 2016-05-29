@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3928097088
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -33,9 +31,10 @@ Ever had a stupid bug that you just could not for the life of you figure out?
 
 Ever just felt that you are not going anywhere with what you are working on?
 
+<!--more-->
 &nbsp;
 
-I assume each of these can true for everyone, at some point, but how do you actually deal with this?
+I assume each of these can true for anyone, at some point, but how do you actually deal with this?
 
 I know of a couple of general solutions to these problems that I tend to use. I want to share those with you.
 

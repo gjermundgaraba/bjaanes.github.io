@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3472335557
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -29,8 +27,7 @@ tags:
 ---
 This is a book review of the book &#8220;Soft Skills: The software developer&#8217;s life manual&#8221; by John Sonmez.
 
-&nbsp;
-
+<!--more-->
 # What is soft skills?
 
 Soft skills are basically the non-techical skills you need to be successful in your career and life in general. Personal traits, people skills, habits, and everything else that you need to get a job, and to keep it. There are many articles and books available about this topic, but none that specifically targets the modern software developer. At least it didn’t used to be. Thats where &#8220;Soft Skills: The software developer&#8217;s life manual” by John Sonmez come into play.

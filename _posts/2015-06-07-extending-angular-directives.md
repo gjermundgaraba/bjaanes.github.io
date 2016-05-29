@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3829208144
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
@@ -32,6 +30,7 @@ tags:
 ---
 In this post I will explain some techniques for extending Angular Directives and how to design for extensibility.
 
+<!--more-->
 It might not always make sense to go crazy and extend directives everywhere. Try not to use this more often than necessary. It’s no point making huge generic components just to call thing reusable. More often than not, it’s not even worth it to make things that generic. It all depends on the use case of course. Try to keep things small and reusable instead.
 
 That said, when we do want to create some directive that is reusable and extendable, there exists many ways to do that. It all depends on you code style and what you actually want to extend.

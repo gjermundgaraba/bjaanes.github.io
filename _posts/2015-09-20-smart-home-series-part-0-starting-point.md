@@ -23,6 +23,7 @@ Welcome to a brand new series on making my home smart!
 
 This series is all about IoT, embedded devices and smart appliances. I am going to take you through my journey within all of these exiting things!
 
+<!--more-->
 &nbsp;
 
 [<img class="alignnone wp-image-375 size-full" src="http://gjermundbjaanes.com/wp-content/uploads/2015/09/Depositphotos_77269360_s-20151.jpg" alt="Smart house illustration" width="500" height="500" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/09/Depositphotos_77269360_s-20151.jpg 500w, http://gjermundbjaanes.com/wp-content/uploads/2015/09/Depositphotos_77269360_s-20151-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/09/Depositphotos_77269360_s-20151.jpg)

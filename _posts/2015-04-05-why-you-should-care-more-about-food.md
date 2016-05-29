@@ -20,15 +20,14 @@ link_title:
   - 
 dsq_thread_id:
   - 3655973206
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Lifestyle
 ---
-Food is very important. You probably knew that already. But its not only important because you&#8217;ll die without it.
+Food is very important. You probably knew that already. But its not only important in terms of survival.
 
+<!--more-->
 It&#8217;s important that the food you do eat is good for you. For maximum performance, there is no good in eating only junk. After a while your body won’t properly work, but your mind will slow down very quickly if you fuel yourself with sugar and lots of processed crap. Both will suffer, but your mind will take the first real hit, then your body will take a more ‘permanent’ hit.
 
 Eating healthy and smart is not just something you do. You actually have to know HOW to do it too. If you are not properly educated on the topic, you will probably make bad decisions (and not even know it!). Sure, everyone knows McDonalds is not healthy, but are you aware of how much sugar is in different kind of foods? How much carbs is in the food you eat? How much unhealthy fat? How many calories? (especially important if you want to lose weight as well). Do you know which foods are good for you and will help you perform your best? If you never have taken an interest, then probably not.

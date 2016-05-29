@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3493920148
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -30,8 +28,9 @@ tags:
 ---
 I have just launched my new app on App Store and Play Store. It’s an app for organizing shared housing. Living with Roommates made easy &#8211; basically.
 
-&nbsp;
+I want to share the story of the app, and how I got to this point.
 
+<!--more-->
 # The story
 
 The idea for this app came to life during the last year of computer engineering school. We either had to come up with a final project for the degree ourselves, or be handed some teacher-made stuffy project. I knew right away that I needed to come up with an idea for myself, because I really wanted to mould a large project from start to finish.

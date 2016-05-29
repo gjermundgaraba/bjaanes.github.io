@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=683
 permalink: /picks-of-the-month-april-2016/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4791164591
 categories:
@@ -17,6 +15,11 @@ tags:
   - IoT
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 # #1 OpenHAB
 
 I have spent some time playing with OpenHab in my Smart Home series, and found it quite powerful. Not \*that\* easy to use, but very powerful and flexible.

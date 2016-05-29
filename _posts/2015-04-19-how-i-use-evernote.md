@@ -20,23 +20,18 @@ link_title:
   - 
 dsq_thread_id:
   - 3693794289
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Lifestyle
   - Productivity
 ---
+This blog post covers some of the ways I leverage Evernote to get more organized.
+
+<!--more-->
 Evernote is a free app for mobile and desktop that you can use for almost everything. In it’s most basic form it’s just a note-taking app. But it has so many great features that basically makes it an ecosystem for your mind.
 
-&nbsp;
-
 <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/04/evernotelogo.jpg" rel="attachment wp-att-600"><img class="alignnone size-full wp-image-600" src="http://gjermundbjaanes.com/wp-content/uploads/2015/04/evernotelogo.jpg" alt="Evernote Logo" width="470" height="348" /></a>
-
-&nbsp;
-
-This blog post covers some of the ways I leverage Evernote to get more organized. There are other great examples of how you can use Evernote for yourself, there is really very few limits to this great application.
 
 Many people say that Evernote is like their second brain, and I think that is a great way to describe Evernote. Everything you don’t want to go around remembering can be organized and kept for future reference and use.
 

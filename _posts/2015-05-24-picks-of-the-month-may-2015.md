@@ -20,13 +20,16 @@ link_title:
   - 
 dsq_thread_id:
   - 3790283657
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 This month I have a couple of resources I think you might really benefit from. One is a developer resource that any web developer should be familiar with, the other an aid for your mind.
 
 I hope you enjoy this month&#8217;s picks!

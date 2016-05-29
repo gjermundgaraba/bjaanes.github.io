@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=648
 permalink: /picks-of-the-month-march-2016/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4699626233
 categories:
@@ -18,7 +16,11 @@ tags:
   - Picks Of The Month
   - Programming
 ---
-Welcome to the March issue of the Picks of the Month series!
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 
 # #1 Clean desk
 

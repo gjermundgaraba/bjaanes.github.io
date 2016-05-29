@@ -15,8 +15,11 @@ categories:
 tags:
   - Picks Of The Month
 ---
-Welcome to the last picks of the month article in 2015.
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
 
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 &nbsp;
 
 # #1 Vacation

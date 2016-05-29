@@ -1,7 +1,23 @@
-url: http://gjermundbjaanes.com
-name: Gjermund Bjaanes
+# Site settings
 title: Gjermund Bjaanes
+header-img: img/home-bg.jpg
 email: bjaanes@gmail.com
-description: Programming, Productivity and Lifestyle
-github_username: bjaanes
+copyright_name: Gjermund Bjaanes
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://gjermundbjaanes.com"
 twitter_username: gjermundbjaanes
+github_username:  bjaanes
+facebook_username:  bjaanes
+email_username:  bjaanes@gmail.com
+
+excerpt_separator: <!--more-->
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

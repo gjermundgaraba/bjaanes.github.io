@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3503654219
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -29,8 +27,9 @@ tags:
   - Web
   - Web Dev Series
 ---
-# I&#8217;m not learning what I want to learn
+I&#8217;m not learning what I want to learn
 
+<!--more-->
 Like i mentioned <a title="Learning Web Dev Series – Part 1: Starting point" href="http://maximumdeveloper.com/learning-web-dev-series-part-1-starting-point/" target="_blank">last time,</a> I have started doing a course on Udemy.com for creating beautiful websites (in a month) with HTML & CSS.
 
 I am almost finished with the Udemy course.

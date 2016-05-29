@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=629
 permalink: /converting-my-angular-1-application-to-typescript/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4687247592
 categories:
@@ -24,6 +22,7 @@ tags:
 ---
 With the soon-ish release of Angular 2, it makes sense to start upgrading Angular 1 apps to use TypeScript.
 
+<!--more-->
 I have an Angular 1.x app called &#8220;Extreme Results&#8221;, which I want to upgrade to Angular 2 at some point. All the code mentioned in this post can be found in the GitHub repo for that app:
 
 <a href="https://github.com/bjaanes/ExtremeResults-WebApp" target="_blank">https://github.com/bjaanes/ExtremeResults-WebApp</a>

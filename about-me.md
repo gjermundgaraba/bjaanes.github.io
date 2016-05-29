@@ -1,12 +1,8 @@
 ---
-id: 12
 title: About Me
-date: 2014-12-28T19:23:10+00:00
-author: Gjermund Bjaanes
+header-img: "img/about-bg.jpg"
+description: "This is what I do."
 layout: page
-guid: http://178.62.104.36/?page_id=12
-dsq_thread_id:
-  - 3367724085
 ---
 [<img class=" wp-image-38 alignleft" src="http://maximumdeveloper.com/wp-content/uploads/2014/12/gjermund_round-300x300.png" alt="gjermund_round" width="161" height="161" srcset="http://gjermundbjaanes.com/wp-content/uploads/2014/12/gjermund_round-300x300.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2014/12/gjermund_round-150x150.png 150w, http://gjermundbjaanes.com/wp-content/uploads/2014/12/gjermund_round-600x600.png 600w, http://gjermundbjaanes.com/wp-content/uploads/2014/12/gjermund_round.png 720w" sizes="(max-width: 161px) 100vw, 161px" />](http://maximumdeveloper.com/wp-content/uploads/2014/12/gjermund_round.png)My name is Gjermund Bjaanes. I am 25 years old, born and raised in Norway. I am a developer, geek and enthusiast in general. I&#8217;m passionate about programming and software engineering in general. Currently I focus on web development and mobile development on my free time.
 

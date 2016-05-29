@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=662
 permalink: /smart-home-series-part-6-openhab/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4737270360
 categories:
@@ -19,8 +17,9 @@ tags:
 ---
 I have set up a couple Raspberry Pi&#8217;s with GrovePi+ and a few sensors. They send out data with MQTT.
 
-That is not so useful without somethingto pick up those MQTT messages and doing something about them. Like showing them to me&#8230;
+That is not so useful without something to pick up those MQTT messages and doing something about them. Like showing them to me&#8230;
 
+<!--more-->
 &nbsp;
 
 I mentioned <a href="http://gjermundbjaanes.com/smart-home-series-part-5-grove-and-mqtt-message-cataloger/" target="_blank">last time</a> that I created a MQTT-message-cataloger that would save all these values to a database. The plan _was_ to pick to values up from something else and show them in some sort of dashboard.

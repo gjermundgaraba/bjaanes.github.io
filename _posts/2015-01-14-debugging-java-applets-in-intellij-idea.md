@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3420314064
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
@@ -29,8 +27,11 @@ tags:
   - Java
   - Programming
 ---
-These are the steps I needed to take in order to debug Java Applets in IntelliJ IDEA.
+Ever had the misfortune of having to debug Java Applets in combination with a web app? 
 
+I recently did, and I thought I might as well share some tips on debugging them in IntelliJ IDEA.
+
+<!--more-->
 # Enable Remote Debugging in Java Plugin
 
 Open Java Control Panel and go to &#8220;Java&#8221; tab and the click &#8220;View&#8221;.

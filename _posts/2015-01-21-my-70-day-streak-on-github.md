@@ -20,16 +20,17 @@ link_title:
   - 
 dsq_thread_id:
   - 3440902587
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
 tags:
   - Productivity
 ---
-First off, I know this is by no means a record, something special or even significant. But I want to share my small streak story and how it helped me get a ABC (Always Be Coding) habit.
-  
+First off, I know this is by no means a record or particularly great. 
+
+But I want to share my small streak story and how it helped me get a ABC (Always Be Coding) habit.
+
+<!--more-->
 <a title="The most important habit to become a great developer" href="http://maximumdeveloper.com/the-most-important-habit-to-become-a-great-developer/" target="_blank">Read more about ABC, and why its so important.</a>
 
 &nbsp;

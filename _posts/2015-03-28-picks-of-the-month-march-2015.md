@@ -20,13 +20,16 @@ link_title:
   - 
 dsq_thread_id:
   - 3634761307
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 Welcome to this month&#8217;s &#8216;Picks of the month&#8217; &#8211; March 2015. Every month I deliver a few picks of my favorite things that I want to share that month. The picks themselves can be almost anything. Software tools, books (technical as well as fictional), blog posts, resources and so on.
 
 In this edition I have a couple of picks which I am very exited about. One of which I have used for several years, and on I have just started using. Both are excellent!

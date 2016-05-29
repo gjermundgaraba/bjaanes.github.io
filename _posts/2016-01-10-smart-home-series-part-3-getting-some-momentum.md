@@ -20,6 +20,7 @@ It&#8217;s been a little while since I had any update for my Smart home series.
 
 The last time I thought I had failed miserably at soldering, but after a brand new component gave the same errors, I finally sought some help.
 
+<!--more-->
 Turns out I the problem was with my Arduino setup. According to the help I got, the problem was:
 
 _&#8220;When you program the UNO using USB it communicates with the &#8216;328 via pins D0 & D1. The ESP8266 is interfering with this process.&#8221;_

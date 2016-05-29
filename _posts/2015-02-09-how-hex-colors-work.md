@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3499178281
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
@@ -30,7 +28,14 @@ tags:
   - Programming
   - Web
 ---
-Have you ever wondered what all those numbers and letters in a hex color means? What color is #AA3939 or #888888 and why is that combination giving the color that it gives? Well, it’s not magic, and it’s not random either. It&#8217;s actually  a pretty simple system. The only thing you have to really learn is how the hexadecimal number system work.
+Have you ever wondered what all those numbers and letters in a hex color means? 
+
+What color is #AA3939 or #888888 and why is that combination giving the color that it gives? 
+
+Well, it’s not magic, nor is it randomly picked values that correspond to colors. 
+
+<!--more-->
+It&#8217;s actually a pretty simple and logical system. The only thing you have to really learn is how the hexadecimal number system work.
 
 &nbsp;
 

@@ -24,6 +24,7 @@ tags:
 ---
 Do you want to show off the amazing Code Coverage you got on you Angular project? Look no further, this guide will help you out!
 
+<!--more-->
 &nbsp;
 
 # Prerequisites

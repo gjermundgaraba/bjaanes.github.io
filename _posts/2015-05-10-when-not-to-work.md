@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3751469009
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -34,6 +32,7 @@ You want to learn as much as humanly possible. You just want to code, dammit!
 
 And please do. BUT &#8211; sometimes, it’s time to take a break.
 
+<!--more-->
 Sometimes you just need to stop working and do something else.
 
 If you don’t, it will come back and bite you hard in the ass! If you get burnt out, or injured, it won’t help that you powered through the pain, because you’ll be out of the game for an even longer time. It&#8217;s just not effective use of your time. And nobody wants that.

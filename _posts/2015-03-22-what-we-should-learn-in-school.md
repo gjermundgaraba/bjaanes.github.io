@@ -29,8 +29,7 @@ tags:
 ---
 I wanted to bring my perspective to the debate about what developers should learn in school. Many seasoned developers complain that straight-out-of-school developers don’t have the knowledge they need.
 
-&nbsp;
-
+<!--more-->
 # My view
 
 I though I would chime in on what I felt was missing from my education in computer engineering. Coming straight from school and having worked for about 10 months as a full time developer, I have a couple opinions on this subject.

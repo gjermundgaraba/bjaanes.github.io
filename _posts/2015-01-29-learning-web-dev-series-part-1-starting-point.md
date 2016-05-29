@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3467149014
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -29,8 +27,13 @@ tags:
   - Web
   - Web Dev Series
 ---
-I want to learn Web Development. And i want to share my journey from beginner to wherever I am going to go with this (hopefully an expert with time). That is the premise for this series of blog posts.
+I want to learn Web Development. 
 
+And I want to share my journey from beginner to wherever I am going to go with this (hopefully an expert with time). 
+
+That is the premise for this series of blog posts.
+
+<!--more-->
 I am starting this series off with a little information about my starting point and where I am heading off first.
 
 &nbsp;

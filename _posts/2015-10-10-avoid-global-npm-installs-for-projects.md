@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=409
 permalink: /avoid-global-npm-installs-for-projects/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4212734810
 categories:
@@ -21,7 +19,10 @@ tags:
 ---
 Have you ever required gulp or grunt or something similar to be installed globally to be able to build a web project? You probably require npm as well? And possibly bower?
 
-Having these kinds of global requirements are not healthy, nor is it very helpful. It’s much harder to get started with a project if there are many steps you have to follow, just to get all the requirements installed.
+Having these kinds of global requirements is not healthy, nor is it very helpful. It’s much harder to get started with a project if there are many steps you have to follow, just to get all the requirements installed.
+
+<!--more-->
+Global installs might not be the right version all the time either. If you don't update, your local build might differ from the CI or even prod build.
 
 There is a much better way that don’t require as much set up for a new dev environment.
 

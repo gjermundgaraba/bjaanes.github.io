@@ -20,14 +20,21 @@ link_title:
   - 
 dsq_thread_id:
   - 3578434204
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Programming
 ---
-My favourite debugging technique is using code evaluation at break points. What that means is that I put down a breakpoint somewhere in the code, and when the debugger hits that breakpoint I pull up a code evaluator. Using this code evaluator I can then write short code snippets / expressions to debug my code. I can query different objects and test values and what I can access from that particular point in the code. Most stuff you can do in code, you can do in code evaluation.
+My favourite debugging technique is using code evaluation at break points. 
+
+What that means is that I put down a breakpoint somewhere in the code, and when the debugger hits that breakpoint I can pull up a code evaluator to evaluate basically any expression I want. 
+
+<!--more-->
+Using this code evaluator I can then write short code snippets / expressions to debug my code. 
+
+I can query different objects and test values and what I can access from that particular point in the code. 
+
+Most stuff you can do in code, you can do in code evaluation.
 
 &nbsp;
 

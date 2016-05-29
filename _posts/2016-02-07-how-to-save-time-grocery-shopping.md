@@ -21,6 +21,7 @@ This is pure productivity / time-saving tip that is not related to programming i
 
 It is however one the best tips I got. I think a lot of people would benefit a lot from it.
 
+<!--more-->
 &nbsp;
 
 One of the biggest time saving changes I have done in my life was probably to change how I do grocery shopping.

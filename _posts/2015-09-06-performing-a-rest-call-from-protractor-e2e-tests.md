@@ -19,12 +19,11 @@ tags:
   - Testing
   - Web
 ---
-# Cleaning up between tests
-
 I am currently trying to get some good end-to-end (e2e with protractor,  which is a great tool!) tests running for my Angular app ‘Extreme Results’ (wrote a bit about the app <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">here</a>).
 
 I very quickly found a big problem. How do I clean up my database between tests and test-runs?
 
+<!--more-->
 The way I see it, there are two ways to solve this problem:
 
   1. Let the e2e tests actually clean up the way a user would.

@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=697
 permalink: /clean-compiled-typescript-with-gulp/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4807848504
 categories:
@@ -17,6 +15,8 @@ tags:
   - Web
 ---
 This blog post will show you how you can clean your compiled TypeScript using gulp, if you compile your files inside your source folder.
+
+<!--more-->
 
 That means that this is applicable to you if your compiled output is placed next to the TypeScript files (which is what I am doing with [ExtremeResults](https://github.com/bjaanes/ExtremeResults-WebApp)).
 

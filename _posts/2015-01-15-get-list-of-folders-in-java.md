@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3428808236
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
@@ -31,6 +29,7 @@ tags:
 ---
 If you need to list only the folders in some directory (and not folders AND files), that can be done without too much effort in Java.
 
+<!--more-->
 The key is use File&#8217;s listFiles with a FileFilter:
 
 <pre class="nums:false lang:default decode:true">public File[] listFiles(FileFilter filter)</pre>

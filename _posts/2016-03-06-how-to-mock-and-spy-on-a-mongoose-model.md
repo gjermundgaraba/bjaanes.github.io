@@ -21,8 +21,9 @@ tags:
   - Testing
   - Web
 ---
-This post is actually very generic advise on how to mock constructor objects so that you can spyOn the objects being created by the constructor.
+This post is actually very generic advise on how to mock constructor objects so that you can Jasmine's "spyOn" on objects being created by a constructor.
 
+<!--more-->
 &nbsp;
 
 I am currently writing a new back-end for my Extreme Results app using Node.js and Express. I wrote a little about why and how in my previous blog post: <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-7-parse-shutting-down/" target="_blank">Learning Web Dev Series – Part 7: Parse shutting down</a>

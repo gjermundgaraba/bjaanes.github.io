@@ -18,10 +18,11 @@ tags:
 ---
 We all have them. Those periods that are just insanely stressful. Perhaps some delivery needs to go out. Lots of stuff to do at work and home.
 
-It can really take a toll on anyone. However, some people seem to handle it better though.
+It can really take a toll on anyone. However, some people seem to handle it better.
 
-I am not going to try to convince you that I have found the best solutions to this, but I have found a few things that really help me.
+I am not going to try to convince you that I have found the best solutions to this, but I have found a few things that really help me out.
 
+<!--more-->
 &nbsp;
 
 # Take some time off

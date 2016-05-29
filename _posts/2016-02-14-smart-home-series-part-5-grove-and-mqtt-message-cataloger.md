@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=585
 permalink: /smart-home-series-part-5-grove-and-mqtt-message-cataloger/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4579459260
 categories:
@@ -21,6 +19,7 @@ tags:
 ---
 Progress is being made on the Smart Home project! I finally got the GrovePi+ with sensors I talked about <a href="http://gjermundbjaanes.com/smart-home-series-part-4-out-with-arduino-in-with-raspberry-pi/" target="_blank">last time.</a>
 
+<!--more-->
 It was almost everything I ever wanted. There are a few things that bothers me slightly, but it is not enough to bring my spirits down. I love Grove!
 
 While I was waiting for the Grove stuff to arrive, I started creating a new application I knew I needed in my system: Something to save all the MQTT messages to a database.

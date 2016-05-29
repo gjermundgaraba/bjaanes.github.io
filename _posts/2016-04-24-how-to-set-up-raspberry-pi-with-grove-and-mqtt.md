@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=671
 permalink: /how-to-set-up-raspberry-pi-with-grove-and-mqtt/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4773285239
 categories:
@@ -20,6 +18,7 @@ tags:
 ---
 I have spent some time in my <a href="http://gjermundbjaanes.com/tag/smart-home-series/" target="_blank">Smart Home Series</a> to experiment with different technologies. I found out that Arduino is not the best fit for me and my plans, so I bought some Raspberry Pi&#8217;s and Grove components.
 
+<!--more-->
 You can read more about my decision around that in this blog post:
 
 [Smart home series – Part 4 – Out with Arduino, in with Raspberry Pi](http://gjermundbjaanes.com/smart-home-series-part-4-out-with-arduino-in-with-raspberry-pi/)

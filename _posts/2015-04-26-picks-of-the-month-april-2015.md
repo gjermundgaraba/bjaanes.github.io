@@ -20,13 +20,16 @@ link_title:
   - 
 dsq_thread_id:
   - 3714265827
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 This month&#8217;s picks are going to be a couple of things I have recently enjoyed quite a lot.
 
 # #1 ng-conf 2015

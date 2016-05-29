@@ -27,9 +27,16 @@ categories:
 tags:
   - Blog
 ---
+Note: The name of the blog has been changed since this was written. The blog is now named after myself: Gjermund Bjaanes.
+
+Still, the content of the blog is mostly the same as mentioned in this post.
+
+<!--more-->
 Welcome to Maximum Developer.
 
-This is a new blog for the developer who wants to maximise their potential. I will share my tips and tricks for programming and life in general, and share my learning experience as I go. I want to point out that I am not claiming to be perfect, or even anywhere close (I am not, just ask my girlfriend), but I am hoping that I can provide some value for someone anyway.
+This is a new blog for the developer who wants to maximise their potential. 
+
+I will share my tips and tricks for programming and life in general, and share my learning experience as I go. I want to point out that I am not claiming to be perfect, or even anywhere close (I am not, just ask my girlfriend), but I am hoping that I can provide some value for someone anyway.
 
 _I just want to share what I&#8217;m learning, as I&#8217;m learning it._
 

@@ -16,6 +16,11 @@ tags:
   - Picks Of The Month
   - Raspberry Pi
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 First &#8220;picks of the month&#8221; this year!
 
 This month I have a few new obsessions of mine to share.

@@ -17,6 +17,7 @@ tags:
 ---
 2015 was a great year for me! I learned so much about web development and my craft in general. I want to use this blog post to write about what is coming here in 2016.
 
+<!--more-->
 &nbsp;
 
 I started this blog in January 2015, setting out to write about Programming, Productivity and Lifestyle.

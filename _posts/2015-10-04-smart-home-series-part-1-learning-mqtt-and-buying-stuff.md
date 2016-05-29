@@ -21,6 +21,7 @@ tags:
 ---
 Since [last time](http://gjermundbjaanes.com/smart-home-series-part-0-starting-point/) I have worked a little bit on making some progress with my smart house project. I have been doing some reading, as well as some buying.
 
+<!--more-->
 &nbsp;
 
 # MQTT

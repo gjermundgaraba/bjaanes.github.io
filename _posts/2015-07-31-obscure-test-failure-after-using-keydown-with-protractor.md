@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3992889454
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -29,8 +27,9 @@ tags:
   - Javascript
   - Programming
 ---
-Lately I have been writing a lot of protractor tests, both privately and professionally. I recently got the displeasure of hunting down an insanely obscure bug which literally showed itself several minutes after it actually happened.
+Lately I have been writing a lot of protractor tests, both privately and on the job. I recently got the displeasure of hunting down an insanely obscure bug which literally showed itself several minutes after the problem actually occurred.
 
+<!--more-->
 I had several spec files, which ran just fine separat, but failed with very wierd errors.
 
 Only after inserting probably a billion browser.sleep(500) everywhere did I notice that one of the tests deselected an element in a structure, instead of selecting it.

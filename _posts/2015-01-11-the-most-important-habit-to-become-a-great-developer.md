@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3410541175
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
@@ -29,6 +27,14 @@ tags:
   - Productivity
   - Programming
 ---
+What is the most basic and important aspect to getting really good at something?
+
+Well, that's easy, it's practice. It's doing that thing over and over again. Just keep on doing it.
+
+The same goes for coding.
+
+<!--more-->
+The principle can be easily remembered by a nice little acronym.
 ABC.
 
 **Always Be Coding!**

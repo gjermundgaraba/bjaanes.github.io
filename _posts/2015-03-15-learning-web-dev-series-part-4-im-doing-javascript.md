@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3596662704
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -29,7 +27,12 @@ tags:
   - Web
   - Web Dev Series
 ---
-I mentioned <a title="Learning Web Dev Series – Part 3: All That Front End" href="http://maximumdeveloper.com/learning-web-dev-series-part-3-all-that-front-end/" target="_blank">last time</a> that I had changed direction into a bit into more fundamentals. I have also gotten more learning in since then. I have done almost all the courses I am interested in on codeschool.com. I will probably move on to Pluralsight after that. They seem to have a lot of great content.
+I mentioned <a title="Learning Web Dev Series – Part 3: All That Front End" href="http://maximumdeveloper.com/learning-web-dev-series-part-3-all-that-front-end/" target="_blank">last time</a> that I had changed direction into a bit into more fundamentals. 
+
+<!--more-->
+I have also gotten more learning in since then. I have done almost all the courses I am interested in on codeschool.com. 
+
+I will probably move on to Pluralsight after that. They seem to have a lot of great content.
 
 The courses I have taken on codeschool since last time is:
 

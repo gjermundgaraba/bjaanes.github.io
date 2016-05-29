@@ -19,8 +19,11 @@ tags:
   - Web
   - Web Dev Series
 ---
-For my <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">Extreme Results project</a>, I have used Parse as my Backend-as-a-Service (BaaS). When they recently <a href="http://blog.parse.com/announcements/moving-on/" target="_blank">announced that they were shutting down</a> I was quite disappointed.
+For my <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">Extreme Results project</a>, I have used Parse as my Backend-as-a-Service (BaaS). 
 
+When they recently <a href="http://blog.parse.com/announcements/moving-on/" target="_blank">announced that they were shutting down</a> I was quite disappointed.
+
+<!--more-->
 Annoying to have a big part of your application pulled from underneath you.
 
 &nbsp;

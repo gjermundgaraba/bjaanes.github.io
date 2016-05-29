@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3847373880
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -31,6 +29,7 @@ tags:
 ---
 I had always heard about writing good, clean and pretty code &#8211; but I never really understood what it meant. I knew it had something to do with readability. And possibly a profession pride thing, too.
 
+<!--more-->
 Well, I was right, but it was more, and I did not know what it actually \*meant\* to write clean code &#8211; and how it affected the developers writing and _reading_ the code.
 
 I am not going to explain how to write clean code, because I am not a master at it. I want to teach it, but for now I will just share my starting point.

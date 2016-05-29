@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=346
 permalink: /my-rss-feeds-or-great-websites-to-visit-from-time-to-time/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4059264144
 categories:
@@ -15,6 +13,7 @@ categories:
 ---
 RSS is a fantastic way to keep current with lots of different sources, without the hassle of going through a bunch of sites every day. You make sure you never miss something important. It&#8217;s a huge help for me when trying to stay up to date all the time (especially on web development, which we all know is moving extremely fast).
 
+<!--more-->
 I wanted to share the list of all my current RSS feeds I follow. I really want to keep this list up to date, so I will try my very best to keep it current at all times.
 
 The list consists of many different pages covering different topics. The topics can be things like: productivity, angular, web development in general, programming in general, blogs from people like me (which means passionate developer, just in case you wondered!).

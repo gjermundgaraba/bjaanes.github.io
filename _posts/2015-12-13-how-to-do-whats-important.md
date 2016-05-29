@@ -21,6 +21,7 @@ To be able to do what&#8217;s important, there are 2 major problems:
   1. How to actually do the important things?
   2. How to choose which things are important?
 
+<!--more-->
 These may seem simple, but they are really hard to overcome. Both of them.
 
 So many things to do, which ones to do?

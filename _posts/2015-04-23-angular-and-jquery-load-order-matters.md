@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3705544526
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
@@ -34,6 +32,7 @@ While trying to load a jQuery library called zTree into a directive, I came over
 
 <pre class="lang:default highlight:0 decode:true ">jqLite#on() does not support the `selector` or `eventData` parameters</pre>
 
+<!--more-->
 [<img class="alignnone size-full wp-image-241" src="http://maximumdeveloper.com/wp-content/uploads/2015/04/D23BBB2D-E0DF-4D32-B6D6-B88ACCA4B081.png" alt="Angular jqLite error on" width="837" height="157" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/D23BBB2D-E0DF-4D32-B6D6-B88ACCA4B081.png 837w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/D23BBB2D-E0DF-4D32-B6D6-B88ACCA4B081-300x56.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/D23BBB2D-E0DF-4D32-B6D6-B88ACCA4B081-600x113.png 600w" sizes="(max-width: 837px) 100vw, 837px" />](http://maximumdeveloper.com/wp-content/uploads/2015/04/D23BBB2D-E0DF-4D32-B6D6-B88ACCA4B081.png)
 
 It doesn’t really say that much, but from a little Google’ing I understood that Angular has implemented a subset of jQuery called jqLite which is fairly limited. Loading my particular library was not working with jqLite. Angular is however not supposed to use jqLite when jQuery is available.

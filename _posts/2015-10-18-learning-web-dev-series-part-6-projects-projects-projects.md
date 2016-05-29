@@ -18,7 +18,8 @@ tags:
 ---
 Since <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">last time</a>, not much have changed, except that I have started a few projects, and kept working on my existing project I wrote about last time; Extreme Results.
 
-The progress for Extreme Results are really coming along, even though I had hoped to have come even longer by now. However, I have so many other things <a href="http://gjermundbjaanes.com/smart-home-series-part-0-starting-point/" target="_blank">on my plate</a>.
+<!--more-->
+The progress for Extreme Results is really coming along, even though I had hoped to have come even longer by now. However, I have so many other things <a href="http://gjermundbjaanes.com/smart-home-series-part-0-starting-point/" target="_blank">on my plate</a>.
 
 Since Extreme Results was an Angular app, I decided that my next projects needed to be something else, so I have used Meteor.js and React. Mostly just to learn something new and get some new perspectives on web development. And for fun, of course.
 

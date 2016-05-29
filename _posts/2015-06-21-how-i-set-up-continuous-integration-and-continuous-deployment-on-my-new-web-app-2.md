@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3866297397
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -32,7 +30,8 @@ I recently started working on a brand new web app. It has been a blast, but I wa
 
 These things exists and are called Continuous Deployment (CD) and Continuous Integration (CI).
 
-Update: Added how I set up CI to run e2e tests with protractor.
+<!--more-->
+Update: I Added how to set up the CI to run e2e tests with protractor.
 
 # 
 

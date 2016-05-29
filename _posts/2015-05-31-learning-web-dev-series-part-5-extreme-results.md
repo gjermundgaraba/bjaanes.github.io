@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3809691226
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -32,6 +30,7 @@ tags:
 ---
 It’s been a little while since <a href="http://maximumdeveloper.com/learning-web-dev-series-part-4-im-doing-javascript/" target="_blank">I last gave an update on my journey through learning Web Development</a>.
 
+<!--more-->
 &nbsp;
 
 Since then I have not had the opportunity to work quite as much as I usually do because of some shoulder issues (basically because I worked too much, and exercised too little. Solution: Work less &#8211; for a while &#8211; and exercise more). I have however learned a lot. I never stop doing that. I read articles, I saw videos from conferences (like ng-conf), I read books and I have started slowly on my own project.

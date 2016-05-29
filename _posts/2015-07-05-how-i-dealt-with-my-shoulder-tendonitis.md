@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3907470578
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -33,6 +31,7 @@ Really, go ask your doctor for some help. Perhaps he can get you in touch with a
 
 That said, the following tips are pretty non-controversial, and would probably do little harm.
 
+<!--more-->
 &nbsp;
 
 If you want to learn more about shoulder tendonitis and what causes it, and the names of the muscles that are effected (and such), you need to do that research on your own. This post is all about how to fix it.

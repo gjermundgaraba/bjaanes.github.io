@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=379
 permalink: /picks-of-the-month-september-2015/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4170902373
 categories:
@@ -15,6 +13,11 @@ categories:
 tags:
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 # #1 Meteor.js
 
 # [<img class="alignnone wp-image-385" src="http://gjermundbjaanes.com/wp-content/uploads/2015/09/meteor-logo-e1443206975972.png" alt="Meteor.js logo" width="511" height="154" />](http://gjermundbjaanes.com/wp-content/uploads/2015/09/meteor-logo-e1443206975972.png)

@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3428862494
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
@@ -30,8 +28,7 @@ tags:
 ---
 **Disclaimer: These are my personal opinions and I have not backed all points by heavy research (although they might be, I don’t really know).**
 
-&nbsp;
-
+<!--more-->
 I grew up reading a lot of books. My parents read to me before I could read myself, and later I read a lot of books myself. I believe that reading helped me a lot through school; writing essays and texts always came easy for me.
 
 &nbsp;

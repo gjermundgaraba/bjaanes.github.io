@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=709
 permalink: /angular-attack-2016-submission/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4829538770
 categories:
@@ -16,6 +14,8 @@ categories:
 This post is about my submission to the Angular Attack 2016 Hackathon.
 
 Here I am going to outline the solution that I have created and explain some technical details about how it all works.
+
+<!--more-->
 
 &nbsp;
 

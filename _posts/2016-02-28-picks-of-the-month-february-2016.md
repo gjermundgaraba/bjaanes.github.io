@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=606
 permalink: /picks-of-the-month-february-2016/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4618791293
 categories:
@@ -16,6 +14,11 @@ tags:
   - Picks Of The Month
   - Raspberry Pi
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 # #1 Grove
 
 I have written about Grove <a href="http://gjermundbjaanes.com/smart-home-series-part-4-out-with-arduino-in-with-raspberry-pi/" target="_blank">previously in my Smart Home Series</a>, and I really wanted to pick this one for February.

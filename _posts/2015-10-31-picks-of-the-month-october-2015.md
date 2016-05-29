@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=437
 permalink: /picks-of-the-month-october-2015/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4277069019
 categories:
@@ -15,6 +13,11 @@ categories:
 tags:
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 # #1 Linux
 
 [<img class="alignnone  wp-image-439" src="http://gjermundbjaanes.com/wp-content/uploads/2015/10/tux.png" alt="tux" width="266" height="309" />](http://gjermundbjaanes.com/wp-content/uploads/2015/10/tux.png)

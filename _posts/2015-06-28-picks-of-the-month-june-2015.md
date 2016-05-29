@@ -20,13 +20,16 @@ link_title:
   - 
 dsq_thread_id:
   - 3887176353
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 New month, new picks! I have a couple of things I have really enjoyed the last month. Things that really stood out to me. Take a look!
 
 # #1 Ergonomic Standing desk

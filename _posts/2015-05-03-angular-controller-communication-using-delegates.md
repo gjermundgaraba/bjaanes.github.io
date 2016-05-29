@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3732759362
-suevafree_template:
-  - right-sidebar
 categories:
   - CodeProject
   - Uncategorized
@@ -30,12 +28,11 @@ tags:
   - Programming
   - Web
 ---
-NOTE: This article is using $scope, but can easily be changed to use controllerAs syntax and bindToController instead. Please do 🙂
-
-&nbsp;
+NOTE: This article is using $scope, but can easily be changed to use controllerAs syntax and bindToController instead. Please do. 
 
 I recently found the need for two controllers to communicate a lot more than normal events would easily enable. I needed one controller to ask another for information, without them being too strongly coupled (because nobody likes that).
 
+<!--more-->
 There are several ways of solving this problem, but I found that using a delegate pattern was the most elegant solution for my problem.
 
 &nbsp;

@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=541
 permalink: /smart-home-series-part-4-out-with-arduino-in-with-raspberry-pi/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4519147848
 categories:
@@ -19,6 +17,7 @@ tags:
 ---
 After [last posts](http://gjermundbjaanes.com/smart-home-series-part-3-getting-some-momentum/) success of finally getting Arduino to connect to a network, things suddenly started to malfunction again.
 
+<!--more-->
 Nothing works. Again. And I have no clue why. And I am tired of things just breaking, and not being able to figure out why.
 
 It might be that I am just totally incompetent with Arduino, or that my hardware is just broken. Either way, nothing works.

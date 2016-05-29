@@ -20,16 +20,17 @@ link_title:
   - 
 dsq_thread_id:
   - 3675808716
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
   - Lifestyle
   - Productivity
 ---
-This may be a personal opinion, but I believe that in order to keep your life running smoothly, it needs to be as free from clutter as possible. Clutter, in any form, is something that causes chaos and disorder. Every ‘thing’ that surrounds us take some portion of our attention. Every &#8216;thing&#8217; demands attention.
+This may be a personal opinion, but I believe that in order to keep your life running smoothly, it needs to be as free from clutter as possible. Clutter, in any form, is something that causes chaos and disorder. 
 
+Every ‘thing’ that surrounds us take some portion of our attention. Every &#8216;thing&#8217; demands attention.
+
+<!--more-->
 This goes for everything. Crap laying around in our house. Crappy cluttered code. Things you have to remember all the time. Files scattered around your file system. They are all things that demand attention from you when you encounter them (or think about them).
 
 For me to be able to truly concentrate and focus I need my environment to be ‘clean’. I am not talking about germs and stuff, i am talking about clutter-free. I need my house to not have crap everywhere. I need my desk not to have lots of stuff floating around. I need my head clear of thoughts and worries.

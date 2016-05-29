@@ -19,8 +19,11 @@ tags:
   - Raspberry Pi
   - Smart home series
 ---
-It took longer than I wanted to get to Part 2, but I was waiting on several parts from China. Note to self: buying cheap stuff from China might be slooooow. I knew this, but still sucks.
+It took longer than I wanted to get to Part 2, but I was waiting on several parts from China. 
 
+Note to self: buying cheap stuff from China might be slooooow. I knew this, but still sucks.
+
+<!--more-->
 I was also missing a lot of soldering equipment, which I found out every time I sat down to actually attempt this.
 
 I needed a WiFi component for my Arduino, so I bought a ESP8266 WiFi Shield from SparkFun:

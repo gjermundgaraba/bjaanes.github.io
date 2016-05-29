@@ -20,8 +20,6 @@ link_title:
   - 
 dsq_thread_id:
   - 3539176938
-suevafree_template:
-  - right-sidebar
 categories:
   - Uncategorized
 tags:
@@ -31,6 +29,7 @@ tags:
 ---
 This will be a short update about my progress on learning web development.
 
+<!--more-->
 [Last time](http://maximumdeveloper.com/learning-web-dev-series-part-2-wrong-turn/ "Learning Web Dev Series – Part 2: Wrong turn") I mentioned I wanted to get more fundamentals in place before starting to use things like Bootstrap and other utilities that lets you skip a lot of details. I also said that I would do some courses on CodeSchool (and I have). I even got some tips for great learning resources on the web.
 
 # CodeSchool

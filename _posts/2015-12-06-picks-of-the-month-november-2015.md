@@ -15,6 +15,11 @@ categories:
 tags:
   - Picks Of The Month
 ---
+Welcome to Picks of the month, where I share a few things I have found useful the last month.
+
+It can be anything from blog posts and software tools to books and techniques.
+
+<!--more-->
 A little late picks of the month this time. I was in London for a vacation with my family, and <a href="http://gjermundbjaanes.com/i-dont-have-time-for-it-all/" target="_blank">I just didn&#8217;t have the time for everything</a>.
 
 No matter, here is my picks for November 2015!
