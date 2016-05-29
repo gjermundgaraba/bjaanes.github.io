@@ -9,21 +9,20 @@ categories:
 ---
 The blog now has a brand new technology stack associated with it.
 
-Previously I have used the oh-so-popular CMS, Wordpress.
-
-Now I am using the much simpler static website generator, Jekyll.
+Previously I have used the oh-so-popular CMS, Wordpress. Now I am using the much simpler static website generator, Jekyll.
+    
+[![Jekyll Logo]({{ site.baseurl}}/img/posts/jekyll-logo.png)]({{ site.baseurl }}/img/posts/jekyll-logo.png)     
     
 <!--more-->
 
 I even moved the hosting over to Github!
-
 Actually, you can see the entire blog source code right here:
 
 [https://github.com/bjaanes/bjaanes.github.io](https://github.com/bjaanes/bjaanes.github.io){:target="_blank"} 
 
 The new site is not quite polished yet. Some of the content might look a bit wierd and some design stuff is not like I want it, but it's a good start!
 
-I'll also explain why I did this change, first I want to explain the differences between these.
+I'll also explain why I did this change, but first I want to briefly explain the differences between these types of technologies.
 
 # CMS vs static website generator
 
@@ -35,7 +34,7 @@ It requires quite a bit of maintenance in terms of upgrades, fending off Wordpre
 
 Granted, it doesn't take a lot of time, but it's time I'd rather spend doing something else.
 
-[![Jekyll Logo]({{ site.baseurl}}/img/posts/jekyll-logo.png)]({{ site.baseurl }}/img/posts/jekyll-logo.png) 
+&nbsp;
 
 Jekyll on the other hand is a static website generator. That means that it generates a website in HTML, and everything is served directly to the user.
 
