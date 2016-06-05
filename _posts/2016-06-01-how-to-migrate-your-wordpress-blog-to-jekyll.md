@@ -129,17 +129,84 @@ I did spend some time (actually still going through all the posts) to clean up t
 
 # Bring your own Disqus
 
-TODO
+If you use Disqus, you probably want to bring it along. Luckily, that works out pretty well if you have the same URL to each post.
+ 
+Actually, from what I understand, you should probably link the disqus panel to a unique id for each post.
+
+The Jekyll-Exporter actually brings along that id, but I haven't used it myself. Just something you might want to consider.
+
+For now though, what you need is to get a small disqus snippet you can use.
+
+Open this link:
+[https://disqus.com/admin/universalcode/](https://disqus.com/admin/universalcode/){:target="_blank"} 
+
+And copy the the snippet that is generated for you.
+
+Place it in a file called "disqus.html" inside your "_includes" folder.
+That HTML file can now be included in our layouts, which allows for some nice and clean code.
+
+The file should look something like this now:
+{% highlight html %}
+{% raw %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+     var disqus_config = function () {
+     this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+     this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+     };
+     */
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+
+        s.src = '//sitename.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endraw %}
+{% endhighlight %}
+
+Let's actually use this fancy include in our post.html file (the one located in the "_layouts" folder):
+
+Find the following line:
+
+{% highlight html %}
+{% raw %}
+{{ content }}
+{% endraw %}
+{% endhighlight %}
+
+and change it to this:
+{% highlight html %}
+{% raw %}
+{{ content }}
+
+<hr>
+
+{% include disqus.html %}
+{% endraw %}
+{% endhighlight %}
+
+You should now see your disqus threads, if the URLs are unchanged. If you are testing locally, or if the URL of the posts have changed,
+the disqus threads will probably be empty.
+
+This might be where the disqus identifier id could be of some help, but like I said, I haven't looked into that specifically.
+
+I learned the disqus tricks from this nice blog post on girliemac.com:
+[http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/](http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/){:target="_blank"}
 
 # Fix social links
 
 TODO
 
-Disqus:
-Login on Disqus, and copy the Universal Embed Code from Disqus. (Once logged in, the disqus_shortname should be already generated for you. Otherwise, add it manually.)
 
-Link to this about disqus:
-http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/
 
 Social links:
 http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html
