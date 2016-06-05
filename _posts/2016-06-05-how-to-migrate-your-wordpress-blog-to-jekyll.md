@@ -1,6 +1,6 @@
 ---
 title: 'How to migrate your Wordpress blog to Jekyll'
-date: 2016-06-01T18:49:00+02:00
+date: 2016-06-05T19:00:00+02:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /how-to-migrate-your-wordpress-blog-to-jekyll/
