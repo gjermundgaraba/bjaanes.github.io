@@ -48,8 +48,6 @@ You might also want to use your own domain name (instead of the default username
 To do that, just follow the instructions here:
 [https://help.github.com/articles/using-a-custom-domain-with-github-pages/](https://help.github.com/articles/using-a-custom-domain-with-github-pages/){:target="_blank"} 
 
-https://help.github.com/articles/using-a-custom-domain-with-github-pages/
-
 ## Self hosting
 
 If you instead want to host the site yourself, just put whatever is built in the "_site" folder on your web server.
@@ -64,7 +62,12 @@ If you haven't already, install Jekyll on your machine like this:
 $ gem install jekyll
 {% endhighlight %}
 
-(You need Ruby to do this, so if you are on windows, take a look here: [https://jekyllrb.com/docs/windows/](https://jekyllrb.com/docs/windows/){:target="_blank"})
+If that doesn't work, you might be missing some requirements:
+
+There are a few pre-requisites to installing jekyll, so depending on your machine, you might have to install them.
+The docs can luckily help you out there:
+[https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/){:target="_blank"} 
+
 
 # Set up a base project
 
@@ -77,7 +80,7 @@ $ jekyll new site-name
 
 That will set up everything you need, and you can start experimenting with the configuration and design by hand.
 
-What I recommend though, is to find a theme to start from. That is what I did.
+What I recommend though, is to find a theme to start from. That's what I did.
 
 You can find themes several places, but jekyllthemes.org seems to be the best place to get them right now:
 [http://jekyllthemes.org/](http://jekyllthemes.org/){:target="_blank"}
@@ -92,7 +95,11 @@ And add content of course..!
 
 # Get all your content from Wordpress
 
-The next step is to get all that precious content you already have created over on your Wordpress blog.
+The next step is to get all that precious content you already have created, over to a format that works for Jekyll.
+
+Which is Markdown. Btw, I love that the format is Markdown, because it is a much more global format that could be easily used in another context than Jekyll.
+
+But your Wordpress content is not in a Markdown format, so what to do?
 
 Well, fear not (too much).
 
@@ -105,7 +112,7 @@ The Jekyll-Exporter plugin is very very easy to use. Just follow these instructi
 1. Select Add New Plugin
 2. Search for Jekyll-Exporter
 3. Install It
-4. Click it in the tools menu
+4. Click on it in the tools menu
 
 I have even create two screenshots for you!
 
@@ -125,7 +132,9 @@ The point is that all your content is now in neatly set up Markdown files which 
 
 You might have to go through them and verify that links and images are OK, but since the Plugin brings permalinks with it, you should be mostly OK.
 
-I did spend some time (actually still going through all the posts) to clean up the markdown source a little bit. I didn't like the link formats for instance.
+I did spend some time (actually still going through all the posts) to clean up the markdown source a little bit.
+
+Either way, just test your content properly.
 
 # Bring your own Disqus
 
@@ -199,14 +208,103 @@ the disqus threads will probably be empty.
 
 This might be where the disqus identifier id could be of some help, but like I said, I haven't looked into that specifically.
 
+When I deploy my site to my real domain, all disqus threads are loaded correctly.
+
 I learned the disqus tricks from this nice blog post on girliemac.com:
 [http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/](http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/){:target="_blank"}
 
 # Fix social links
 
-TODO
+Your blog should be functional and working at this point, but social links are not like you would expect them to.
 
+The shares are not like they used to. There is no excerpt or pictures automatically added when you share on twitter or facebook.
 
+Right now, it is just a link, which looks rather dull. This is how you want your links to appear like automatically:
 
-Social links:
-http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html
+[![Proper Social Link]({{ site.baseurl}}/img/posts/social-link-proper.png)]({{ site.baseurl }}/img/posts/social-link-proper.png) 
+
+To solve this, you need to add some metadata to the HTML "head" tag. This will probably be in a file called "head.html" in your "_includes" folder (I say probably, because it might depend on your setup and theme).
+
+For a more in-depth guide, check this out:
+[http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html](http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html){:target="_blank"}
+ 
+If you just want to know what I did, here is the code I added for my site:
+{% highlight html %}
+{% raw %}
+<meta name="description" content="{{ site.description }}">
+<meta name="author" content="{{ site.author }}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta name="twitter:site" content="@{{ site.twitter_username}} " />
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+{% if page.title %}
+    <!-- Article specific OG data -->
+    <!-- The OG:Type dictates a number of other tags on posts. -->
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content="{{ page.date }}" />
+
+    <meta property="article:author" content="http://twitter.com/{{ site.twitter_username}}" />
+    <meta property="article:publisher" content="http://twitter.com/{{ site.twitter_username}}" />
+
+    {% for tag in page.categories %}
+    <meta property="article:tag" content="{{ tag }}" />
+    {% endfor %}
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@{{ site.twitter_username}} " />
+    <meta name="twitter:title" content="{{ page.title }}" />
+
+    {% if page.image %}
+        <meta property="og:image" content="{{ page.image }}" />
+        <meta name="twitter:image" content="{{ page.image }}" />
+    {% else %}
+        <meta property="og:image" content="{{ site.url }}/{{ site.header-img }}" />
+        <meta name="twitter:image" content="{{ site.url }}{{ site.header-img }}" />
+    {% endif %}
+
+{% else %}
+    <!-- OG data for homepage -->
+    <meta property="og:image" content="{{ site.url }}/{{ site.header-img }}" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:image" content="{{ site.url }}/{{ site.header-img }}" />
+{% endif %}
+{% endraw %}
+{% endhighlight %}
+
+To make this work, you need to keep in mind all the configuration variables that are referenced here.
+
+Notice things like site.twitter_username, site.description, site.author etc.
+
+You can of course hard-code this into the head.html file, but since we are good developers, we pull this kind of stuff into our configuration.
+Many of these configurations should be reused other places, after all.
+
+I suggest that you try to configure as much of this as you can in your _config.yml file.
+
+Here is the part of mine that makes most of this metadata work out:
+{% highlight yaml %}
+{% raw %}
+# Site settings
+title: Gjermund Bjaanes
+header-img: img/bg.png
+email: bjaanes@gmail.com
+copyright_name: Gjermund Bjaanes
+author: Gjermund Bjaanes
+description: "A blog about programming, productivity and lifestyle"
+baseurl: ""
+url: "http://gjermundbjaanes.com"
+twitter_username: gjermundbjaanes
+github_username:  bjaanes
+facebook_username:  bjaanes
+email_username:  bjaanes@gmail.com
+{% endraw %}
+{% endhighlight %}
+
+&nbsp;
+
+So, that's it! Not too bad for a full migration of your content? There is still some tweaks you might want to do to your site, but I suspect that you'll figure that out (just check the docs, or ask someone).
+
+I hope you got some value out of this guide. If you have any questions or just want to chat about how awesome Jekyll is, comment below, or reach out on [twitter](https://twitter.com/gjermundbjaanes){:target="_blank"}.
