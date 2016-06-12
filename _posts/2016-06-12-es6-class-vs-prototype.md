@@ -37,6 +37,23 @@ If you want something to depend upon (because you miss static typing for instanc
 Classes seems to make sense for frameworks. Makes for kind of easy to look at code,
 that is easy for Java programmers. But it might make them think it is normal classes.
 
+
+
+Thought I want to explore:
+Perhaps this quote is something people against classes are hiding behind.
+Just becuase Douglas Crockford said it, doesn't mean it is true?
+I am not sure how I feel about it just yet. I don't mind classes, but what are the 
+real problems with the class syntax? Is it just because they sometimes
+make people create classical inheritance? Or because people wont understand
+prototypes? I want to explore this...
+
+“If a feature is sometimes useful
+and sometimes dangerous
+and if there is a better option
+then always use the better option.”
+~ Douglas Crockford
+
+
  
  
 Links:
