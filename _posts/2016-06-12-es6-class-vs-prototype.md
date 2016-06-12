@@ -54,6 +54,7 @@ then always use the better option.”
 ~ Douglas Crockford
 
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.pe533pal7
+http://chimera.labs.oreilly.com/books/1234000000262/ch03.html#delegate-prototype
  
  
 Links:
