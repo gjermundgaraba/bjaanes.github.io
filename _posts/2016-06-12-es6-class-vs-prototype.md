@@ -53,7 +53,7 @@ and if there is a better option
 then always use the better option.”
 ~ Douglas Crockford
 
-
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.pe533pal7
  
  
 Links:
