@@ -11,7 +11,7 @@ tags:
 ---
 ES6 (ES2015) introduced the new keywords _let_ and _const_, to be used side by side with _var_.
 
-In this post, we'll take a closer look at all three, how the differ, and when to use them.
+In this post, we'll take a closer look at all three, how they differ, and when to use them.
 
 <!--more-->
 
