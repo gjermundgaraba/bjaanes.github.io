@@ -9,15 +9,28 @@ categories:
 tags:
   -
 ---
-TODO: Write intro.
+In this post I will give you a brief introduction to composition and inheritance,
+and an example of how inheritance often can go wrong.
 
-* Inheritance hierarchies are hard to reason about 
-* Mention something about has-a is-a relationships
-* The difference between is-a and has-a relationships is well known and a fundamental part of OOAD, but what is less well known is that almost every is-a relationship would be better off re-articulated as a has-a relationship.
-* Make sure to say that this is my opinion etc.
-
+Many developers use inheritance as their go-to weapon of choice for code re-use and
+to avoid duplication. It can be a good tool, but in many cases, it's not the most efficient.
 
 <!--more-->
+
+
+This post is all about my opinions, thoughts and experiences with inheritance and composition,
+and should in no way be taken as a anything more than that.
+
+Remember to think for yourself and always learn something new, so that you can make 
+the most informed decision possible!
+
+# Inheritance vs composition
+
+* Mention something about has-a is-a relationships
+* The difference between is-a and has-a relationships is well known and a fundamental part of OOAD, but what is less well known is that almost every is-a relationship would be better off re-articulated as a has-a relationship.
+
+
+# Example time
 
 Let's assume we are creating some sort of app that simulates phones of different types.
 
@@ -60,7 +73,7 @@ But, there are some issues with it, so let's go through them.
 
 &nbsp;
 
-# 1 Hard to read and understand
+## 1 Hard to read and understand
 
 Even with this small and grossly simplified piece of code, 
 it's kind of hard to track every moving piece. 
@@ -79,7 +92,7 @@ when you are reading, you want to try to do just that.
 
 &nbsp;
 
-# 2 Easy to break
+## 2 Easy to break
 
 Turns out, having all these fancy abstraction layers have some
 downsides when it comes to making things more brittle. It's very
@@ -96,7 +109,7 @@ be more easily tested for with composition.
 
 &nbsp;
 
-# 3 It creates inflexible designs
+## 3 It creates inflexible designs
 
 Software needs to be able to change, right?
 Some way or another, software needs to be able to change.
@@ -120,7 +133,7 @@ You would have to redesign and figure out a smart way to solve this.
 
 &nbsp;
 
-# 4 It's harder to change behaviour at run-time
+## 4 It's harder to change behaviour at run-time
 
 Inheritance creates a very static and rigid structure for your objects.
 
@@ -136,7 +149,7 @@ easily allow for that at least.
 
 &nbsp;
 
-# What is the alternative?
+## What is the alternative?
 
 We have seen a few reasons why inheritance has some problems. At least deep ones.
 More than one base class, and you are deep, in my opinion. 
