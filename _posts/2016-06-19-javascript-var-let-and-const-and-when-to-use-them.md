@@ -11,7 +11,7 @@ tags:
 ---
 ES6 (ES2015) introduced the new keywords _let_ and _const_, to be used side by side with _var_.
 
-In this post, we'll take a closer look at all three, how the differ, and when to use them.
+In this post, we'll take a closer look at all three, how they differ, and when to use them.
 
 <!--more-->
 
@@ -163,8 +163,8 @@ function test() {
       let myFunctionScopedVariable = 42;
   }
 
-  console.log(myFunctionScopedVariable); // Error, undefined
-  console.log(i); // Error, undefined
+  console.log(myFunctionScopedVariable); ReferenceError: myFunctionScopedVariable is not defined
+  console.log(i); // Uncaught ReferenceError: i is not defined
 }
 
 test();
@@ -198,7 +198,7 @@ It actually is hoisted, but if you try to use it before it's actual
 declaration, an error will be thrown.
 
 The space between the start of the block, and the declaration is called the 
-"Temporal Dead Zone". Don't try to use varible in that zone.
+"Temporal Dead Zone". Don't try to use your variables in that zone.
 
 Allow me to demonstrate:
 
