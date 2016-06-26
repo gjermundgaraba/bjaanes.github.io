@@ -1,6 +1,6 @@
 ---
 title: 'Picks of the month - June 2016'
-date: 2016-05-31T21:25:00+02:00
+date: 2016-06-26T21:25:00+02:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /picks-of-the-month-june-2016/
