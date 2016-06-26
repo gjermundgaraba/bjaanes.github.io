@@ -1,6 +1,6 @@
 ---
 title: About Me
-header-img: "img/about-bg.jpg"
+header-img: "img/bg.png"
 description: "This is what I do."
 layout: page
 ---
