@@ -52,4 +52,14 @@ If you want a free, fast and smooth code editor, I can really recommend Visual S
 
 # #3 Uncharted 4: A Thief's End
 
-I've had some stressful couple of weeks at work, and I needed to play a game.
+[![Uncharted 4: A Thief's End]({{ site.baseurl}}/img/posts/uncharted4.png)]({{ site.baseurl }}/img/posts/uncharted4.png) 
+
+I've had some stressful couple of weeks at work, and I needed let of some steam.
+
+I needed a great game.
+
+I kind of had a feeling that Uncharted 4: A Thief's End was going to be just that.
+
+The previous games were really great, and this one was no exception!
+
+If you like adventure games with great story lines and fantastic graphics, you will probably love Uncharted 4!
