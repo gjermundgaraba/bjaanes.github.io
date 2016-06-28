@@ -21,33 +21,14 @@ It can be anything from blog posts and software tools to books and techniques.
 
 I was recently at a fantastic conference here in Norway: NDC Oslo 2016.
 
-It was a three day event, jam-packed with great talks and amazing people.
+I had a really great time. I learned a lot of new stuff, and met a lot of new people.
 
-After the event I really had a bad case of NDC withdrawal. It was so much fun and I learned a ton!
+I was planning on writing everything about this years NDC in this post, but it got so big
+that I had to put it into it's own post!
 
-There was even a shrimp cruise on the beautiful Oslo Fjords after the first day.
-
-[![Photo from NDC Oslo 2016 1]({{ site.baseurl}}/img/posts/ndc-oslo-2016-1.jpg)]({{ site.baseurl }}/img/posts/ndc-oslo-2016-1.jpg) 
-
-[![Photo from NDC Oslo 2016 2]({{ site.baseurl}}/img/posts/ndc-oslo-2016-2.jpg)]({{ site.baseurl }}/img/posts/ndc-oslo-2016-2.jpg) 
-
-[![Photo from NDC Oslo 2016 3]({{ site.baseurl}}/img/posts/ndc-oslo-2016-3.jpg)]({{ site.baseurl }}/img/posts/ndc-oslo-2016-3.jpg) 
-
-
-Tech conferences are a great way to learn new things and meet new people (or connect with people you already know).
-
-I met several people I had only communicated with on twitter and blogs, plus a bunch of people I didn't know at all.
-
-It was great!
-
-I wanted to share a few specific talks as well, and I want to start with one about how to meet new people at these
-kind of events:
-
-Becoming a social developer by Jermey Clark (LINK TO HIS TWITTER)
-
-[https://vimeo.com/171078099](https://vimeo.com/171078099){:target="_blank"}
-
-* Pick a few talks with videos
+Therefore:
+ 
+[NDC Oslo 2016]({{ site.baseurl }}/ndc-oslo-2016/){:target="_blank"}
 
 &nbsp;
 
@@ -70,3 +51,5 @@ If you want a free, fast and smooth code editor, I can really recommend Visual S
 &nbsp;
 
 # #3 Uncharted 4: A Thief's End
+
+I've had some stressful couple of weeks at work, and I needed to play a game.
