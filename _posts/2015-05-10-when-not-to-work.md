@@ -26,63 +26,121 @@ tags:
   - Lifestyle
   - Productivity
 ---
-You certainly want to work as much as possible, and as effective as possible. After all, you want to be the best you can. You want to write the cleanest, meanest code you possible could.
+You probably want to as much done as possible. After all, you want to be the best you can. 
+
+You want to write the cleanest, meanest code you possible could.
 
 You want to learn as much as humanly possible. You just want to code, dammit!
 
-And please do. BUT - sometimes, it’s time to take a break.
+You want to work a lot, I get it, but you have to know when to not do it too.
 
 <!--more-->
+
+&nbsp;
+
+# Sometimes you gotta stop
+
 Sometimes you just need to stop working and do something else.
 
-If you don’t, it will come back and bite you hard in the ass! If you get burnt out, or injured, it won’t help that you powered through the pain, because you’ll be out of the game for an even longer time. It's just not effective use of your time. And nobody wants that.
+If you don’t, it will come back and bite you hard in the ass! 
 
-When the time for that comes, only you can truly know, because it will differ from person to person. There are however a few important things to consider that are pretty universal. It all boils down to listening to your body and your mind. It will tell you.
+If you get burnt out, or injured, it won’t help that you powered through the pain, 
+because you’ll be out of the game for an even longer time. 
 
-You will be told with pretty good clues:
+It's just not effective use of your time. And nobody wants that. In fact, it's a lot like
+peeing in your pants. Warm for a second, cold for a lot longer.
 
-# You are hurting physically
+But YOU have to figure out when that time to stop is. 
 
-Your body is telling you to take a break!
+Only you can truly know, because it will differ from person to person. 
 
-Your arms ache. Your back is killing you. It’s starting to feel like you might be getting carpel tunnel syndrome. Whatever it is, you know what I am talking about. Your body begs you to stop hurting it with repetitive actions.
+There are however a few important things to consider that are pretty universal. 
 
-There are of course things you should do to minimize these things. Exercise. Use ergonomic keyboard and mice. Have a good chair. Sit correctly. Switch positions a lot. Take many breaks. But even if you are doing that, it might be too much for the body. It wasn’t built for sitting in front of the computer, and you just have to acknowledge that.
-
-The main thing is, don’t let it get worse, because it will be hell to get better.¨
-
-&nbsp;
-
-# You are absolutely exhausted mentally
+It all boils down to listening to your body and your mind. They will let you know:
 
 &nbsp;
 
-Your mind is telling you to take a break!
+# You're hurting physically
 
-If it feels like your brain is not working properly, it’s because it probably isn’t. So why are you wasting your time working? Recharge, dammit!
+![Carpal Tunnel Stock Photo]({{ site.baseurl}}/img/posts/capral-tunnel.jpg)
 
-If you are not focused on your task, you shouldn’t even do it. Just stop. Take a break until you are fit to focus again.
+**Your body is telling you to take a break!**
 
-It’s not much point to grinding your way through coding when you mind isn’t working. You will just need to write that code again later. You will make so many stupid mistakes. It’s like writing code drunk, only it’s not fun.
+Your arms ache. Your back is killing you. It’s starting to feel like you might be getting carpal tunnel syndrome. 
+Whatever it is, you know what I am talking about. 
+
+Your body begs you to stop hurting it with repetitive actions or static positions.
+
+There are of course things you could (and should!) do to minimize these problems ahead of time: 
+
+* Get regular Exercise 
+* Use an ergonomic keyboard and mice 
+* Have a good chair
+* Sit correctly
+* Vary your sitting positions a lot (or even stand) 
+* Take small breaks
+* Stretch
+
+All of the above things are normal advice I assume you already know.
+
+And they can prolong the time before you **have** to stop working...
+
+But. Even if you're doing all that, it might come a time when things gets physically painful.
+
+Our body wasn’t really built for sitting in front of the computer, and you just have to acknowledge that.
+
+The main thing is, don’t let it get worse. Stop it as soon as possible.
+
+Fixing it early is much, much cheaper than fixing it later (sound a bit like Software Development?)
 
 &nbsp;
 
-# You are sick
+# You're absolutely exhausted mentally
 
-Your body is telling you to take a break!
+![Exhausted Stock Photo]({{ site.baseurl}}/img/posts/exhausted.jpg)
 
-This is almost like the first point. Actually, it’s the exact same. If you are sick, you need to get well. Don’t FORCE yourself to code or whatever. Wait until you really want to again. You can of course work a bit when sick, as long as you are not making things worse.
+**Your mind is telling you to take a break!**
+
+If it feels like your brain is not working properly, it’s because it probably isn’t. 
+So why are you wasting your time working? Stop banging that flashlight and just recharge the batteries!
+
+If you're not focused on your task, you shouldn’t do it. Just stop. Take a break until you're fit to focus again.
+
+It’s not much point to grinding your way through coding when you mind isn’t working. 
+You will just need to write that code again later. You will make so many stupid mistakes. 
+
+You might even be able to get away with a small break. Get up and walk around a bit and distance yourself.
+It might just be a small hump: [How to get over a hump](http://www.gjermundbjaanes.com/how-to-get-over-a-hump/){:target="_blank"}
+
+If that doesn't do the trick, you should just take a longer proper break.
+
+Or just go home for the day. You're done... 
 
 &nbsp;
 
-&nbsp;
+# You're sick
+
+![Sick Stock Photo]({{ site.baseurl}}/img/posts/sick.jpg)
+
+**Your body is telling you to take a break!**
+
+If you're sick, you need to get well. Don’t FORCE yourself to code or whatever. 
+
+Wait until you're well.
+
+You can of course work a bit when you have a little cold, but don't make yourself worse.
+
+If you push yourself when sick, you're not going to get better faster. 
+And don't pretend like you're that efficient when you're sick...
 
 &nbsp;
 
-In summary, you shouldn’t work when your body or mind is exhausted and tired. It’s natures nice way to tell you to slow down. You don’t want nature to tell you in any other way.
+# Closing words...
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_28">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhen-not-to-work%2F&linkname=When%20NOT%20to%20work" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhen-not-to-work%2F&linkname=When%20NOT%20to%20work" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhen-not-to-work%2F&linkname=When%20NOT%20to%20work" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+You shouldn’t work when your body or mind is exhausted and tired.
+
+It’s natures nice way to tell you to slow down. 
+
+You don’t want nature to tell you in any other way.
+
+The next tells are a lot less fun to deal with (like burnout, or even heart attacks!)
