@@ -160,6 +160,8 @@ If you want to read a little bit more about tagged template literals, take a loo
 on MDN:
 [Tagged Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals){:target="_blank"}
 
+&nbsp;
+
 # Summary
 
 In this post, I have shown why template literals are a great tool for us

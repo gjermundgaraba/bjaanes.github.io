@@ -341,6 +341,8 @@ most part be _const_. If you make a mistake, most modern tools will give you a h
 
 [![IntelliJ giving a heads up]({{ site.baseurl}}/img/posts/const-tool-help.png)]({{ site.baseurl }}/img/posts/const-tool-help.png)
 
+&nbsp;
+
 # Summary
 
 You should stop using _var_ as soon as you can. 
