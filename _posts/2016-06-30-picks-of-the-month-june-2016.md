@@ -69,6 +69,12 @@ I kind of had a feeling that Uncharted 4: A Thief's End was going to be just tha
 
 The previous games were really great, and this one was no exception!
 
-If you like adventure games with great story lines and fantastic graphics, you will probably love Uncharted 4!
+&nbsp;
 
-Only available for Playstation 4.
+The game had an amazing story line, fantastic graphics and was a ton of fun!
+
+Exploring the marvelous areas, with stunning scenery, all the while kicking the ass of a bunch of bad guys: priceless.
+
+So if you enjoy a great adventure game, you probably will like Uncharted 4.
+
+It's only available for Playstation 4, but it might even be worth the console by itself.
