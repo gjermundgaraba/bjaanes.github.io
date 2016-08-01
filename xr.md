@@ -20,39 +20,48 @@ of just "getting things done". If you aren't getting the *right* things done,
 you are not actually getting any results, you are just keeping busy.
 
 The word agile in this context comes from the software development methodology, Agile Development.
-It's based on being able to be flexible enough to evolve and change with response to change.
- 
-But what changes in personal productivity? 
-
-Well, if you take a look into what you actually do, really reflect on it, 
-you can learn a lot. You can understand which things work really well - and which things could be improved.
-
-And this is part of the Agile Results as well. Being able to reflect and improve all the time.
+It's based on being able to be flexible enough to evolve and respond to change.
 
 &nbsp;
 
 # The basics of Agile Results
 
-The basics of Agile Results is very simple. 
+The basics of Agile Results is very simple. It's also very easy to remember the basic parts. 
 
-Every part of the system is completely optional, and if you ever forget to use it's very easy to get started again.
+Every individual part of the system is also completely optional, and if you ever forget to use it, it's very easy to get started again.
+
+And did I say it's simple? There are very few things to learn too - it's a very small system.
+
 The simplicity and modularity of it all makes the barrier for entry very small.
 
-What I want to focus on, is the outcomes and the reflections of the system. They are very simple, but equally powerful.
+What I want to focus on here, is something called outcomes and reflections. They are very simple, but powerful.
 
 ## Outcomes
 
-The point of the outcomes is to outline 3 outcomes you want to achieve within a specific time frame. The time frames are daily, weekly, monthly and yearly. Each one is broader and more ambitious than the next (The _yearly_ one being the biggest outcomes, and the _daily_ one the smallest outcomes).
+The point of outcomes is to outline 3 goals you want to achieve within a specific time frame.
 
-And you have to limit yourself to just three. This is really important!
+The time frames can typically be daily, weekly, monthly and yearly. 
+Each one is broader and more ambitious than the next 
+(The _yearly_ one being the biggest outcomes, and the _daily_ one the smallest outcomes).
 
-For the daily one you pick three goals you want to have achieved by the end of the day. You can do more, but these three are the wins you commit to that day. And you can use the weekly goals to find out which daily goals makes most sense to you - and so on...
+And you have to limit yourself to just three. This is really important! It's the rule of three!
 
-The great part about the outcomes is that it scales really well. You don't have to set up goals for the year, the month and the week. You can pick and choose! They make sense even if you don't have them all.
+For the daily one you pick three goals you want to have achieved by the end of the day. 
+You can do more, but these three are the wins you commit to that day. 
+And you can use the weekly goals to find out which daily goals makes most sense to you - and so on...
 
-The one I highly recommend you at least stick with, is the daily one. It's the real driver for action in my experience. If you start with that (and you can do it right now - just write down 3 wins for the day!), you can easily add more goals later - if you want to.
+The great part about the outcomes is that it scales really well. 
+You don't have to set up goals for the year, the month and the week. 
+You can pick and choose! They make sense even if you don't have them all.
 
-And again, if you forget for a few days, it's easy to get back up on the horse. Just write down 3 things you want to have done by the end of the day. Super simple!
+The one I highly recommend you at least stick with, is the daily one. 
+It's the real driver for action in my experience. 
+If you start with that (and you can do it right now - just write down 3 wins for the day!), 
+you can easily add more goals later - if you want to.
+
+And again, if you forget for a few days, it's easy to get back up on the horse. 
+Just write down 3 things you want to have done by the end of the day. 
+Super simple!
 
 ## Reflections
 
@@ -64,13 +73,13 @@ For instance, you can look back at the week that went by, and note down the foll
 * 3 things to improve 
 
 So you have to focus on what you actually accomplished, and celebrate yourself for that, 
-but also learn about your mistakes and make sure you do better next time.
+but also learn about your mistakes so that you are able to do even better later.
+
+And, if things change right under your feet, you can easily adapt (being all Agile...).
 
 Using the reflections, you can improve the goals you choose (so that you choose good goals that you can actually finish), 
 and the way you do them.
  
-If things change, and you have to do things differently, this is where these things can be caught easily.
-
 ## Learning more
 
 To learn more about Getting Results the Agile Way, there are two main resources I would like to point you to:
@@ -86,6 +95,15 @@ The problem I had with Agile Results is that is no real way to connect related i
 
 Sure, you can flip back and forth in a notebook, or click around in Evernote. 
 But I wanted the information ready exactly when I needed it - to make things easier.
+
+There are no apps for this! There are plenty GTD apps, but no Agile Result apps!
+
+So this is where Extreme Results (XR) enter.
+
+I created XR for myself, to be able to use Agile Results more easily.
+I created some of the features I knew I had to have, even though there are several others left.
+
+If XR is something more people want, I am fully committed to evolving it into a fully featured product.
 
 ## Related entries
 
