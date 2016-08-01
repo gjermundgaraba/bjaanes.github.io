@@ -4,7 +4,7 @@ header-img: "img/bg.png"
 description: "This is what I do."
 layout: page
 ---
-[<img src="http://maximumdeveloper.com/wp-content/uploads/2014/12/gjermund_round-300x300.png" width="300" height="300" style="margin-left: auto; margin-right: auto"/>](http://maximumdeveloper.com/wp-content/uploads/2014/12/gjermund_round.png)
+[<img src="/wp-content/uploads/2014/12/gjermund_round-300x300.png" width="300" height="300" style="margin-left: auto; margin-right: auto"/>](/wp-content/uploads/2014/12/gjermund_round.png)
 
 My name is Gjermund Bjaanes. I am 25 years old, born and raised in Norway. I am a developer, geek and enthusiast in general. I&#8217;m passionate about programming and software engineering in general. Currently I focus on web development and mobile development on my free time.
 

@@ -4,8 +4,14 @@ header-img: "img/bg.png"
 description: "A digital solution for Agile Results®"
 layout: page
 ---
+
+[<img src="/img/pages/xrlogo.png" width="300" height="300" style="margin-left: auto; margin-right: auto"/>](/img/pages/xrlogo.png)
+
+
 Extreme Results is an Open Source software solution for implementing J.D Meier's 
 personal productivity system, Getting Results The Agile Way (Also called Agile Results).
+
+The app can be found here: [https://xr.gjermundbjaanes.com/](https://xr.gjermundbjaanes.com/)
 
 If you already know what Agile Results is, jump down to the section on [Extreme Results (the app)](#xr).
 
@@ -105,6 +111,8 @@ I created some of the features I knew I had to have, even though there are sever
 
 If XR is something more people want, I am fully committed to evolving it into a fully featured product.
 
+The app can be found here: [https://xr.gjermundbjaanes.com/](https://xr.gjermundbjaanes.com/)
+
 ## Related entries
 
 For instance, when creating your daily outcomes, wouldn't it make sense to be able to see your
@@ -146,3 +154,6 @@ Evey line of code is on Github:
 
 * [XR Server Code](https://github.com/bjaanes/ExtremeResults-WebApp)
 * [XR Web App Code](https://github.com/bjaanes/ExtremeResults-WebApp)
+
+Again, if you want to take a look a the app: 
+[https://xr.gjermundbjaanes.com/](https://xr.gjermundbjaanes.com/)
