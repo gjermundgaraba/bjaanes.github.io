@@ -152,7 +152,7 @@ I'll be happy to work with people on this project.
 
 Evey line of code is on Github:
 
-* [XR Server Code](https://github.com/bjaanes/ExtremeResults-WebApp)
+* [XR Server Code](https://github.com/bjaanes/ExtremeResults-Server)
 * [XR Web App Code](https://github.com/bjaanes/ExtremeResults-WebApp)
 
 Again, if you want to take a look a the app: 
