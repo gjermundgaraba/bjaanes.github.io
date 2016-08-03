@@ -10,8 +10,7 @@ tags:
   -
 ---
 
-After more than a year as a great side project, Extreme Results is finally
-ready for a preview release!
+After more than a year as a great side project, Extreme Results is finally ready for a preview release!
 
 <!--more-->
 
