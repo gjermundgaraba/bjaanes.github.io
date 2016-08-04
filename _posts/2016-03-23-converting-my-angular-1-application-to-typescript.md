@@ -20,22 +20,26 @@ tags:
   - Testing
   - Web
 ---
-With the soon-ish release of Angular 2, it makes sense to start upgrading Angular 1 apps to use TypeScript.
+With the soon-ish release of Angular 2, it made sense to start upgrading Angular 1 apps to use TypeScript.
 
 <!--more-->
+
 I have an Angular 1.x app called "Extreme Results", which I want to upgrade to Angular 2 at some point. All the code mentioned in this post can be found in the GitHub repo for that app:
 
-<a href="https://github.com/bjaanes/ExtremeResults-WebApp" target="_blank">https://github.com/bjaanes/ExtremeResults-WebApp</a>
+[https://github.com/bjaanes/ExtremeResults-WebApp](https://github.com/bjaanes/ExtremeResults-WebApp){:target="_blank"}
+
+If you want to know more about the app itself, and what it does, head over to: [Extreme Results - A digital solution for Agile Results]({{ site.baseurl }}/xr){:target="_blank"}
 
 &nbsp;
 
 <a href="http://gjermundbjaanes.com/wp-content/uploads/2016/03/typescript-logo.png" rel="attachment wp-att-639"><img class="alignnone size-full wp-image-639" src="http://gjermundbjaanes.com/wp-content/uploads/2016/03/typescript-logo.png" alt="Typescript logo" width="250" height="61" /></a>
 
-<a href="https://angular.io/docs/ts/latest/guide/upgrade.html" target="_blank">The Angular teams upgrade guide</a> says that one of the preparation steps for an update to Angular 2 is to migrate your app to TypeScript.
+<a href="https://angular.io/docs/ts/latest/guide/upgrade.html" target="_blank">The Angular teams upgrade guide</a> says that one of the steps to prepare for an update to Angular 2 is to migrate your app to TypeScript.
 
-For this migration I have focused on the build steps, not actually writing anything in TypeScript specifically. This works out, because TypeScript is a super-set of JavaScript. All I really had to do for my source files was to rename them from fileName.js to fileName.ts.
+For this migration I have focused on the build steps, not actually writing anything in TypeScript specifically. 
+This works out, because TypeScript is a super-set of JavaScript. All I've had to do to my source files was to rename them from fileName.js to fileName.ts.
 
-The challenge in this migration was to get the build setup to compile the TypeScript files and still have everything work.
+The challenge in this migration was getting the build steps up and running for TypeScript compilation.
 
 &nbsp;
 
@@ -56,25 +60,27 @@ Now that we know what needs to work, lets get down to business!
 
 &nbsp;
 
-# Turn every file into TypeScript files
+# Turn every file into a TypeScript file
 
 This was the easy part. Just rename every single file from fileName.**js** to fileName.**ts**.
 
-I will later change them to actually use TypeScript functionality. Right now, TypeScript provides no value, but more on that in a later blog post.
+I will later change them to actually use TypeScript functionality. 
+Right now, the "TypeScript" provides no value, but that will change once I start using the features it provides.
 
 If you see any errors while compiling later, you can safely just ignore them for now. We will fix that another time. Right now we will just focus on getting the build processes working with TypeScript.
 
-&nbsp;
-
-If I wanted to, I could have used typescript and compile everything manually, but I need it integrated into the build process I already have. Which brings me to the next step.
+If I wanted to, I could have compiled everything manually, 
+but I need it integrated into the build process I already have. 
+Which brings me to the next step.
 
 &nbsp;
 
 # Bundles
 
-I use something called gulp-bundle-assets to bundle all my files, which is used by the development environment and the distribution builds.
+I use a gulp plugin called gulp-bundle-assets to bundle all my files, 
+which is used in the development environment as well as the production builds.
 
-It basically bundles all javascript files together into smaller files (my own + 3rd party ones).
+It basically bundles all javascript files together into smaller files (my own + 3rd party libraries and such).
 
 &nbsp;
 
@@ -259,8 +265,6 @@ I could, and probably will create some HTML reports on the fly to get the most o
 
 &nbsp;
 
-&nbsp;
-
 For more information on how to use remap-istanbul, take a look at:
   
 <a href="https://github.com/SitePen/remap-istanbul" target="_blank">https://github.com/SitePen/remap-istanbul</a>
@@ -269,14 +273,7 @@ For more information on how to use remap-istanbul, take a look at:
 
 # What now?
 
-Well, now I have TypeScript, but with no benefits. No real value has been added to anything just ye. So that is the next step for the app. Actually using TypeScript to get some value.
+Well, now I have TypeScript, but with no benefits. No real value has been added to anything just yet. 
+So that is the next step for the app. Actually using TypeScript to get some value.
 
-I will come back with a follow-up blog post on just that.
-
-But at least we CAN start writing TypeScript now, without having to worry about everything breaking apart.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_66">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fconverting-my-angular-1-application-to-typescript%2F&linkname=Converting%20My%20Angular%201%20Application%20to%20TypeScript" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fconverting-my-angular-1-application-to-typescript%2F&linkname=Converting%20My%20Angular%201%20Application%20to%20TypeScript" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fconverting-my-angular-1-application-to-typescript%2F&linkname=Converting%20My%20Angular%201%20Application%20to%20TypeScript" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+But at least we CAN start writing TypeScript now.

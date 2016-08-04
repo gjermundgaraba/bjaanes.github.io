@@ -21,7 +21,7 @@ I have spent some time in my <a href="http://gjermundbjaanes.com/tag/smart-home-
 <!--more-->
 You can read more about my decision around that in this blog post:
 
-[Smart home series – Part 4 – Out with Arduino, in with Raspberry Pi](http://gjermundbjaanes.com/smart-home-series-part-4-out-with-arduino-in-with-raspberry-pi/)
+[Smart home series – Part 4 – Out with Arduino, in with Raspberry Pi](http://gjermundbjaanes.com/smart-home-series-part-4-out-with-arduino-in-with-raspberry-pi/){:target="_blank"} 
 
 &nbsp;
 
@@ -47,7 +47,7 @@ The form of the "guide" is a mix of what I did, and step by step instructions on
 
 &nbsp;
 
-## OS
+## Installing the OS
 
 First off, I bought the cheapest Pi's I could find, which were the first generation B+ model. Therefore I figured I would be best off with a lightweight Linux image.
 
@@ -59,6 +59,8 @@ If you need some help with the flashing process (which is fairly easy and strai
 <a href="https://www.raspberrypi.org/documentation/installation/installing-images/README.md" target="_blank">https://www.raspberrypi.org/documentation/installation/installing-images/README.md</a>
 
 I then inserted the memory card into the Raspberry Pi and booted it up. Username "pi" and password "raspberry". Easy as pie!
+
+&nbsp;
 
 ## Configuration
 
@@ -82,11 +84,7 @@ The final general configuration I made was to set up a static IP address. I didn
 
 And to use SSH, I really prefer a static IP.
 
-&nbsp;
-
 To set up a static IP address, follow these steps:
-
-&nbsp;
 
 Open dhcpd.conf with your favorite linux text editor (mine is vim, but you could use nano or something similar if you'd like).
 

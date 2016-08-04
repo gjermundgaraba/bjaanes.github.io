@@ -21,6 +21,8 @@ It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
 
+&nbsp;
+
 # #1 OpenHAB
 
 I have spent some time playing with OpenHab in my Smart Home series, and found it quite powerful. Not **that** easy to use, but very powerful and flexible.

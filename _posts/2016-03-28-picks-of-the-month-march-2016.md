@@ -22,6 +22,8 @@ It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
 
+&nbsp;
+
 # #1 Clean desk
 
 Since I have been playing with hardware a lot during Easter vacation, my desk has been more and more messy.
@@ -32,13 +34,14 @@ Or not. I found myself less and less inclined to sit down at my messy desk. So I
 
 The funny thing is that I KNOW this stuff. Heck, I wrote about it a while ago:
 
-<a href="http://gjermundbjaanes.com/keep-your-life-and-code-clutter-free/" target="_blank">Keep your life (and code) clutter-free</a>
+
+[Keep your life (and code) clutter-free]({{ site.baseurl}}/keep-your-life-and-code-clutter-free/){:target="_blank"}
 
 &nbsp;
 
 Still, I make these mistakes. The important thing is to know when they happen, and correct them:
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/03/IMG_20160328_143429.jpg" rel="attachment wp-att-651"><img class="alignnone  wp-image-651" src="http://gjermundbjaanes.com/wp-content/uploads/2016/03/IMG_20160328_143429.jpg" alt="My Clean Desk" width="502" height="376" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/03/IMG_20160328_143429.jpg 4032w, http://gjermundbjaanes.com/wp-content/uploads/2016/03/IMG_20160328_143429-768x576.jpg 768w" sizes="(max-width: 502px) 100vw, 502px" /></a>
+[![My Desk - Clean]({{ site.baseurl }}/wp-content/uploads/2016/03/IMG_20160328_143429.jpg)]({{ site.baseurl }}/wp-content/uploads/2016/03/IMG_20160328_143429.jpg)
 
 &nbsp;
 
@@ -50,13 +53,14 @@ I felt carpel tunnel syndrome creeping up on me.
 
 Luckily, I found a keyboard and mouse that works wonders for me: Microsoft's Sculpt Ergonomic Keyboard and Mouse.
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/03/keyboardmouse.jpg" rel="attachment wp-att-649"><img class="alignnone wp-image-649" src="http://gjermundbjaanes.com/wp-content/uploads/2016/03/keyboardmouse.jpg" alt="Sculpt Ergonomic Desktop" width="500" height="276" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/03/keyboardmouse.jpg 780w, http://gjermundbjaanes.com/wp-content/uploads/2016/03/keyboardmouse-768x423.jpg 768w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+[![Sculpt Ergonomic Keyboard and Mouse]({{ site.baseurl }}/wp-content/uploads/2016/03/keyboardmouse.jpg)]({{ site.baseurl }}/wp-content/uploads/2016/03/keyboardmouse.jpg)
 
 &nbsp;
 
 It takes a bit of time to get used to, but it feels very natural to use after a short while. And my arms doesn't hurt anymore!
 
-<a href="https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001" target="_blank">https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001</a>
+
+[https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001){:target="_blank"}
 
 &nbsp;
 
@@ -66,12 +70,6 @@ This is an article I found in my twitter feed recently. It is written by Todd Mo
 
 It explains _super_ clearly the differences between factory and service in the Angular 1.X API.
 
-After reading this, you should be able to know exactly when to use each one.
+After reading this, you should be able to know exactly when (and how) to use each one.
 
-<a href="https://toddmotto.com/factory-versus-service" target="_blank">https://toddmotto.com/factory-versus-service</a>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_67">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-march-2016%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20March%202016" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-march-2016%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20March%202016" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-march-2016%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20March%202016" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+[https://toddmotto.com/factory-versus-service](https://toddmotto.com/factory-versus-service){:target="_blank"}

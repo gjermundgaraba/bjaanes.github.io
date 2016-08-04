@@ -18,7 +18,7 @@ This blog post will show you how you can clean your compiled TypeScript using gu
 
 <!--more-->
 
-That means that this is applicable to you if your compiled output is placed next to the TypeScript files (which is what I am doing with [ExtremeResults](https://github.com/bjaanes/ExtremeResults-WebApp)).
+That means that this is applicable to you if your compiled output is placed next to the TypeScript files (which is what I am doing with [ExtremeResults]({{ site.baseurl }}/xr/){:target="_blank"}).
 
 That means that we will be able to clean out these sorts of structures:
 
@@ -39,9 +39,10 @@ I have two solutions prepared for this, both using Gulp.
 
 # First solution: search and replace
 
-The first solution is kind of a "brute-force" solution. It takes a list of typescript files and create a new list of files by replacing the .ts with a .js. Not very intelligent, but it does the job.
+The first solution is kind of a "brute-force" solution. 
 
-&nbsp;
+It takes a list of typescript files and create a new list of files by replacing the .ts with a .js. 
+Not very intelligent, but it does the job.
 
 This is a solution that requires two dependencies: del and glob.
 
@@ -75,7 +76,7 @@ This works, but is very manual, and frankly, a little ugly.
 
 _gulp-clean-compiled-typescript_ is a gulp plugin I wrote and made available on npm. I did that just to be able to do the same as in the first solution, only cleaner.
 
-Also, since I wrote it kind of generic, it might be of use to others! Open Source ftw!
+Also, since I wrote it generic, it might be of use to others! Open Source, yay!
 
 &nbsp;
 

@@ -22,7 +22,7 @@ That is not so useful without something to pick up those MQTT messages and doing
 <!--more-->
 &nbsp;
 
-I mentioned <a href="http://gjermundbjaanes.com/smart-home-series-part-5-grove-and-mqtt-message-cataloger/" target="_blank">last time</a> that I created a MQTT-message-cataloger that would save all these values to a database. The plan _was_ to pick to values up from something else and show them in some sort of dashboard.
+I mentioned [last time]({{ site.baseurl}}/smart-home-series-part-5-grove-and-mqtt-message-cataloger/){:target="_blank"} that I created a MQTT-message-cataloger that would save all these values to a database. The plan _was_ to pick to values up from something else and show them in some sort of dashboard.
 
 I have changed my mind. There is a great existing tool that seems to fit all my needs: OpenHAB.
 
@@ -30,7 +30,8 @@ I have changed my mind. There is a great existing tool that seems to fit all my 
 
 # OpenHAB
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/04/openhab-logo.png" rel="attachment wp-att-663"><img class="alignnone size-full wp-image-663" src="http://gjermundbjaanes.com/wp-content/uploads/2016/04/openhab-logo.png" alt="OpenHAB Logo" width="285" height="81" /></a>
+
+![OpenHab Logo]({{ site.baseurl}}/wp-content/uploads/2016/04/openhab-logo.png)
 
 &nbsp;
 
@@ -50,7 +51,7 @@ It can show real time data from MQTT (and a ton of other protocols), and it supp
 
 You can read more about OpenHAB on their website:
 
-<a href="http://www.openhab.org/" target="_blank">http://www.openhab.org/</a>
+[http://www.openhab.org/](http://www.openhab.org/){:target="_blank"}
 
 &nbsp;
 
@@ -58,7 +59,7 @@ You can read more about OpenHAB on their website:
 
 I have currently 3 Raspberry Pi's working for me. I have one with OpenHAB and the MQTT message broker and two others placed in my apartment with some sensors attached to them.
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/04/IMG_20160410_185710.jpg" rel="attachment wp-att-664"><img class="alignnone wp-image-664" src="http://gjermundbjaanes.com/wp-content/uploads/2016/04/IMG_20160410_185710.jpg" alt="Raspberry Pi with Grove" width="369" height="491" /></a>
+![Raspberry Pi with Grove]({{ site.baseurl}}/wp-content/uploads/2016/04/IMG_20160410_185710.jpg)
 
 &nbsp;
 
@@ -74,11 +75,11 @@ In the OpenHAB app, it looks like this:
 
 &nbsp;
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143816.png" rel="attachment wp-att-665"><img class="alignnone wp-image-665" src="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143816.png" alt="OpenHAB Screenshot Home" width="271" height="482" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143816.png 1080w, http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143816-768x1365.png 768w" sizes="(max-width: 271px) 100vw, 271px" /></a>
+![OpenHAB Screenshot Home]({{ site.baseurl}}/wp-content/uploads/2016/04/Screenshot_20160410-143816.png)
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143834.png" rel="attachment wp-att-666"><img class="alignnone wp-image-666" src="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143834.png" alt="OpenHAB Screenshot Office" width="273" height="485" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143834.png 1080w, http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143834-768x1365.png 768w" sizes="(max-width: 273px) 100vw, 273px" /></a>
+![OpenHAB Screenshot Office]({{ site.baseurl}}/wp-content/uploads/2016/04/Screenshot_20160410-143834.png)
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143850.png" rel="attachment wp-att-667"><img class="alignnone wp-image-667" src="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143850.png" alt="OpenHAB Screenshot Living Room" width="272" height="484" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143850.png 1080w, http://gjermundbjaanes.com/wp-content/uploads/2016/04/Screenshot_20160410-143850-768x1365.png 768w" sizes="(max-width: 272px) 100vw, 272px" /></a>
+![OpenHAB Screenshot Living Room]({{ site.baseurl}}/wp-content/uploads/2016/04/Screenshot_20160410-143850.png)
 
 &nbsp;
 
@@ -92,7 +93,9 @@ It's not the easiest thing to do, since all the setup is done in configuration f
 
 My strategy for learning the configuration was to download the demo site and just changing the configuration to fit my data.
 
-The demo site can be found at their downloads page: <a href="http://www.openhab.org/getting-started/downloads.html" target="_blank">http://www.openhab.org/getting-started/downloads.html</a>
+The demo site can be found at their downloads page: 
+
+[http://www.openhab.org/getting-started/downloads.html](http://www.openhab.org/getting-started/downloads.html){:target="_blank"}
 
 &nbsp;
 
