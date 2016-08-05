@@ -67,21 +67,15 @@ I plan to buy many others, if this pans out.
 
 &nbsp;
 
-<div id="attachment_542" style="width: 321px" class="wp-caption alignnone">
-  <a href="http://gjermundbjaanes.com/wp-content/uploads/2016/01/GrovePi.jpg" rel="attachment wp-att-542"><img class="wp-image-542" src="http://gjermundbjaanes.com/wp-content/uploads/2016/01/GrovePi.jpg" alt="GrovePi+" width="311" height="233" /></a>
-  
-  <p class="wp-caption-text">
-    GrovePi+ The Grove connector to Raspberry Pi.
-  </p>
-</div>
+GrovePi+ The Grove connector to Raspberry Pi:
 
-&nbsp;
+[![GrovePi+ The Grove connector for Raspberry Pi]({{ site.baseurl }}/wp-content/uploads/2016/01/GrovePi.jpg)]({{ site.baseurl }}/wp-content/uploads/2016/01/GrovePi.jpg){:target="_blank"}
 
 They have not yet arrived, but I will write about my experience with Grove when it gets here (in 15-45 days...).
 
 &nbsp;
 
-# Trying out the Raspberry Pi with a sensor
+# Testing Raspberry Pi with a sensor
 
 If you don't know what MQTT is, I suggest that you go back and read: <a href="http://gjermundbjaanes.com/smart-home-series-part-1-learning-mqtt-and-buying-stuff/" target="_blank">Smart home series – Part 1 – Learning MQTT and buying stuff</a>
 
@@ -123,23 +117,16 @@ You don't have to use the Lite image if you want a Desktop with GUI and stuff, b
 
 To hook up the DHT22 to my Raspberry Pi, I just followed the simple wiring explained in this video:
 
-&nbsp;
 
-<div class="embed-container">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IHTnU1T8ETk" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
 
 I am not going to get into the wiring and whatnot, because it is not something I understand completely. It is not a solution I am going to keep either, because I want simpler connections than this (using Grove).
 
-I can show how it ended up looking:
+[![Raspberry Pi Wiring]({{ site.baseurl }}/wp-content/uploads/2016/01/1.jpeg)]({{ site.baseurl }}/wp-content/uploads/2016/01/1.jpeg){:target="_blank"}
 
-&nbsp;
-
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/01/1.jpeg" rel="attachment wp-att-544"><img class="alignnone wp-image-544" src="http://gjermundbjaanes.com/wp-content/uploads/2016/01/1.jpeg" alt="Raspberry Pi connection with DHT22" width="443" height="443" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/01/1.jpeg 893w, http://gjermundbjaanes.com/wp-content/uploads/2016/01/1-150x150.jpeg 150w, http://gjermundbjaanes.com/wp-content/uploads/2016/01/1-768x768.jpeg 768w" sizes="(max-width: 443px) 100vw, 443px" /></a>
-
-Not very pretty, I know.
+Not very pretty, but does the work for a prototype.
 
 &nbsp;
 
@@ -154,11 +141,7 @@ I am using two libraries to do this:
   * Adafruit DHT (mentioned in the Youtube video): <a href="https://github.com/adafruit/Adafruit_Python_DHT" target="_blank">https://github.com/adafruit/Adafruit_Python_DHT</a>
   * Paho MQTT: <a href="https://pypi.python.org/pypi/paho-mqtt/1.1" target="_blank">https://pypi.python.org/pypi/paho-mqtt/1.1</a>
 
-&nbsp;
-
 Adafruit DHT is used to communicate with the DHT22 (temperature sensor) and Paho MQTT is used to publish MQTT messages.
-
-&nbsp;
 
 The logic is very simple:
 
@@ -169,8 +152,6 @@ In an infinite loop I do the following:
   3. Sleep for 30 seconds
 
 And so it goes, forever.
-
-&nbsp;
 
 <pre class="lang:python decode:true">#!/usr/bin/env python
 
@@ -198,13 +179,11 @@ So to run the script I just write the following in the terminal:
 
 &nbsp;
 
-&nbsp;
-
 ## Does everything work?
 
 I have a MQTT client on my computer called MQTTfx, which I use to test the other clients and the broker. I just subscribe to "office/temperature" from my broker, and I can see the temperature getting published every 30 seconds.
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2016/01/MQTTfx.png" rel="attachment wp-att-547"><img class="alignnone wp-image-547" src="http://gjermundbjaanes.com/wp-content/uploads/2016/01/MQTTfx.png" alt="MQTTfx - MQTT client" width="668" height="501" srcset="http://gjermundbjaanes.com/wp-content/uploads/2016/01/MQTTfx.png 1026w, http://gjermundbjaanes.com/wp-content/uploads/2016/01/MQTTfx-768x576.png 768w" sizes="(max-width: 668px) 100vw, 668px" /></a>
+[![MQTTfx client showing everything works]({{ site.baseurl }}/wp-content/uploads/2016/01/MQTTfx.png)]({{ site.baseurl }}/wp-content/uploads/2016/01/MQTTfx.png){:target="_blank"}
 
 Nice! Things that work, feels great after struggeling for such a long time with Arduino. This was much more fun!
 

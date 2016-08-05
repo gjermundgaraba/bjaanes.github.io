@@ -28,15 +28,15 @@ I am very proud of what I have achieved here. Not in terms of reader numbers. No
 
 I am proud that I did what I set out to do!
 
-&nbsp;
-
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Depositphotos_36606389_s-2015.jpg" rel="attachment wp-att-519"><img class="alignnone wp-image-519" src="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Depositphotos_36606389_s-2015.jpg" alt="Success Stock Photo" width="415" height="233" /></a>
+![Success In Sunrise Stock Photo]({{ site.baseurl }}/wp-content/uploads/2015/12/Depositphotos_36606389_s-2015.jpg)
 
 &nbsp;
 
 # So what's next for the blog?
 
-If I did what I set out to do, then what is next? More.
+If I did what I set out to do, then what is next? 
+
+More.
 
 I am not quitting, and I have a few thoughts on what I want to focus on going forward.
 
@@ -91,10 +91,4 @@ Keep learning, keep working out and for Gods sake, <a href="http://gjermundbjaan
 
 Happy New Year!
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Depositphotos_81954556_s-2015.jpg" rel="attachment wp-att-521"><img class="alignnone wp-image-521" src="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Depositphotos_81954556_s-2015.jpg" alt="Happy New Year 2016 Stock Photo" width="448" height="296" /></a>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_56">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhats-coming-in-2016%2F&linkname=What%E2%80%99s%20coming%20in%202016" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhats-coming-in-2016%2F&linkname=What%E2%80%99s%20coming%20in%202016" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhats-coming-in-2016%2F&linkname=What%E2%80%99s%20coming%20in%202016" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+![Happy New Year 2016 Stock Photo]({{ site.baseurl }}/wp-content/uploads/2015/12/Depositphotos_81954556_s-2015.jpg)

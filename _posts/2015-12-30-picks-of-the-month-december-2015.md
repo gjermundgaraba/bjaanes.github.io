@@ -24,7 +24,7 @@ It can be anything from blog posts and software tools to books and techniques.
 
 # #1 Vacation
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Depositphotos_49213857_s-2015.jpg" rel="attachment wp-att-512"><img class="alignnone  wp-image-512" src="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Depositphotos_49213857_s-2015.jpg" alt="Chill vacation" width="432" height="271" /></a>
+![Relax in front of fire stock photo]({{ site.baseurl }}/wp-content/uploads/2015/12/Depositphotos_49213857_s-2015.jpg)
 
 I have picked this one before. But I am currently on Christmas vacation, and it is just so crucial for me.
 
@@ -40,7 +40,7 @@ So, remember to take all the vacation you can, because you won't be very efficie
 
 # #2 The new Coldplay album: "A Head Full of Dreams"
 
-<a href="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams.png" rel="attachment wp-att-511"><img class="alignnone  wp-image-511" src="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams.png" alt="Coldplay A Head Full of Dreams Cover" width="175" height="175" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams-150x150.png 150w" sizes="(max-width: 175px) 100vw, 175px" /></a>
+![Coldplay - A head full of dreams cover]({{ site.baseurl }}/wp-content/uploads/2015/12/Coldplay_-_A_Head_Full_of_Dreams.png)
 
 I like Coldplay quite a bit. They have many good songs. But their latest album is _really_ working for me!
 
@@ -65,13 +65,3 @@ I have not played much around with Angular 2 yet, but I have viewed quite a few 
 &nbsp;
 
 I will probably start playing with it soon. Also I will move some of my projects over from Angular 1.x, as soon as I feel it is stable enough.
-
-&nbsp;
-
-&nbsp;
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_55">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-december-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20December%202015" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-december-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20December%202015" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-december-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20December%202015" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

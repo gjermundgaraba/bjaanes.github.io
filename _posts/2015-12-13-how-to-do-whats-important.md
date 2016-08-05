@@ -124,14 +124,9 @@ It allows you to keep track of your outcomes and reflections in a very smart way
 
 &nbsp;
 
-If you want to give it a shot, I have a very alpha version running on <a href="http://xr.gjermundbjaanes.com" target="_blank">http://xr.gjermundbjaanes.com</a>
+If you want to give it a shot, I have a preview version running on [https://xr.gjermundbjaanes.com](https://xr.gjermundbjaanes.com){:target="_blank"}
 
-Go ahead and register, but don't expect any data to be there for too long. At least I won't guarantee it. I am not going to be performing any data upgrades when things changes.
+I have also written more about it on my page here on [Extreme Results]({{ site.baseurl }}/xr).
 
-But if you want to try it out, and perhaps give me some feedback, I would appreciate it.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_54">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-do-whats-important%2F&linkname=How%20to%20do%20what%E2%80%99s%20important" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-do-whats-important%2F&linkname=How%20to%20do%20what%E2%80%99s%20important" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-do-whats-important%2F&linkname=How%20to%20do%20what%E2%80%99s%20important" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+Head over and register now. Give it a shot, and leave me some feedback if you'd like. 
+I would very much appreciate it!
