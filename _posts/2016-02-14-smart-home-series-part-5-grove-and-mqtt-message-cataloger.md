@@ -48,20 +48,16 @@ However, it DOES work. And it was so nice to have software problems, instead of 
 
 &nbsp;
 
-&nbsp;
-
 ## Setup
 
 To install the needed software and prepare you Raspberry for the Grove, just follow this guide:
   
-http://www.seeedstudio.com/wiki/GrovePi%2B#Get_Started
+[http://www.seeedstudio.com/wiki/GrovePi%2B#Get_Started](http://www.seeedstudio.com/wiki/GrovePi%2B#Get_Started){:target="_blank"}
 
-Testing it with a sample project (based on which sensor you got).
+Try testing it with a sample project (based on which sensor you got).
 
-I tested with the Temperature sensor:
+I tested with the [Temperature sensor](http://www.seeedstudio.com/depot/Grove-Temperature-Sensor-p-774.html){:target="_blank"}:
   
-<a href="http://www.seeedstudio.com/depot/Grove-Temperature-Sensor-p-774.html" target="_blank">http://www.seeedstudio.com/depot/Grove-Temperature-Sensor-p-774.html</a>
-
 Using the following instructions:
   
 <a href="http://www.seeedstudio.com/wiki/index.php?title=Grove_-_Temperature_Sensor&uselang=en#With_Raspberry_Pi" target="_blank">http://www.seeedstudio.com/wiki/index.php?title=Grove_-_Temperature_Sensor&uselang=en#With_Raspberry_Pi</a>
@@ -80,11 +76,7 @@ Inside Software/Python (This is inside the folder downloaded in the setup guide)
 
 <pre class="lang:sh decode:true ">sudo python setup.py install</pre>
 
-&nbsp;
-
 I could then create a script like this:
-
-&nbsp;
 
 <pre class="lang:python decode:true ">#!/usr/bin/env python
 
@@ -112,9 +104,3 @@ readTemperature()</pre>
 Woho! It works!
 
 I have now ordered more Grove components and more Raspberry Pi's. More is coming soon!
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_61">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-5-grove-and-mqtt-message-cataloger%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%205%20%E2%80%93%20Grove%20and%20MQTT-Message-Cataloger" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-5-grove-and-mqtt-message-cataloger%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%205%20%E2%80%93%20Grove%20and%20MQTT-Message-Cataloger" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-5-grove-and-mqtt-message-cataloger%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%205%20%E2%80%93%20Grove%20and%20MQTT-Message-Cataloger" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

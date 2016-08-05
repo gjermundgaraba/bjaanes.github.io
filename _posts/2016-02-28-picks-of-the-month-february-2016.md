@@ -19,6 +19,9 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
+
+&nbsp;
+
 # #1 Grove
 
 I have written about Grove <a href="http://gjermundbjaanes.com/smart-home-series-part-4-out-with-arduino-in-with-raspberry-pi/" target="_blank">previously in my Smart Home Series</a>, and I really wanted to pick this one for February.

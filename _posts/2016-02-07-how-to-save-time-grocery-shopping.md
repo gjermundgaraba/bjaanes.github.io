@@ -28,13 +28,11 @@ One of the biggest time saving changes I have done in my life was probably to ch
 
 The concept is super simple and probably obvious to most people:
 
-&nbsp;
-
 > **Do your grocery shopping as seldom as you can.**
 
 &nbsp;
 
-Shop for at least a week at a time (more might be difficult because of expiration dates, but the rule should be as seldom as you can manage).
+Shop for at least a week at a time (expiration dates can a problem, but it's usually solvable by a freezer).
 
 &nbsp;
 
@@ -44,21 +42,28 @@ Shop for at least a week at a time (more might be difficult because of expiratio
 
 It saves you a lot of time. And money. Every time you go shopping, it's so easy to buy things you don't need too. Perhaps something sweet. I know that tends to happen to me.
 
-Going to the grocery store almost every day takes up a lot of time.
+Going to the grocery store almost every day also takes up a lot of time.
 
-The reason it takes up so much time is because there is quite a bit to it. You have to get there. You have to park. Maneuver around the store to find things. Perhaps you meet someone you know. Stand in line. Get home. It ads up pretty quickly to a lot of time. So let's do it less often!
+The reason it takes up so much time is because there is quite a bit to it. 
+It doesn't sound lik much, but hear me out:
+
+You have to get there. You have to park. Maneuver around the store to find things. Perhaps you meet someone you know. Stand in line. Get home. 
+
+It ads up pretty quickly to a lot of time. Then you can multiply by how often you go to the store. 
 
 &nbsp;
 
 # How to actually do this
 
-Doing this is easier said than done, so I have prepared a few steps that will take you most (if not all) of the way.
+Going to the grocery store less often is easier said than done, s
+o I have prepared a few steps that will help you getting this right.
 
 &nbsp;
 
 ## 1. Set up a day for grocery shopping
 
-I do my grocery shopping every Friday, because that fits neatly into my schedule. It doesn't really matter, just pick a day, and stick to it.
+I do my grocery shopping every friday, because that fits neatly into my schedule. 
+It doesn't really matter, just pick a day, and stick to it (within reason of course).
 
 Having a specific day makes it easier to plan for - because you know you need to do the shopping that day.
 

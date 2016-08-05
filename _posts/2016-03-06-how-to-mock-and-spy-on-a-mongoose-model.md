@@ -1,6 +1,6 @@
 ---
 id: 611
-title: How to mock and spy on a mongoose model
+title: How to mock and spy on a mongoose model (or any other object created by a constructor function)
 date: 2016-03-06T17:30:04+00:00
 author: Gjermund Bjaanes
 layout: post
@@ -21,16 +21,17 @@ tags:
   - Testing
   - Web
 ---
-This post is actually very generic advise on how to mock constructor objects so that you can Jasmine's "spyOn" on objects being created by a constructor.
+Want to know how to mock and spy on objects created by a constructor? 
+
+Allow me to show you!
 
 <!--more-->
+
 &nbsp;
 
 I am currently writing a new back-end for my Extreme Results app using Node.js and Express. I wrote a little about why and how in my previous blog post: <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-7-parse-shutting-down/" target="_blank">Learning Web Dev Series – Part 7: Parse shutting down</a>
 
 I am of course writing unit tests all over the place, and to do that I am using Jasmine, which is the same framework I am using for the client (AngularJS app).
-
-&nbsp;
 
 <img class="alignnone  wp-image-613" src="http://gjermundbjaanes.com/wp-content/uploads/2016/03/plural-of-mongoose.jpg" alt="Mongoose" width="388" height="259" />
 
@@ -77,26 +78,16 @@ OutcomeMock.prototype.remove = function () {};
 OutcomeMock.prototype.validateSync = function () {};
 OutcomeMock.find = function () {};</pre>
 
-&nbsp;
-
 When I create my controllers in my tests, I just send in the OutcomeMock:
 
 <pre class="lang:js decode:true ">var outcomeController = require('../../controllers/outcomeController')(OutcomeMock);</pre>
-
-&nbsp;
 
 I can then spy on my outcome created inside the controller like this:
 
 <pre class="lang:js decode:true">spyOn(OutcomeMock.prototype, 'save');</pre>
 
-&nbsp;
-
 All the code is available on Github, so if you want to see how I do all my testing, take a look:
 
-<a href="https://github.com/bjaanes/ExtremeResults-Server" target="_blank">https://github.com/bjaanes/ExtremeResults-Server</a>
+&nbsp;
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_64">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-mock-and-spy-on-a-mongoose-model%2F&linkname=How%20to%20mock%20and%20spy%20on%20a%20mongoose%20model" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-mock-and-spy-on-a-mongoose-model%2F&linkname=How%20to%20mock%20and%20spy%20on%20a%20mongoose%20model" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-mock-and-spy-on-a-mongoose-model%2F&linkname=How%20to%20mock%20and%20spy%20on%20a%20mongoose%20model" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+[https://github.com/bjaanes/ExtremeResults-Server](https://github.com/bjaanes/ExtremeResults-Server){:target="_blank"}

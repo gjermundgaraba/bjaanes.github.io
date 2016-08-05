@@ -93,12 +93,9 @@ In terms of learning I have a couple more codeschool courses I want to take. I a
 
 # The Journey – Visualized
 
-I have a visual aid to help show where I am currently at in my journey. I have created a “prezi” presentation to visualize my path more clearly. It will be updated through the course of this series – so it might be longer than the current post you are reading.
+I have a visual aid to help show where I am currently at on my journey. 
+I have created a “prezi” presentation to visualize my path more clearly.
 
-<!-- Generated using Prezi Embedder. Get yours here: http://wordpress.org/plugins/prezi-embedder/ -->
+It will be updated through the course of this series – so it might be longer than the current post you are reading.
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_19">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Flearning-web-dev-series-part-4-im-doing-javascript%2F&linkname=Learning%20Web%20Dev%20Series%20%E2%80%93%20Part%204%3A%20I%E2%80%99m%20doing%20JavaScript%21" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Flearning-web-dev-series-part-4-im-doing-javascript%2F&linkname=Learning%20Web%20Dev%20Series%20%E2%80%93%20Part%204%3A%20I%E2%80%99m%20doing%20JavaScript%21" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Flearning-web-dev-series-part-4-im-doing-javascript%2F&linkname=Learning%20Web%20Dev%20Series%20%E2%80%93%20Part%204%3A%20I%E2%80%99m%20doing%20JavaScript%21" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/qw_th0tunlig/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5Z1dXQ2NrZmxzTUkzQzVuY0VHOE5pYlNBPT0&amp;landing_sign=eWrNGYWglpDcwskHxWzK7F5OXloZNbJvu1vURiFuHqk"></iframe>
