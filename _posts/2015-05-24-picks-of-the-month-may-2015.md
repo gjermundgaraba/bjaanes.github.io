@@ -60,9 +60,7 @@ I have always like the idea of meditation and mindfulness. It always was on my â
 
 I was inspired by this talk by Igor Minar (from the Angular Core Team) from ng-conf 2015:
 
-<div class="embed-container">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IGeaXo2ZBr0" frameborder="0" allowfullscreen></iframe>
 
 He also made a page for this particular talk that you can check out here:
 

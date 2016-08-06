@@ -50,9 +50,7 @@ I will be using Arduino somehow for the sensor devices, but I haven’t figured 
 
 I highly recommend that you spend some time learning this technology, because it seems to be one of the cornerstones of this particular field. I watched this talk about MQTT, which even have a live demo:
 
-<div class="embed-container">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLEYQ4VToos" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
 
@@ -65,11 +63,3 @@ I have bought a lot of stuff the last weeks. I went absolutely nuts on eBay and 
 I still don’t know exactly what I truly need, but as soon as I really figure that out, I will let you know. For now I am stumbling around in this new landscape of electronics, IoT and embedded devices.
 
 Until next time!
-
-&nbsp;
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_46">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-1-learning-mqtt-and-buying-stuff%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%201%20%E2%80%93%20Learning%20MQTT%20and%20buying%20stuff" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-1-learning-mqtt-and-buying-stuff%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%201%20%E2%80%93%20Learning%20MQTT%20and%20buying%20stuff" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-1-learning-mqtt-and-buying-stuff%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%201%20%E2%80%93%20Learning%20MQTT%20and%20buying%20stuff" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

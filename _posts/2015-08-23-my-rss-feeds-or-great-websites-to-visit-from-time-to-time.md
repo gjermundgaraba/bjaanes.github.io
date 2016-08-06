@@ -421,13 +421,3 @@ Feedbin.com:
 Reeder:
 
 [<img class="alignnone wp-image-352" src="http://gjermundbjaanes.com/wp-content/uploads/2015/08/IMG_0388.png" alt="Screenshot of Reeder on iPhone" width="340" height="605" />](http://gjermundbjaanes.com/wp-content/uploads/2015/08/IMG_0388.png)
-
-&nbsp;
-
-&nbsp;
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_41">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fmy-rss-feeds-or-great-websites-to-visit-from-time-to-time%2F&linkname=My%20RSS%20Feeds%20%28or%3A%20great%20websites%20to%20visit%20from%20time%20to%20time%29" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fmy-rss-feeds-or-great-websites-to-visit-from-time-to-time%2F&linkname=My%20RSS%20Feeds%20%28or%3A%20great%20websites%20to%20visit%20from%20time%20to%20time%29" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fmy-rss-feeds-or-great-websites-to-visit-from-time-to-time%2F&linkname=My%20RSS%20Feeds%20%28or%3A%20great%20websites%20to%20visit%20from%20time%20to%20time%29" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

@@ -21,9 +21,10 @@ tags:
 ---
 It took longer than I wanted to get to Part 2, but I was waiting on several parts from China. 
 
-Note to self: buying cheap stuff from China might be slooooow. I knew this, but still sucks.
+Note to self: buying cheap stuff from China might be very slow! I knew this, but still sucked.
 
 <!--more-->
+
 I was also missing a lot of soldering equipment, which I found out every time I sat down to actually attempt this.
 
 I needed a WiFi component for my Arduino, so I bought a ESP8266 WiFi Shield from SparkFun:
@@ -86,11 +87,9 @@ I learned the technique from a Youtube video (I mean, why not?).
 
 The result turned out a hundred times better than my previous attempts.
 
-If you have no idea how to do this, I recommend this video:
+If you have no idea how to do this, you should check out this video:
 
-<div class="embed-container">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f95i88OSWB4" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
 
@@ -130,9 +129,3 @@ Perhaps I should have practiced on some less important things first? Yes, I shou
 &nbsp;
 
 I think the soldering technique was decent; I just messed up somewhere. It happens.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_51">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-2-learning-to-solder-and-failing-at-it%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%202%20%E2%80%93%20Learning%20to%20solder%20and%20failing%20at%20it" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-2-learning-to-solder-and-failing-at-it%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%202%20%E2%80%93%20Learning%20to%20solder%20and%20failing%20at%20it" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-2-learning-to-solder-and-failing-at-it%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%202%20%E2%80%93%20Learning%20to%20solder%20and%20failing%20at%20it" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
