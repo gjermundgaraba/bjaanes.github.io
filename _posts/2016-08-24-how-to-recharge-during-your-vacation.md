@@ -12,7 +12,7 @@ tags:
 
 I recently had a 3 week summer vacation, which was much needed. I was exhausted from an extended period of hard work. Because I was so in need of a recharge, I tried to spend my vacation doing the most therapeutic activities I could think of.
 
-So this post is all about what I did to recharge myself over the course of three weeks, and how you can try them as well.
+So this post is all about what I did to recharge myself over the course of 3 weeks, and how you can try them as well.
 
 <!--more-->
 
