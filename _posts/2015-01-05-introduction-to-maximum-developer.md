@@ -12,7 +12,7 @@ categories:
 tags:
   - Blog
 ---
-Note: The name of the blog has been changed since this was written. The blog is now named after myself: Gjermund Bjaanes.
+*Note: The name of the blog has been changed since this was written. The blog is now named after myself: Gjermund Bjaanes.*
 
 Still, the content of the blog is mostly the same as mentioned in this post.
 
