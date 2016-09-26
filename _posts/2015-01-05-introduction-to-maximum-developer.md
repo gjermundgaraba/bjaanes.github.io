@@ -4,7 +4,6 @@ title: Introduction to Maximum Developer
 date: 2015-01-05T18:33:07+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=42
 permalink: /introduction-to-maximum-developer/
 dsq_thread_id:
   - 3392629557
