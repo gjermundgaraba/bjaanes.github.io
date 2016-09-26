@@ -71,7 +71,7 @@ The most important thing is that is should NOT hurt. At all! The best thing you 
 
 When you do sit down and work, get up every 30 minutes or so and move around. Roll your shoulders and walk around. Get blood flowing.
 
-It's also very beneficial for health and productivity, so thats good! I actually wrote a little bit about that recently: <a href="http://maximumdeveloper.com/why-its-so-important-to-stand-up/" target="_blank">Why it’s so important to stand up</a>
+It's also very beneficial for health and productivity, so thats good! I actually wrote a little bit about that recently: <a href="http://gjermundbjaanes.com/why-its-so-important-to-stand-up/" target="_blank">Why it’s so important to stand up</a>
 
 &nbsp;
 
@@ -85,7 +85,7 @@ You rub the stick on the areas where you have pain. After about 15 minutes it st
 
 The stick get some serious blood flow through your shoulders and the painful areas. I used this a couple of times every single day, and I believe it really helped my shoulders out.
 
-[<img class="alignnone size-full wp-image-318" src="http://maximumdeveloper.com/wp-content/uploads/2015/07/heatstick.png" alt="heatstick" width="155" height="300" />](http://maximumdeveloper.com/wp-content/uploads/2015/07/heatstick.png)
+[<img class="alignnone size-full wp-image-318" src="http://gjermundbjaanes.com/wp-content/uploads/2015/07/heatstick.png" alt="heatstick" width="155" height="300" />](http://gjermundbjaanes.com/wp-content/uploads/2015/07/heatstick.png)
 
 Read more about it here:
   

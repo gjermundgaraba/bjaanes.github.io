@@ -90,7 +90,7 @@ Easy as that.
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-157" src="http://maximumdeveloper.com/wp-content/uploads/2015/02/1231.png" alt="123" width="456" height="220" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/1231.png 456w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/1231-300x145.png 300w" sizes="(max-width: 456px) 100vw, 456px" />](http://maximumdeveloper.com/wp-content/uploads/2015/02/1231.png)
+[<img class="alignnone size-full wp-image-157" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/1231.png" alt="123" width="456" height="220" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/1231.png 456w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/1231-300x145.png 300w" sizes="(max-width: 456px) 100vw, 456px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/1231.png)
 
 ## Base 16 (Hex):
 
@@ -130,7 +130,7 @@ The total number shown in our decimal system is then calculated by adding the nu
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-159" src="http://maximumdeveloper.com/wp-content/uploads/2015/02/b2c.png" alt="b2c" width="456" height="220" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/b2c.png 456w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/b2c-300x145.png 300w" sizes="(max-width: 456px) 100vw, 456px" />](http://maximumdeveloper.com/wp-content/uploads/2015/02/b2c.png)
+[<img class="alignnone size-full wp-image-159" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/b2c.png" alt="b2c" width="456" height="220" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/b2c.png 456w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/b2c-300x145.png 300w" sizes="(max-width: 456px) 100vw, 456px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/b2c.png)
 
 # Making sense of the numbers
 
@@ -138,7 +138,7 @@ A hex color is made up of three parts that represent the amount of Red, Green an
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-137" src="http://maximumdeveloper.com/wp-content/uploads/2015/02/hexcolor.png" alt="hexcolor" width="640" height="220" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/hexcolor.png 640w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/hexcolor-300x103.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/hexcolor-600x206.png 600w" sizes="(max-width: 640px) 100vw, 640px" />](http://maximumdeveloper.com/wp-content/uploads/2015/02/hexcolor.png)
+[<img class="alignnone size-full wp-image-137" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/hexcolor.png" alt="hexcolor" width="640" height="220" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/hexcolor.png 640w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/hexcolor-300x103.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/hexcolor-600x206.png 600w" sizes="(max-width: 640px) 100vw, 640px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/hexcolor.png)
 
 &nbsp;
 

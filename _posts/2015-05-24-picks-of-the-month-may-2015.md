@@ -42,7 +42,7 @@ MDN is a great site for all things web documentation. MDN is one of the sites th
 The provide documentation for Web API’s, HTML, CSS, JavaScript and more. They also have great tutorials for learning these technologies.
 
 <div id="attachment_267" style="width: 622px" class="wp-caption alignnone">
-  <a href="http://maximumdeveloper.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30.png"><img class=" wp-image-267" src="http://maximumdeveloper.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30.png" alt="Mozilla Developer Network" width="612" height="494" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30-300x242.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30-945x762.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30-600x484.png 600w" sizes="(max-width: 612px) 100vw, 612px" /></a>
+  <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30.png"><img class=" wp-image-267" src="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30.png" alt="Mozilla Developer Network" width="612" height="494" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30-300x242.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30-945x762.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.25.30-600x484.png 600w" sizes="(max-width: 612px) 100vw, 612px" /></a>
   
   <p class="wp-caption-text">
     Mozilla Developer Network Web Site
@@ -76,7 +76,7 @@ They also provide a 10-day free trail where you can do a 10-day start course to 
 &nbsp;
 
 <div id="attachment_268" style="width: 643px" class="wp-caption alignnone">
-  <a href="http://maximumdeveloper.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png"><img class=" wp-image-268" src="http://maximumdeveloper.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png" alt="Headspace - Gym Membership for your Mind" width="633" height="269" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png 800w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20-300x128.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20-600x255.png 600w" sizes="(max-width: 633px) 100vw, 633px" /></a>
+  <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png"><img class=" wp-image-268" src="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png" alt="Headspace - Gym Membership for your Mind" width="633" height="269" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20.png 800w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20-300x128.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-22-at-16.28.20-600x255.png 600w" sizes="(max-width: 633px) 100vw, 633px" /></a>
   
   <p class="wp-caption-text">
     Headspace - Gym Membership for your Mind

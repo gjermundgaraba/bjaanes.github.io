@@ -43,7 +43,7 @@ Check it out: <a href="https://www.jetbrains.com/webstorm/" target="_blank">http
 
 &nbsp;
 
-[<img class="alignnone wp-image-196" src="http://maximumdeveloper.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07.png" alt="WebStorm" width="733" height="426" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07.png 1200w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07-300x175.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07-1024x596.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07-945x550.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07-600x349.png 600w" sizes="(max-width: 733px) 100vw, 733px" />](http://maximumdeveloper.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07.png)
+[<img class="alignnone wp-image-196" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07.png" alt="WebStorm" width="733" height="426" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07.png 1200w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07-300x175.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07-1024x596.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07-945x550.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07-600x349.png 600w" sizes="(max-width: 733px) 100vw, 733px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.07.png)
 
 &nbsp;
 
@@ -55,7 +55,7 @@ Check it out: <a href="https://www.codeschool.com/" target="_blank">https://www.
 
 &nbsp;
 
-[<img class="alignnone wp-image-197" src="http://maximumdeveloper.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png" alt="CodeSchool" width="746" height="433" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png 1200w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-300x174.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-1024x595.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-945x549.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-600x349.png 600w" sizes="(max-width: 746px) 100vw, 746px" />](http://maximumdeveloper.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png)
+[<img class="alignnone wp-image-197" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png" alt="CodeSchool" width="746" height="433" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png 1200w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-300x174.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-1024x595.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-945x549.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-600x349.png 600w" sizes="(max-width: 746px) 100vw, 746px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png)
 
 &nbsp;
 
@@ -67,7 +67,7 @@ Check it out: <a href="https://www.wunderlist.com/" target="_blank">https://www.
 
 &nbsp;
 
-[<img class="alignnone wp-image-198" src="http://maximumdeveloper.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png" alt="Wunderlist" width="722" height="485" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png 1000w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-300x202.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-945x635.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-600x403.png 600w" sizes="(max-width: 722px) 100vw, 722px" />](http://maximumdeveloper.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png)
+[<img class="alignnone wp-image-198" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png" alt="Wunderlist" width="722" height="485" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png 1000w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-300x202.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-945x635.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-600x403.png 600w" sizes="(max-width: 722px) 100vw, 722px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png)
 
 &nbsp;
 

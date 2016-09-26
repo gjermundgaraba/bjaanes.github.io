@@ -55,7 +55,7 @@ You might even get angry (I certainly do sometimes).
 
 Sometimes I have whole days that are humps. Those days things go very slow. I can’t focus properly. I can’t engineer for shit.
 
-<img class="alignnone wp-image-322" src="http://maximumdeveloper.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015.jpg" alt="Struggeling at computer" width="550" height="367" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015.jpg 1000w, http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015-300x200.jpg 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015-945x630.jpg 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015-600x400.jpg 600w" sizes="(max-width: 550px) 100vw, 550px" />
+<img class="alignnone wp-image-322" src="http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015.jpg" alt="Struggeling at computer" width="550" height="367" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015.jpg 1000w, http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015-300x200.jpg 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015-945x630.jpg 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/07/Depositphotos_4424303_m-2015-600x400.jpg 600w" sizes="(max-width: 550px) 100vw, 550px" />
 
 &nbsp;
 

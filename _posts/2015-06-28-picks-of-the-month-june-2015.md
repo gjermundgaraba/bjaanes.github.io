@@ -45,7 +45,7 @@ I haven’t used it too long, but I am sure it will help me towards being more h
 
 I wrote a little post about why should be standing more, take a read if you are interested in the benefits from standing more often:
   
-<a href="http://maximumdeveloper.com/why-its-so-important-to-stand-up/" target="_blank">Why it’s so important to stand up</a>
+<a href="http://gjermundbjaanes.com/why-its-so-important-to-stand-up/" target="_blank">Why it’s so important to stand up</a>
 
 # #2 Blogpost: "We have a problem with promises" by Nolan Lawson
 

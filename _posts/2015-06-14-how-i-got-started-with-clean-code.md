@@ -57,7 +57,7 @@ The second thing you need is a book from Robert C. Martin (aka. Uncle Bob) calle
 
 <a href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882</a>
 
-[<img class="alignnone wp-image-299" src="http://maximumdeveloper.com/wp-content/uploads/2015/06/0132350882.jpg" alt="Clean Code by Robert C. Martin Cover" width="260" height="345" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/06/0132350882.jpg 488w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/0132350882-226x300.jpg 226w" sizes="(max-width: 260px) 100vw, 260px" />](http://maximumdeveloper.com/wp-content/uploads/2015/06/0132350882.jpg)
+[<img class="alignnone wp-image-299" src="http://gjermundbjaanes.com/wp-content/uploads/2015/06/0132350882.jpg" alt="Clean Code by Robert C. Martin Cover" width="260" height="345" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/06/0132350882.jpg 488w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/0132350882-226x300.jpg 226w" sizes="(max-width: 260px) 100vw, 260px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/06/0132350882.jpg)
 
 Really read this book. Take notes.
 
@@ -87,7 +87,7 @@ It is how you learn, and how you become a clean code practitioner (aka. a profes
 
 Seriously, just do it.
 
-[<img class=" wp-image-221" src="http://maximumdeveloper.com/wp-content/uploads/2015/04/Do-it1.png" alt="Do it - From the masterpiece 'Starsky and Hutch'." width="289" height="222" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png 529w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1-300x231.png 300w" sizes="(max-width: 289px) 100vw, 289px" />](http://maximumdeveloper.com/wp-content/uploads/2015/04/Do-it1.png)
+[<img class=" wp-image-221" src="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png" alt="Do it - From the masterpiece 'Starsky and Hutch'." width="289" height="222" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png 529w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1-300x231.png 300w" sizes="(max-width: 289px) 100vw, 289px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png)
 
 <div class="addtoany_share_save_container addtoany_content_bottom">
   <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_32">

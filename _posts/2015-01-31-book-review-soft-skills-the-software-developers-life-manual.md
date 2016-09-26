@@ -33,7 +33,7 @@ Soft skills are basically the non-techical skills you need to be successful in y
 
 John Sonmez is the founder of the amazing blog “Simple Programmer” (www.simpleprogrammer.com), and is also involved in many different endeavours (like podcasts, development, speaking etc). He has a long track record of showing people how to get their dream job and in general get ahead in life. His blog is full of this stuff.
 
-[<img class="alignnone wp-image-120" src="http://maximumdeveloper.com/wp-content/uploads/2015/01/4ED289D8-9EAE-45AE-A80B-DDD96DBE182C.jpg" alt="4ED289D8-9EAE-45AE-A80B-DDD96DBE182C" width="261" height="327" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/01/4ED289D8-9EAE-45AE-A80B-DDD96DBE182C.jpg 399w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/4ED289D8-9EAE-45AE-A80B-DDD96DBE182C-239x300.jpg 239w" sizes="(max-width: 261px) 100vw, 261px" />](http://maximumdeveloper.com/wp-content/uploads/2015/01/4ED289D8-9EAE-45AE-A80B-DDD96DBE182C.jpg)
+[<img class="alignnone wp-image-120" src="http://gjermundbjaanes.com/wp-content/uploads/2015/01/4ED289D8-9EAE-45AE-A80B-DDD96DBE182C.jpg" alt="4ED289D8-9EAE-45AE-A80B-DDD96DBE182C" width="261" height="327" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/01/4ED289D8-9EAE-45AE-A80B-DDD96DBE182C.jpg 399w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/4ED289D8-9EAE-45AE-A80B-DDD96DBE182C-239x300.jpg 239w" sizes="(max-width: 261px) 100vw, 261px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/01/4ED289D8-9EAE-45AE-A80B-DDD96DBE182C.jpg)
 
 # What is this book all about?
 

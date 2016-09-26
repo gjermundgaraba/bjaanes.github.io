@@ -51,11 +51,11 @@ I recently switched out my entire development rig for a ‘fully’ upgraded iMa
 
 It really makes it easy to get a clean desk:
 
-[<img class="alignnone wp-image-246" src="http://maximumdeveloper.com/wp-content/uploads/2015/04/0.jpeg" alt="iMac 27&quot; 5K" width="769" height="577" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/0.jpeg 2560w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/0-300x225.jpeg 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/0-1024x768.jpeg 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/0-945x709.jpeg 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/0-600x450.jpeg 600w" sizes="(max-width: 769px) 100vw, 769px" />](http://maximumdeveloper.com/wp-content/uploads/2015/04/0.jpeg)
+[<img class="alignnone wp-image-246" src="http://gjermundbjaanes.com/wp-content/uploads/2015/04/0.jpeg" alt="iMac 27&quot; 5K" width="769" height="577" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/0.jpeg 2560w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/0-300x225.jpeg 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/0-1024x768.jpeg 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/0-945x709.jpeg 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/0-600x450.jpeg 600w" sizes="(max-width: 769px) 100vw, 769px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/04/0.jpeg)
 
 I have nothing to distract me, and that has been really great. It’s much easier to focus. I recently wrote about that here:
   
-<a href="http://maximumdeveloper.com/keep-your-life-and-code-clutter-free/" target="_blank">Keep your life (and code) clutter-free</a>
+<a href="http://gjermundbjaanes.com/keep-your-life-and-code-clutter-free/" target="_blank">Keep your life (and code) clutter-free</a>
 
 The monitor is also insanely crisp and everything looks really vibrant on it. The resolution make it very easy to multitask. More pixels > more monitors. I also want a secondary 5K monitor now, because... Well, it would be awesome!
 

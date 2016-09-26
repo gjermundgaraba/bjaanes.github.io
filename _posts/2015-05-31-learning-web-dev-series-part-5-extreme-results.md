@@ -27,7 +27,7 @@ tags:
   - Web
   - Web Dev Series
 ---
-It’s been a little while since <a href="http://maximumdeveloper.com/learning-web-dev-series-part-4-im-doing-javascript/" target="_blank">I last gave an update on my journey through learning Web Development</a>.
+It’s been a little while since <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-4-im-doing-javascript/" target="_blank">I last gave an update on my journey through learning Web Development</a>.
 
 <!--more-->
 &nbsp;
@@ -103,7 +103,7 @@ I will write more later about the technologies I have used, and why. For now, th
 Currently, the project is in a infant state. There is no design, no colours, nothing pretty to look at. I am focusing on creating basic layout and functionality that I can actually use on day to day basis.
 
 <div id="attachment_273" style="width: 696px" class="wp-caption alignnone">
-  <a href="http://maximumdeveloper.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21.png"><img class=" wp-image-273" src="http://maximumdeveloper.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21.png" alt="Current Screenshot of Extreme Results" width="686" height="358" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21.png 1382w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21-300x157.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21-1024x535.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21-945x494.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21-600x313.png 600w" sizes="(max-width: 686px) 100vw, 686px" /></a>
+  <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21.png"><img class=" wp-image-273" src="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21.png" alt="Current Screenshot of Extreme Results" width="686" height="358" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21.png 1382w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21-300x157.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21-1024x535.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21-945x494.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-31-at-18.49.21-600x313.png 600w" sizes="(max-width: 686px) 100vw, 686px" /></a>
   
   <p class="wp-caption-text">
     Current Screenshot of Extreme Results

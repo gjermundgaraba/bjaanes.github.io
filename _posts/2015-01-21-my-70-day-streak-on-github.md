@@ -30,7 +30,7 @@ First off, I know this is by no means a record or particularly great.
 But I want to share my small streak story and how it helped me get a ABC (Always Be Coding) habit.
 
 <!--more-->
-<a title="The most important habit to become a great developer" href="http://maximumdeveloper.com/the-most-important-habit-to-become-a-great-developer/" target="_blank">Read more about ABC, and why its so important.</a>
+<a title="The most important habit to become a great developer" href="http://gjermundbjaanes.com/the-most-important-habit-to-become-a-great-developer/" target="_blank">Read more about ABC, and why its so important.</a>
 
 &nbsp;
 
@@ -62,7 +62,7 @@ I recommend you try going for a streak. Pick a project or two and keep the commi
 
 &nbsp;
 
-[<img class="alignnone wp-image-101" src="http://maximumdeveloper.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25.png" alt="Screen Shot 2015-01-15 at 20.13.25" width="619" height="244" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25.png 1458w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25-300x119.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25-1024x405.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25-945x373.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25-600x237.png 600w" sizes="(max-width: 619px) 100vw, 619px" />](http://maximumdeveloper.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25.png)
+[<img class="alignnone wp-image-101" src="http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25.png" alt="Screen Shot 2015-01-15 at 20.13.25" width="619" height="244" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25.png 1458w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25-300x119.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25-1024x405.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25-945x373.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25-600x237.png 600w" sizes="(max-width: 619px) 100vw, 619px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-15-at-20.13.25.png)
 
 &nbsp;
 

@@ -34,7 +34,7 @@ It's how to add a newer vsion of moment js to your Parse Cloud code.
 
 The Backend-As-A-Service &#8216;Parse' has a great feature called Cloud Code. It is Javascript that you host and run on Parse's infrastructure. You can call it from your apps (via SDK's or REST API's). It's a great way to reuse a lot of code (if you for instance are writing apps for web, iOS and Android - much of the complex logic can be extracted into Cloud Code).
 
-Anyways, I am currently writing a lot of Cloud Code for my new web app "Extreme Results" (which I wrote a little about here: <a href="http://maximumdeveloper.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">Learning Web Dev Series – Part 5: Extreme Results</a>).
+Anyways, I am currently writing a lot of Cloud Code for my new web app "Extreme Results" (which I wrote a little about here: <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">Learning Web Dev Series – Part 5: Extreme Results</a>).
 
 &nbsp;
 

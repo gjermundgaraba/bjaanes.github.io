@@ -45,7 +45,7 @@ The delegate object comes from another controller that can help answer those que
 &nbsp;
 
 <div id="attachment_254" style="width: 212px" class="wp-caption aligncenter">
-  <a href="http://maximumdeveloper.com/wp-content/uploads/2015/05/Untitled-Diagram-1.jpg"><img class="size-full wp-image-254" src="http://maximumdeveloper.com/wp-content/uploads/2015/05/Untitled-Diagram-1.jpg" alt="Simple diagram showing how controller communication using delegates work" width="202" height="409" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Untitled-Diagram-1.jpg 202w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Untitled-Diagram-1-148x300.jpg 148w" sizes="(max-width: 202px) 100vw, 202px" /></a>
+  <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Untitled-Diagram-1.jpg"><img class="size-full wp-image-254" src="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Untitled-Diagram-1.jpg" alt="Simple diagram showing how controller communication using delegates work" width="202" height="409" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/05/Untitled-Diagram-1.jpg 202w, http://gjermundbjaanes.com/wp-content/uploads/2015/05/Untitled-Diagram-1-148x300.jpg 148w" sizes="(max-width: 202px) 100vw, 202px" /></a>
   
   <p class="wp-caption-text">
     Simple diagram showing how controller communication using delegates work

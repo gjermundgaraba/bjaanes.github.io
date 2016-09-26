@@ -79,7 +79,7 @@ This is one of the best investments you can make for yourself, it it will certai
 
 Just...
 
-[<img class=" wp-image-221" src="http://maximumdeveloper.com/wp-content/uploads/2015/04/Do-it1.png" alt="Do it - From the masterpiece 'Starsky and Hutch'." width="627" height="482" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png 529w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1-300x231.png 300w" sizes="(max-width: 627px) 100vw, 627px" />](http://maximumdeveloper.com/wp-content/uploads/2015/04/Do-it1.png)
+[<img class=" wp-image-221" src="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png" alt="Do it - From the masterpiece 'Starsky and Hutch'." width="627" height="482" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png 529w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1-300x231.png 300w" sizes="(max-width: 627px) 100vw, 627px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png)
 
 <div class="addtoany_share_save_container addtoany_content_bottom">
   <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_22">
