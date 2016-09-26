@@ -4,7 +4,6 @@ title: How HEX colors work
 date: 2015-02-09T12:59:14+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=136
 permalink: /how-hex-colors-work/
 video_url:
   - 

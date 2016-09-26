@@ -4,7 +4,6 @@ title: 'Learning Web Dev Series &#8211; Part 5: Extreme Results'
 date: 2015-05-31T18:04:30+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=272
 permalink: /learning-web-dev-series-part-5-extreme-results/
 video_url:
   - 

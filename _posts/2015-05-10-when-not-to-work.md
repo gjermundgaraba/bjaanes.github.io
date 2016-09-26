@@ -4,7 +4,6 @@ title: When NOT to work
 date: 2015-05-10T09:31:43+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=260
 permalink: /when-not-to-work/
 video_url:
   - 

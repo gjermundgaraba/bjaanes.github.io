@@ -4,7 +4,6 @@ title: The most important habit to become a great developer
 date: 2015-01-11T13:03:26+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=51
 permalink: /the-most-important-habit-to-become-a-great-developer/
 dsq_thread_id:
   - 3410541175

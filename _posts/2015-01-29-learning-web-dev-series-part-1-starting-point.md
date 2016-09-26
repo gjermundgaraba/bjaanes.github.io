@@ -4,7 +4,6 @@ title: 'Learning Web Dev Series &#8211; Part 1: Starting point'
 date: 2015-01-29T19:27:37+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=112
 permalink: /learning-web-dev-series-part-1-starting-point/
 video_url:
   - 

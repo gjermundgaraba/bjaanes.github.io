@@ -4,7 +4,6 @@ title: Angular Controller Communication using Delegates
 date: 2015-05-03T16:02:08+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=252
 permalink: /angular-controller-communication-using-delegates/
 video_url:
   - 

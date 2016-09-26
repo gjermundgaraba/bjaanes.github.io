@@ -4,7 +4,6 @@ title: 'Why it&#8217;s so important to stand up'
 date: 2015-02-25T20:56:31+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=180
 permalink: /why-its-so-important-to-stand-up/
 video_url:
   - 

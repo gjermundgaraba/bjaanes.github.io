@@ -4,7 +4,6 @@ title: What we should learn in school
 date: 2015-03-22T09:54:37+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=207
 permalink: /what-we-should-learn-in-school/
 video_url:
   - 

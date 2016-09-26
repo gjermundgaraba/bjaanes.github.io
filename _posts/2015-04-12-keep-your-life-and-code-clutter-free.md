@@ -4,7 +4,6 @@ title: Keep your life (and code) clutter-free
 date: 2015-04-12T18:54:31+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=229
 permalink: /keep-your-life-and-code-clutter-free/
 video_url:
   - 

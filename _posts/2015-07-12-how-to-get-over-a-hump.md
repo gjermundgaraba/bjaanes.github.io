@@ -4,7 +4,6 @@ title: How to get over a hump
 date: 2015-07-12T20:40:37+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=321
 permalink: /how-to-get-over-a-hump/
 video_url:
   - 

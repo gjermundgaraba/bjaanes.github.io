@@ -4,7 +4,6 @@ title: How I got started with Clean Code
 date: 2015-06-14T11:36:46+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=298
 permalink: /how-i-got-started-with-clean-code/
 video_url:
   - 

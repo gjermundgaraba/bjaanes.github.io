@@ -4,7 +4,6 @@ title: Extending angular directives
 date: 2015-06-07T19:09:13+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=279
 permalink: /extending-angular-directives/
 video_url:
   - 

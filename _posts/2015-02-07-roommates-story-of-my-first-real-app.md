@@ -4,7 +4,6 @@ title: Roommates (Story of my first real App)
 date: 2015-02-07T12:40:01+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=126
 permalink: /roommates-story-of-my-first-real-app/
 video_url:
   - 

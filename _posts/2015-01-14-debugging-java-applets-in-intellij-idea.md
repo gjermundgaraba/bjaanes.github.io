@@ -4,7 +4,6 @@ title: Debugging Java Applets in IntelliJ IDEA
 date: 2015-01-14T19:08:35+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=60
 permalink: /debugging-java-applets-in-intellij-idea/
 dsq_thread_id:
   - 3420314064

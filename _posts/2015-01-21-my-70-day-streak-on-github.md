@@ -4,7 +4,6 @@ title: My 70-day streak on GitHub
 date: 2015-01-21T11:49:11+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=100
 permalink: /my-70-day-streak-on-github/
 video_url:
   - 
@@ -72,9 +71,3 @@ I recommend you try going for a streak. Pick a project or two and keep the commi
 Some tips to keep your GitHub streak going: <a title="http://natashatherobot.com/streak-github-mistakes/" href="http://natashatherobot.com/streak-github-mistakes/" target="_blank">http://natashatherobot.com/streak-github-mistakes/</a>
 
 An impressive and entertaining GitHub streak story: <a title="https://ryanseys.com/blog/177-days-of-github/" href="https://ryanseys.com/blog/177-days-of-github/" target="_blank">https://ryanseys.com/blog/177-days-of-github/</a>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_8">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fmy-70-day-streak-on-github%2F&linkname=My%2070-day%20streak%20on%20GitHub" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fmy-70-day-streak-on-github%2F&linkname=My%2070-day%20streak%20on%20GitHub" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fmy-70-day-streak-on-github%2F&linkname=My%2070-day%20streak%20on%20GitHub" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

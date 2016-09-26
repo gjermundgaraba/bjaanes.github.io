@@ -4,7 +4,6 @@ title: 'Picks of the month &#8211; February 2015'
 date: 2015-02-28T20:38:31+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=186
 permalink: /picks-of-the-month-february-2015/
 video_url:
   - 

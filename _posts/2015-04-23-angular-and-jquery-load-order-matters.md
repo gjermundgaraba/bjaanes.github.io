@@ -4,7 +4,6 @@ title: Angular and jQuery load order matters!
 date: 2015-04-23T07:58:04+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=240
 permalink: /angular-and-jquery-load-order-matters/
 video_url:
   - 

@@ -4,7 +4,6 @@ title: 'Picks of the month &#8211; May 2015'
 date: 2015-05-24T19:03:46+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=266
 permalink: /picks-of-the-month-may-2015/
 video_url:
   - 

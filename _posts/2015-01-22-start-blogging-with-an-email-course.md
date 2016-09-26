@@ -4,7 +4,6 @@ title: Start blogging with an email course
 date: 2015-01-22T12:00:59+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=105
 permalink: /start-blogging-with-an-email-course/
 video_url:
   - 

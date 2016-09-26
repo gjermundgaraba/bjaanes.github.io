@@ -4,7 +4,6 @@ title: How I set up Continuous Integration and Continuous Deployment on my new W
 date: 2015-06-21T11:01:36+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=304
 permalink: /how-i-set-up-continuous-integration-and-continuous-deployment-on-my-new-web-app-2/
 video_url:
   - 

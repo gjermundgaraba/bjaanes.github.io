@@ -4,7 +4,6 @@ title: 'My favourite debugging technique &#8211; Code Evaluation'
 date: 2015-03-08T17:18:41+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=190
 permalink: /my-favourite-debugging-technique-code-evaluation/
 video_url:
   - 

@@ -4,7 +4,6 @@ title: 'Learning Web Dev Series &#8211; Part 2: Wrong turn'
 date: 2015-02-10T19:39:29+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=165
 permalink: /learning-web-dev-series-part-2-wrong-turn/
 video_url:
   - 

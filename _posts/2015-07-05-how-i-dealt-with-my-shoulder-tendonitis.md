@@ -4,7 +4,6 @@ title: How I dealt with my shoulder tendonitis
 date: 2015-07-05T21:26:38+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=315
 permalink: /how-i-dealt-with-my-shoulder-tendonitis/
 video_url:
   - 

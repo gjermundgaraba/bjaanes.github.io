@@ -4,7 +4,6 @@ title: Obscure test failure after using keyDown with protractor
 date: 2015-07-31T15:01:14+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=341
 permalink: /obscure-test-failure-after-using-keydown-with-protractor/
 video_url:
   - 

@@ -4,7 +4,6 @@ title: 'Learning Web Dev Series &#8211; Part 3: All That Front End'
 date: 2015-02-22T19:54:08+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=173
 permalink: /learning-web-dev-series-part-3-all-that-front-end/
 video_url:
   - 

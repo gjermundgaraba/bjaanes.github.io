@@ -4,7 +4,6 @@ title: How I use Evernote
 date: 2015-04-19T09:17:41+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=232
 permalink: /how-i-use-evernote/
 video_url:
   - 

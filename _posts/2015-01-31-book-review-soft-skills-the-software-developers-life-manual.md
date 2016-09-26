@@ -4,7 +4,6 @@ title: 'Book review: Soft Skills: The software developer&#8217;s life manual'
 date: 2015-01-31T13:12:28+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=117
 permalink: /book-review-soft-skills-the-software-developers-life-manual/
 video_url:
   - 

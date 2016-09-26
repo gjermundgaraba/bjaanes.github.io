@@ -4,7 +4,6 @@ title: Why you should care more about food
 date: 2015-04-05T08:10:16+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=219
 permalink: /why-you-should-care-more-about-food/
 video_url:
   - 

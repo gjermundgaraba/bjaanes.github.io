@@ -4,7 +4,6 @@ title: 'Learning Web Dev Series &#8211; Part 4: I&#8217;m doing JavaScript!'
 date: 2015-03-15T10:27:18+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=201
 permalink: /learning-web-dev-series-part-4-im-doing-javascript/
 video_url:
   - 

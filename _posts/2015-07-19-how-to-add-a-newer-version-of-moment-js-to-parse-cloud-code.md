@@ -4,7 +4,6 @@ title: How to add a newer version of moment.js to Parse Cloud Code
 date: 2015-07-19T18:05:52+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=327
 permalink: /how-to-add-a-newer-version-of-moment-js-to-parse-cloud-code/
 video_url:
   - 

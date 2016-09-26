@@ -4,7 +4,6 @@ title: 6 reasons why reading books is important for developers
 date: 2015-01-17T10:54:53+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=86
 permalink: /6-reasons-why-reading-books-is-important-for-developers/
 video_url:
   - 

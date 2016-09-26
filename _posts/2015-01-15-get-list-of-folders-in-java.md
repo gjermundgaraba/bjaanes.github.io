@@ -4,7 +4,6 @@ title: Get list of folders in Java
 date: 2015-01-15T18:27:47+00:00
 author: Gjermund Bjaanes
 layout: post
-guid: http://maximumdeveloper.com/?p=75
 permalink: /get-list-of-folders-in-java/
 video_url:
   - 
