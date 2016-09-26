@@ -80,9 +80,3 @@ This is one of the best investments you can make for yourself, it it will certai
 Just...
 
 [<img class=" wp-image-221" src="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png" alt="Do it - From the masterpiece 'Starsky and Hutch'." width="627" height="482" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png 529w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1-300x231.png 300w" sizes="(max-width: 627px) 100vw, 627px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png)
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_22">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhy-you-should-care-more-about-food%2F&linkname=Why%20you%20should%20care%20more%20about%20food" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhy-you-should-care-more-about-food%2F&linkname=Why%20you%20should%20care%20more%20about%20food" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhy-you-should-care-more-about-food%2F&linkname=Why%20you%20should%20care%20more%20about%20food" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

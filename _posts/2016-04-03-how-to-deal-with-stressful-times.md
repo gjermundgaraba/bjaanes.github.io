@@ -84,9 +84,3 @@ You'll feel calmer right away, and hopefully more able to deal with all those th
 If you are having something that starts to look like panic attacks, take a look at 4-7-8 breath exercise (I recommend looking at this even if you are not having panic attacks!):
   
 <a href="http://www.drweil.com/drw/u/VDR00112/The-4-7-8-Breath-Benefits-and-Demonstration.html" target="_blank">http://www.drweil.com/drw/u/VDR00112/The-4-7-8-Breath-Benefits-and-Demonstration.html</a>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_68">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-deal-with-stressful-times%2F&linkname=How%20to%20deal%20with%20stressful%20times" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-deal-with-stressful-times%2F&linkname=How%20to%20deal%20with%20stressful%20times" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-deal-with-stressful-times%2F&linkname=How%20to%20deal%20with%20stressful%20times" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

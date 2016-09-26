@@ -64,9 +64,3 @@ Getting energized, refreshing your focus, getting more productive, and it can ev
 I cannot stress this enough, but if you are in no way convinced that this is a huge deal, I highly recommend you go and read up on the subject. It might be the best thing your ever did.
 
 **Take a stand. Get off your ass. Stand up for yourself.**
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_16">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhy-its-so-important-to-stand-up%2F&linkname=Why%20it%E2%80%99s%20so%20important%20to%20stand%20up" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhy-its-so-important-to-stand-up%2F&linkname=Why%20it%E2%80%99s%20so%20important%20to%20stand%20up" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhy-its-so-important-to-stand-up%2F&linkname=Why%20it%E2%80%99s%20so%20important%20to%20stand%20up" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

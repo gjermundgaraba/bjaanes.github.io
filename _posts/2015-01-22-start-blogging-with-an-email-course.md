@@ -34,9 +34,3 @@ Take a look: <a href="http://devcareerboost.com/blog-course/" target="_blank">ht
  **For the record:**
   
 If you take the course, you soon will realize that this particular post is a part of the course, but I would never post links to something I don't believe in. I think John Sonmez is a stand-up guy and that he has a lot of knowledge to share. He sells things too, but I think he should be allowed to sell a bit, when he gives away most of his time anyway. The course is full of great tips and you don't have to do anything other than get the emails, learn and move on.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_9">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fstart-blogging-with-an-email-course%2F&linkname=Start%20blogging%20with%20an%20email%20course" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fstart-blogging-with-an-email-course%2F&linkname=Start%20blogging%20with%20an%20email%20course" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fstart-blogging-with-an-email-course%2F&linkname=Start%20blogging%20with%20an%20email%20course" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

@@ -82,9 +82,3 @@ Inspiring books so far. I really recommend at least trying out the first book. S
 <a href="http://www.amazon.com/Nexus-Arc-Book-1/dp/0857665502/ref=la_B001IOH84S_1_1?s=books&ie=UTF8&qid=1449420254&sr=1-1" target="_blank">http://www.amazon.com/Nexus-Arc-Book-1/dp/0857665502/ref=la_B001IOH84S_1_1?s=books&ie=UTF8&qid=1449420254&sr=1-1</a>
 
 &nbsp;
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_53">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-november-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20November%202015" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-november-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20November%202015" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-november-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20November%202015" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

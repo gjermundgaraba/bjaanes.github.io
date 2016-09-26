@@ -78,13 +78,5 @@ The talk got me all inspired and I sent it around to almost everyone at my compa
 
 Enjoy!
 
-<div class="embed-container">
-  <div class="embed-vimeo" style="text-align: center;">
-  </div>
-</div>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_45">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-september-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20September%202015" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-september-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20September%202015" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-september-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20September%202015" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+<iframe src="https://player.vimeo.com/video/138774243" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/138774243">How to make your code sustainable - what they don&#039;t teach you - Christin Gorman</a> from <a href="https://vimeo.com/javazone">JavaZone</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

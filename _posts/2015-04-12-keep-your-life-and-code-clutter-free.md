@@ -75,9 +75,3 @@ Every time you think of something new you have to do, write it down immediately.
 Take a breath. Close your eyes and feel the &#8216;zen' feeling coming over your. And then get your ass to work. Craft that beautiful code!
 
 With life and mind clean and clutter-free, you can more easily focus on what you need and want to do. You can more easily get into the mindset of clean and clutter-free code. You can also feel good about relaxing, because everything is in order.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_23">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fkeep-your-life-and-code-clutter-free%2F&linkname=Keep%20your%20life%20%28and%20code%29%20clutter-free" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fkeep-your-life-and-code-clutter-free%2F&linkname=Keep%20your%20life%20%28and%20code%29%20clutter-free" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fkeep-your-life-and-code-clutter-free%2F&linkname=Keep%20your%20life%20%28and%20code%29%20clutter-free" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

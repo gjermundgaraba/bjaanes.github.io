@@ -99,9 +99,3 @@ This is sort of linked to reason #4, but it’s so important for programmers to 
  <a title=" 10 Benefits of Reading: Why You Should Read Every Day" href="http://www.lifehack.org/articles/lifestyle/10-benefits-reading-why-you-should-read-everyday.html" target="_blank">10 Benefits of Reading: Why You Should Read Every Day</a>
   
 <a title="The value of reading books or how to get ahead of the pack" href="http://www.fundamentalprogrammer.com/the-value-of-reading-books-or-how-to-get-ahead-of-the-pack/" target="_blank">The value of reading books or how to get ahead of the pack</a>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_7">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2F6-reasons-why-reading-books-is-important-for-developers%2F&linkname=6%20reasons%20why%20reading%20books%20is%20important%20for%20developers" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2F6-reasons-why-reading-books-is-important-for-developers%2F&linkname=6%20reasons%20why%20reading%20books%20is%20important%20for%20developers" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2F6-reasons-why-reading-books-is-important-for-developers%2F&linkname=6%20reasons%20why%20reading%20books%20is%20important%20for%20developers" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

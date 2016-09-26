@@ -87,15 +87,3 @@ Roommates Cloud Code: <a href="https://github.com/bjaanes/Roommates-For-CloudCod
 I have also made a simple landing page for Roommate:
 
 <a href="http://gjermundbjaanes.com/roommates" target="_blank">http://gjermundbjaanes.com/roommates</a>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_12">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Froommates-story-of-my-first-real-app%2F&linkname=Roommates%20%28Story%20of%20my%20first%20real%20App%29" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Froommates-story-of-my-first-real-app%2F&linkname=Roommates%20%28Story%20of%20my%20first%20real%20App%29" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Froommates-story-of-my-first-real-app%2F&linkname=Roommates%20%28Story%20of%20my%20first%20real%20App%29" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

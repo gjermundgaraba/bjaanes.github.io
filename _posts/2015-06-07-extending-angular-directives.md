@@ -508,9 +508,3 @@ Sources:
 <a href="https://github.com/zachsnow/ng-multi-transclude" target="_blank">https://github.com/zachsnow/ng-multi-transclude</a>
   
 <a href="http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/" target="_blank">http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/</a>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_31">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fextending-angular-directives%2F&linkname=Extending%20angular%20directives" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fextending-angular-directives%2F&linkname=Extending%20angular%20directives" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fextending-angular-directives%2F&linkname=Extending%20angular%20directives" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

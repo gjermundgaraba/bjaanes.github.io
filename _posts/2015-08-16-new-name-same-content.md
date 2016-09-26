@@ -34,9 +34,3 @@ So, I hope you will keep coming back to gjermundbjaanes.com. I have some great c
 &nbsp;
 
 PS! I will probably do some more design changes around here, but for now, the current one works OK.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_40">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fnew-name-same-content%2F&linkname=New%20Name.%20Same%20content." title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fnew-name-same-content%2F&linkname=New%20Name.%20Same%20content." title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fnew-name-same-content%2F&linkname=New%20Name.%20Same%20content." title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

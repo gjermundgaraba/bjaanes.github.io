@@ -161,9 +161,3 @@ Copy it and paste it into the top of your README.md file.
 &nbsp;
 
 **All done! Neat, right?**
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_52">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fadd-coverage-to-your-angular-project-to-show-on-your-github-page%2F&linkname=Add%20coverage%20to%20your%20Angular%20project%20%28to%20show%20on%20your%20GitHub%20page%29" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fadd-coverage-to-your-angular-project-to-show-on-your-github-page%2F&linkname=Add%20coverage%20to%20your%20Angular%20project%20%28to%20show%20on%20your%20GitHub%20page%29" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fadd-coverage-to-your-angular-project-to-show-on-your-github-page%2F&linkname=Add%20coverage%20to%20your%20Angular%20project%20%28to%20show%20on%20your%20GitHub%20page%29" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

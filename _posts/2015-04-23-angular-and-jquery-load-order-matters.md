@@ -53,9 +53,3 @@ Switching the order solved the issue.
 &nbsp;
 
 So, if you need jQuery, remember load it before Angular.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_25">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fangular-and-jquery-load-order-matters%2F&linkname=Angular%20and%20jQuery%20load%20order%20matters%21" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fangular-and-jquery-load-order-matters%2F&linkname=Angular%20and%20jQuery%20load%20order%20matters%21" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fangular-and-jquery-load-order-matters%2F&linkname=Angular%20and%20jQuery%20load%20order%20matters%21" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

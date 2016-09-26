@@ -88,9 +88,3 @@ It is how you learn, and how you become a clean code practitioner (aka. a profes
 Seriously, just do it.
 
 [<img class=" wp-image-221" src="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png" alt="Do it - From the masterpiece 'Starsky and Hutch'." width="289" height="222" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png 529w, http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1-300x231.png 300w" sizes="(max-width: 289px) 100vw, 289px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/04/Do-it1.png)
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_32">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-i-got-started-with-clean-code%2F&linkname=How%20I%20got%20started%20with%20Clean%20Code" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-i-got-started-with-clean-code%2F&linkname=How%20I%20got%20started%20with%20Clean%20Code" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-i-got-started-with-clean-code%2F&linkname=How%20I%20got%20started%20with%20Clean%20Code" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

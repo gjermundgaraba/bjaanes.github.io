@@ -84,9 +84,3 @@ This is not as spacey as you might think. Its pretty down-to-earth actually. It 
 # Conclusion
 
 I simply loved this book. It was right up my alley. In almost every way this book resonated with me. It got me thinking about new subjects, it got me inspired to continue working on others. It was all-around an impressive book that I think every software developer with some respect for themselves should own. Go get it on <a title="Buy Soft Skills on Amazon" href="http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397" target="_blank">Amazon</a> or <a title="Buy Soft Skills on Manning" href="http://www.manning.com/sonmez/" target="_blank">Manning</a>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_11">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fbook-review-soft-skills-the-software-developers-life-manual%2F&linkname=Book%20review%3A%20Soft%20Skills%3A%20The%20software%20developer%E2%80%99s%20life%20manual" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fbook-review-soft-skills-the-software-developers-life-manual%2F&linkname=Book%20review%3A%20Soft%20Skills%3A%20The%20software%20developer%E2%80%99s%20life%20manual" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fbook-review-soft-skills-the-software-developers-life-manual%2F&linkname=Book%20review%3A%20Soft%20Skills%3A%20The%20software%20developer%E2%80%99s%20life%20manual" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

@@ -46,9 +46,3 @@ Innocent enough I though, but it turns out that keyDown is never released. So pr
 Simple solution is to just use keyUp after you are done doing everything you need.
 
 <pre class="lang:js decode:true">browser.actions().mouseMove(element).keyDown(protractor.Key.CONTROL).click().keyUp(protractor.Key.CONTROL).perform();</pre>
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_39">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fobscure-test-failure-after-using-keydown-with-protractor%2F&linkname=Obscure%20test%20failure%20after%20using%20keyDown%20with%20protractor" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fobscure-test-failure-after-using-keydown-with-protractor%2F&linkname=Obscure%20test%20failure%20after%20using%20keyDown%20with%20protractor" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fobscure-test-failure-after-using-keydown-with-protractor%2F&linkname=Obscure%20test%20failure%20after%20using%20keyDown%20with%20protractor" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

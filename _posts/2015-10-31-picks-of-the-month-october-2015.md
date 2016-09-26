@@ -55,9 +55,3 @@ Not feeling like I needed to achieve something big for a few hours. And as such 
 &nbsp;
 
 It has been a blessing to be able to take couple of hours now and then to just rewind completely. Not thinking about work, career and all the things I want to be able to do has been just what I needed.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_50">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-october-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20October%202015" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-october-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20October%202015" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-october-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20October%202015" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

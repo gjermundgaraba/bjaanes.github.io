@@ -124,9 +124,3 @@ That is the next step. One simple use case I want to realize is the possibility 
 Like I mentioned earlier in the post, there will come a blog post soon with details on how I actually set all this up. A guide of sorts.
 
 If you are interested in that, keep an eye on this blog 🙂
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_69">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-6-openhab%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%206%20%E2%80%93%20OpenHAB" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-6-openhab%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%206%20%E2%80%93%20OpenHAB" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-6-openhab%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%206%20%E2%80%93%20OpenHAB" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

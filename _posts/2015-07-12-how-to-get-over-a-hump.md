@@ -126,9 +126,3 @@ I try too hard to not quit and end up exhausted instead. I actually have to be a
 &nbsp;
 
 You probably know these things already, but perhaps you too need to be reminded from time to time about it. Be conscious about the way you solve problems, and perhaps you will see that a break will be the best solution right now?
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_36">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-get-over-a-hump%2F&linkname=How%20to%20get%20over%20a%20hump" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-get-over-a-hump%2F&linkname=How%20to%20get%20over%20a%20hump" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-to-get-over-a-hump%2F&linkname=How%20to%20get%20over%20a%20hump" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

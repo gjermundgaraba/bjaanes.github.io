@@ -56,9 +56,3 @@ I want you to try it for a few days. Write down three things you want to have do
 &nbsp;
 
 If you have any good advice on these issues, please let me know.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_49">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fi-dont-have-time-for-it-all%2F&linkname=I%20don%E2%80%99t%20have%20time%20for%20it%20all%21" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fi-dont-have-time-for-it-all%2F&linkname=I%20don%E2%80%99t%20have%20time%20for%20it%20all%21" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fi-dont-have-time-for-it-all%2F&linkname=I%20don%E2%80%99t%20have%20time%20for%20it%20all%21" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

@@ -68,11 +68,3 @@ Check it out: <a href="https://www.wunderlist.com/" target="_blank">https://www.
 &nbsp;
 
 [<img class="alignnone wp-image-198" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png" alt="Wunderlist" width="722" height="485" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png 1000w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-300x202.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-945x635.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-600x403.png 600w" sizes="(max-width: 722px) 100vw, 722px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png)
-
-&nbsp;
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_17">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-february-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20February%202015" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-february-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20February%202015" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fpicks-of-the-month-february-2015%2F&linkname=Picks%20of%20the%20month%20%E2%80%93%20February%202015" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

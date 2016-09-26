@@ -140,16 +140,9 @@ The entire process took me no more than a couple of hours of fiddling, but it r
 
 &nbsp;
 
-&nbsp;
-
-NOTE!
+**NOTE!**
 
 Dploy is now called DeployBot.
 
-Since I wrote this article, the Digital Ocean API v.1 has been deprecated. The guide should still be valid.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_33">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-i-set-up-continuous-integration-and-continuous-deployment-on-my-new-web-app-2%2F&linkname=How%20I%20set%20up%20Continuous%20Integration%20and%20Continuous%20Deployment%20on%20my%20new%20Web%20App" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-i-set-up-continuous-integration-and-continuous-deployment-on-my-new-web-app-2%2F&linkname=How%20I%20set%20up%20Continuous%20Integration%20and%20Continuous%20Deployment%20on%20my%20new%20Web%20App" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fhow-i-set-up-continuous-integration-and-continuous-deployment-on-my-new-web-app-2%2F&linkname=How%20I%20set%20up%20Continuous%20Integration%20and%20Continuous%20Deployment%20on%20my%20new%20Web%20App" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
+Since I wrote this article, the Digital Ocean API v.1 has been deprecated.
+The guide should still be valid in most of it's form.

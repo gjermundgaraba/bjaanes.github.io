@@ -138,9 +138,3 @@ I know there is not only one way to solve this sort of problem. You can in theor
 Another way, which seems to be popular, is to use a service like a messaging bus. I didn’t think it would be a good fit for the situation I was in, but it would certainly be better if you were not able to control the scopes and use directives in the same way as I do here.
 
 It all depends on the situation.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_27">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fangular-controller-communication-using-delegates%2F&linkname=Angular%20Controller%20Communication%20using%20Delegates" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fangular-controller-communication-using-delegates%2F&linkname=Angular%20Controller%20Communication%20using%20Delegates" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fangular-controller-communication-using-delegates%2F&linkname=Angular%20Controller%20Communication%20using%20Delegates" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

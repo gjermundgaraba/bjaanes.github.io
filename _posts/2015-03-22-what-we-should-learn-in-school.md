@@ -108,9 +108,3 @@ As a student, you should not trust that your education is perfect. Therefore, yo
   * Follow the industry and learn skills that are applicable to where you will be looking for work (example: my area needs lots of Java and web developers (plus some .NET)
   * Always learn new things on your own. Code a lot. Don’t just do the exercises necessary for passing class.
   * Find an open source project and fix some bugs.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_20">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhat-we-should-learn-in-school%2F&linkname=What%20we%20should%20learn%20in%20school" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhat-we-should-learn-in-school%2F&linkname=What%20we%20should%20learn%20in%20school" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fwhat-we-should-learn-in-school%2F&linkname=What%20we%20should%20learn%20in%20school" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>

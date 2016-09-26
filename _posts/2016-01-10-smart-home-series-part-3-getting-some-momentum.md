@@ -87,9 +87,3 @@ Now that I finally have some momentum I hope to get something useful created pre
 The big next step is obviously to get my Arduino to somehow send MQTT messages based on information from one of my sensors.
 
 After that it's all programming, testing and tweaking. Look out for more updates!
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_57">
-    <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-3-getting-some-momentum%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%203%20%E2%80%93%20Getting%20some%20momentum" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-3-getting-some-momentum%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%203%20%E2%80%93%20Getting%20some%20momentum" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fgjermundbjaanes.com%2Fsmart-home-series-part-3-getting-some-momentum%2F&linkname=Smart%20home%20series%20%E2%80%93%20Part%203%20%E2%80%93%20Getting%20some%20momentum" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a>
-  </div>
-</div>
