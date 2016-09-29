@@ -5,18 +5,6 @@ date: 2015-05-24T19:03:46+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /picks-of-the-month-may-2015/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3790283657
 categories:
@@ -29,6 +17,7 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
+
 This month I have a couple of resources I think you might really benefit from. One is a developer resource that any web developer should be familiar with, the other an aid for your mind.
 
 I hope you enjoy this month's picks!
@@ -52,6 +41,8 @@ The provide documentation for Web API’s, HTML, CSS, JavaScript and more. They 
 If you are a front-end developer, you should bookmark this page:
   
 <a href="https://developer.mozilla.org/" target="_blank">https://developer.mozilla.org/</a>
+
+&nbsp;
 
 # #2 Headspace
 

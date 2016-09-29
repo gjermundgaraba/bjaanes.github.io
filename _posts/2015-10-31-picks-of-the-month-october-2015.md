@@ -18,6 +18,9 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
+
+&nbsp;
+
 # #1 Linux
 
 [<img class="alignnone  wp-image-439" src="http://gjermundbjaanes.com/wp-content/uploads/2015/10/tux.png" alt="tux" width="266" height="309" />](http://gjermundbjaanes.com/wp-content/uploads/2015/10/tux.png)
@@ -46,12 +49,8 @@ I had a pretty recent period of feeling extremely overwhelmed.
 
 I still do actually, and I wrote about not feeling like you have the time to do what you want to do.
 
-&nbsp;
-
 To combat this feeling, I figured that I needed to actually do something for my own pure enjoyment.
 
 Not feeling like I needed to achieve something big for a few hours. And as such I bought PS4 with a couple of games (Far Cry 4 and Metro Redux - both great games!).
-
-&nbsp;
 
 It has been a blessing to be able to take couple of hours now and then to just rewind completely. Not thinking about work, career and all the things I want to be able to do has been just what I needed.

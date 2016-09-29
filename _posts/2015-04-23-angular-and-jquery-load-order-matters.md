@@ -5,18 +5,6 @@ date: 2015-04-23T07:58:04+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /angular-and-jquery-load-order-matters/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3705544526
 categories:

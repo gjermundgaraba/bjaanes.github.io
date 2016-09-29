@@ -5,18 +5,6 @@ date: 2015-05-31T18:04:30+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /learning-web-dev-series-part-5-extreme-results/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3809691226
 categories:
@@ -44,33 +32,29 @@ If you are not familiar with Agile Results, I suggest that you go learn a little
   
 <a href="http://gettingresults.com/wiki/Explained_-_Agile_Results_in_a_Nutshell" target="_blank">http://gettingresults.com/wiki/Explained_-_Agile_Results_in_a_Nutshell</a>
 
-&nbsp;
-
 In short, it’s a pretty simple system where you every day write down three outcomes for the day. Three wins. You can also do this for every week, every month and every year. Three results you want to accomplish in the coming time (the week, or month etc). The shorter duration for the outcomes (eg. daily), the more specific the outcomes are.
+
+&nbsp;
 
 ## Examples:
 
 **Yearly outcomes:**
   
-Become a much greater developer
-  
-Get in shape with Mind, Body and Spirit (meditate and work out)
-  
-Create a name for yourself
+* Become a much greater developer
+* Get in shape with Mind, Body and Spirit (meditate and work out)
+* Create a name for yourself
 
 At the end of the year, I want to have those things under my belt. Those are my high level goals.
 
 &nbsp;
 
-But for weekly outcomes it might be something more like this:
+**Monday Vision:**
+  
+For weekly outcomes (Monday Vision) it might be something more like this:
 
-**Monday Vision:
-  
-** Meditate every day
-  
-Write up two new blog posts
-  
-Create a new screen for the Extreme Results app
+* Meditate every day
+* Write up two new blog posts
+* Create a new screen for the Extreme Results app
 
 &nbsp;
 

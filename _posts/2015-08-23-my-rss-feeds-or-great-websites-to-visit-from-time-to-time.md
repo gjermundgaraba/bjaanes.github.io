@@ -24,11 +24,7 @@ You can also download an export of my subscriptions from feedbin here:
   
 <a href="https://www.dropbox.com/s/kwho5m7j3jpax3a/subscriptions.xml?dl=0" target="_blank">https://www.dropbox.com/s/kwho5m7j3jpax3a/subscriptions.xml?dl=0</a>
 
-&nbsp;
-
 Also, if you have any great tips for feeds I should use (and feature here), let me know!
-
-&nbsp;
 
 &nbsp;
 
@@ -85,8 +81,6 @@ If you are starting out as a developer, I strongly recommend you follow this guy
 Website: <a href="http://simpleprogrammer.com/" target="_blank">http://simpleprogrammer.com/</a>
 
 Feed: http://simpleprogrammer.com/feed/
-
-&nbsp;
 
 &nbsp;
 
@@ -258,8 +252,6 @@ Feed: http://feeds2.feedburner.com/Webappers
 
 &nbsp;
 
-## 
-
 ## General
 
 Blogs and websites that posts about anything related to development and software engineering. Many of the greatest posts comes from here. That might be because it contains blogs from people like Robert C. Martin (Uncle Bob) and Martin Fowler.
@@ -360,15 +352,11 @@ Website: <a href="http://agilejong.blogspot.no/" target="_blank">http://agilejo
 
 Feed: http://agilejong.blogspot.com/feeds/posts/default
 
-### 
-
 &nbsp;
 
 ## Other
 
 I don't keep many feeds that are unrelated to development or productivity in some way, but there are a few. Under each one I'll explain.
-
-### 
 
 ### OMG! Ubuntu!
 
@@ -402,21 +390,13 @@ Feed: http://feeds2.feedburner.com/jetbrains_intellijidea
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 # RSS Reader
 
 I currently use Feedbin to store all my feeds. I use the feedbin.com reader to read my feeds on a desktop, and I use Reeder on iPhone and iPad (which syncs smoothly with feedbin).
 
-&nbsp;
-
 Feedbin.com:
 
 [<img class="alignnone wp-image-351" src="http://gjermundbjaanes.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-23-at-14.31.28.png" alt="Screenshot from Feedbin.com" width="530" height="360" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-23-at-14.31.28.png 3118w, http://gjermundbjaanes.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-23-at-14.31.28-449x304.png 449w" sizes="(max-width: 530px) 100vw, 530px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-23-at-14.31.28.png)
-
-&nbsp;
 
 Reeder:
 

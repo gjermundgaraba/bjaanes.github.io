@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=466
 permalink: /add-coverage-to-your-angular-project-to-show-on-your-github-page/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4341199387
 categories:
@@ -71,15 +69,11 @@ It's surprisingly easy when you just know what to do (just like anything, I gues
 
 &nbsp;
 
-&nbsp;
-
 # Setup
 
 First thing you should do is register at codecov and link your project:
   
 <a href="https://codecov.io/" target="_blank">https://codecov.io/</a>
-
-&nbsp;
 
 Next, install the following dependencies from npm:
 
@@ -91,8 +85,6 @@ Next, install the following dependencies from npm:
 ## Setting Up Karma
 
 Next thing you have to do is to make sure Karma is producing a proper coverage result while running tests.
-
-&nbsp;
 
 You need these parts in your karma.conf.js file:
 
@@ -119,8 +111,6 @@ and that you have the karma-coverage plugin in there:
 
 &nbsp;
 
-## 
-
 ## Setting up Travis
 
 Finally you have to set up Travis to run a couple of scripts.
@@ -131,8 +121,6 @@ You have to add the following lines to your .travis.yml file:
 - pip install --user codecov
 after_success:
 - codecov</pre>
-
-&nbsp;
 
 When you commit this code to GitHub, and Travis builds it, you should see the coverage report on Codecov update.
 

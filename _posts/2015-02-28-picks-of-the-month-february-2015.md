@@ -5,18 +5,6 @@ date: 2015-02-28T20:38:31+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /picks-of-the-month-february-2015/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3556513692
 categories:
@@ -29,9 +17,12 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
+
 This is a new series called “Pick of the month”. Every month I will deliver a few picks of my favorite things that I want to share that month. The picks themselves can be almost anything. Software tools, books (technical as well as fictional), blog posts, resources and so on.
 
 This month I have 3 picks.
+
+&nbsp;
 
 # #1 WebStorm
 
@@ -53,8 +44,6 @@ Going along the learning web development theme, I want to pick my current learni
 
 Check it out: <a href="https://www.codeschool.com/" target="_blank">https://www.codeschool.com/</a>
 
-&nbsp;
-
 [<img class="alignnone wp-image-197" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png" alt="CodeSchool" width="746" height="433" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png 1200w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-300x174.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-1024x595.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-945x549.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39-600x349.png 600w" sizes="(max-width: 746px) 100vw, 746px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.35.39.png)
 
 &nbsp;
@@ -64,7 +53,5 @@ Check it out: <a href="https://www.codeschool.com/" target="_blank">https://www.
 After using a lot of different productivity systems and tools, I am currently using a very simple and elegant tool called Wunderlist. It’s a list tool. You create lists and tasks. They have plenty of features I don’t really care too much about. Their winning point for me is simplicity, cross-platform and price (free). It’s quite easy to implement a simple GTD style productivity life style with this tool.
 
 Check it out: <a href="https://www.wunderlist.com/" target="_blank">https://www.wunderlist.com/</a>
-
-&nbsp;
 
 [<img class="alignnone wp-image-198" src="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png" alt="Wunderlist" width="722" height="485" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png 1000w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-300x202.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-945x635.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05-600x403.png 600w" sizes="(max-width: 722px) 100vw, 722px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/02/Screen-Shot-2015-03-15-at-09.37.05.png)

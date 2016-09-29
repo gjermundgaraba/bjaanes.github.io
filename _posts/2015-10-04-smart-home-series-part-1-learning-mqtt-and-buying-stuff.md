@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=393
 permalink: /smart-home-series-part-1-learning-mqtt-and-buying-stuff/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4193544356
 categories:

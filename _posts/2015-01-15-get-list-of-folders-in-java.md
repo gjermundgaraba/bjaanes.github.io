@@ -5,18 +5,6 @@ date: 2015-01-15T18:27:47+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /get-list-of-folders-in-java/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3428808236
 categories:

@@ -19,6 +19,9 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
+
+&nbsp;
+
 # #1 Feedbin
 
 [Last week](http://gjermundbjaanes.com/my-rss-feeds-or-great-websites-to-visit-from-time-to-time/), I wrote about my RSS feeds and at the same time mentioned Feedbin.
@@ -27,11 +30,7 @@ Feedbin is a fast and simple RSS feed reader with great features for reading and
 
 I can easily navigate through feedbin without touching the mouse, which is great! I can also view entire articles inline in Feedbin.
 
-&nbsp;
-
 [<img class="alignnone wp-image-361" src="http://gjermundbjaanes.com/wp-content/uploads/2015/08/Capture.png" alt="Screenshot from Feedbin" width="531" height="273" />](http://gjermundbjaanes.com/wp-content/uploads/2015/08/Capture.png)
-
-&nbsp;
 
 You can easily share the articles you read to Pocket (for reading later, which I use all the time!), Evernote (for storage) or any of the other services that Feedbin integrates with.
 
@@ -51,20 +50,16 @@ I have trained up my legs for a year now with walking and small jogging bursts. 
 
 The feeling you get when you get in the rhythm while running is just fantastic. Time goes by like nothing. It takes some time to be able to really enjoy it, but once you do, it's well worth it.
 
-&nbsp;
-
 There are many reasons why developers should run, but a few of them are:
 
-  * Running makes you less stressed out 
-      * There are some questions about exactly why running/exercise reduces stress, but the only sure thing is that it does reduce it. And every developer feels the everyday stress a bit, and getting more leveled again is probably a good thing.
-  *  Running make you more productive 
-      * If you body is in good shape, so is your brain.
-  
-        And also, when sitting down most of the day, you can get in bad shape pretty quickly. When you are in bad shape, you and your brain will get exhausted much sooner.
-  * Running helps prevent programmer-diseases 
-      * Tendinitises, diabetes, back problems and so on.
-  
-        All things that running prevent or at least help ward against. It also helps against all of those if you already have them.
+* Running makes you less stressed out 
+    * There are some questions about exactly why running/exercise reduces stress, but the only sure thing is that it does reduce it. And every developer feels the everyday stress a bit, and getting more leveled again is probably a good thing.
+*  Running make you more productive 
+    * If you body is in good shape, so is your brain.
+    And also, when sitting down most of the day, you can get in bad shape pretty quickly. When you are in bad shape, you and your brain will get exhausted much sooner.
+* Running helps prevent programmer-diseases 
+    * Tendinitises, diabetes, back problems and so on.
+    All things that running prevent or at least help ward against. It also helps against all of those if you already have them.
 
 &nbsp;
 

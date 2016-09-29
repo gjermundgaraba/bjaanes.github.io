@@ -5,18 +5,6 @@ date: 2015-01-21T11:49:11+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /my-70-day-streak-on-github/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3440902587
 categories:

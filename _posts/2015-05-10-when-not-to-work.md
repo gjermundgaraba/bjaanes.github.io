@@ -5,18 +5,6 @@ date: 2015-05-10T09:31:43+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /when-not-to-work/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3751469009
 categories:

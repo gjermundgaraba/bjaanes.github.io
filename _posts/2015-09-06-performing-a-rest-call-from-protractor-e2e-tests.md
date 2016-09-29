@@ -19,25 +19,26 @@ tags:
   - Testing
   - Web
 ---
-I am currently trying to get some good end-to-end (e2e with protractor,  which is a great tool!) tests running for my Angular app ‘Extreme Results’ (wrote a bit about the app <a href="http://gjermundbjaanes.com/learning-web-dev-series-part-5-extreme-results/" target="_blank">here</a>).
+I am currently trying to get some good end-to-end (e2e with protractor,  which is a great tool!)
+ tests running for my Angular app ‘Extreme Results’.
 
 I very quickly found a big problem. How do I clean up my database between tests and test-runs?
 
 <!--more-->
 The way I see it, there are two ways to solve this problem:
 
-  1. Let the e2e tests actually clean up the way a user would.
-  
-    In other words, clicking around and deleting thing “manually” with tests.
-  
-    Every test needs to manually clean up after themselves.
-  
-    This actually works pretty well. It makes for a well tested application, but errors propagate quickly through every test.
-  2. Calling the backend directly through REST between each test (or possibly between test “files”).
-  
-    This way, you can rely on tests being clean when you start with a new one.
-  
-    Feels a bit safer and cleaner (and less error-prone).
+**1: Let the e2e tests actually clean up the way a user would.**
+
+In other words, clicking around and deleting thing “manually” with tests.
+Every test needs to manually clean up after themselves.
+This actually works pretty well. It makes for a well tested application, but errors propagate quickly through every test.
+
+**2: Calling the backend directly through REST between each test (or possibly between test “files”).**
+
+This way, you can rely on tests being clean when you start with a new one.
+Feels a bit safer and cleaner (and less error-prone).
+
+&nbsp;
 
 In my case, I was in no shape to even allow the user to delete stuff manually (not yet implemented in the app), so it made more sense to delete stuff through a REST call (also less work).
 
@@ -52,8 +53,6 @@ If you want to see the Cloud Code, take a look on Github:
 # Performing a REST call from your protractor tests
 
 I created a common module that I can use from every test class. It looks like this:
-
-&nbsp;
 
 <pre class="lang:js decode:true">var http = require('https');
 
@@ -110,8 +109,6 @@ describe('Overview Page', function () {
 
 });</pre>
 
-&nbsp;
-
 The important bits are:
 
 <pre class="lang:js decode:true">var Common = require('../common/common.js');</pre>
@@ -127,4 +124,4 @@ But the real code is:
  });
 </pre>
 
-Which actually performs the database clear between every tests. Neat huh?
+Which actually performs the database clear between every tests. Nice!

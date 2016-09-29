@@ -59,6 +59,6 @@ Now you are ready to debug. Start up your Applet and then run your new configura
 
 &nbsp;
 
-I found my help mostly from the following link:
+Credit for this information goes to:
 
 [http://www.nakov.com/blog/2008/08/20/debugging-java-applets-in-eclipse/](http://www.nakov.com/blog/2008/08/20/debugging-java-applets-in-eclipse/){:target="_blank"} 

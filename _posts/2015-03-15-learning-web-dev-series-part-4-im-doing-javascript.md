@@ -5,18 +5,6 @@ date: 2015-03-15T10:27:18+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /learning-web-dev-series-part-4-im-doing-javascript/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3596662704
 categories:

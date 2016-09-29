@@ -5,18 +5,6 @@ date: 2015-04-19T09:17:41+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /how-i-use-evernote/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3693794289
 categories:

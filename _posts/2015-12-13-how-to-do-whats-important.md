@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=489
 permalink: /how-to-do-whats-important/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4400844016
 categories:

@@ -5,18 +5,6 @@ date: 2015-07-19T18:05:52+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /how-to-add-a-newer-version-of-moment-js-to-parse-cloud-code/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3962788121
 categories:

@@ -5,18 +5,6 @@ date: 2015-06-14T11:36:46+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /how-i-got-started-with-clean-code/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3847373880
 categories:
@@ -29,13 +17,12 @@ tags:
 I had always heard about writing good, clean and pretty code - but I never really understood what it meant. I knew it had something to do with readability. And possibly a profession pride thing, too.
 
 <!--more-->
+
 Well, I was right, but it was more, and I did not know what it actually \*meant\* to write clean code - and how it affected the developers writing and _reading_ the code.
 
 I am not going to explain how to write clean code, because I am not a master at it. I want to teach it, but for now I will just share my starting point.
 
 I believe that my journey to Clean Code was a pretty good one. It worked really well for me anyhow.
-
-&nbsp;
 
 I will show you the two things I used to get started with Clean Code:
 
@@ -71,11 +58,7 @@ I got this book a year ago, when I started working as a software engineer. It wa
 
 "Clean Code" was a transforming book for me. It is without a doubt the single most influential book I have ever read on software development. If you start looking around, you will find that many others are also praising this book.
 
-&nbsp;
-
-I am not paid or get anything from writing this. I wrote this, because I think every software developer would benefit greatly from reading this book. I also think your fellow developers (the other people that is going to read your code) would benefit greatly from \*you\* reading this book.
-
-&nbsp;
+I am not getting anything for writing this. I wrote this, because I think every software developer would benefit greatly from reading this book. I also think your fellow developers (the other people that is going to read your code) would benefit greatly from \*you\* reading this book.
 
 &nbsp;
 

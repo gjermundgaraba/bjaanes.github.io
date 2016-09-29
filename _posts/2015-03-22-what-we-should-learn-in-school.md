@@ -5,18 +5,6 @@ date: 2015-03-22T09:54:37+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /what-we-should-learn-in-school/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3616456638
 suevafree_template:
@@ -29,6 +17,9 @@ tags:
 I wanted to bring my perspective to the debate about what developers should learn in school. Many seasoned developers complain that straight-out-of-school developers don’t have the knowledge they need.
 
 <!--more-->
+
+&nbsp;
+
 # My view
 
 I though I would chime in on what I felt was missing from my education in computer engineering. Coming straight from school and having worked for about 10 months as a full time developer, I have a couple opinions on this subject.
@@ -46,6 +37,8 @@ Personally, believe there is a massive deficit in the current software education
 # What we don't learn - but should have.
 
 We learn lots of great stuff, but there are many skills that don't get taught in school. I will focus on these.
+
+&nbsp;
 
 ## Debugging. Real debugging.
 
@@ -95,13 +88,19 @@ Students who are starting to work will soon pick up these skills, but it’s sho
 
 I have a couple of solutions I think will go a long way.
 
+&nbsp;
+
 ## For schools
+
+Schools need to really pull themselves together for the sake of their students!
 
   * Talk to the industry. Ask them what they expect and want from newly educated developers.
   * Get good teachers with real-world experience and a passion for both teaching and software development (I realize this might be very hard to actually find - but it would awesome).
   * Focus on giving students fundamental skills in software development, but also teach them how to learn properly on their own.
 
 ## For students
+
+&nbsp;
 
 As a student, you should not trust that your education is perfect. Therefore, you should also take action to become more valuable as a future employee.
 

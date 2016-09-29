@@ -5,18 +5,6 @@ date: 2015-02-07T12:40:01+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /roommates-story-of-my-first-real-app/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3493920148
 categories:
@@ -30,6 +18,9 @@ I have just launched my new app on App Store and Play Store. It’s an app for o
 I want to share the story of the app, and how I got to this point.
 
 <!--more-->
+
+&nbsp;
+
 # The story
 
 The idea for this app came to life during the last year of computer engineering school. We either had to come up with a final project for the degree ourselves, or be handed some teacher-made stuffy project. I knew right away that I needed to come up with an idea for myself, because I really wanted to mould a large project from start to finish.
@@ -83,7 +74,3 @@ Roommates for Android: <a href="https://github.com/bjaanes/Roommates-For-Android
 Roommates Cloud Code: <a href="https://github.com/bjaanes/Roommates-For-CloudCode" target="_blank">https://github.com/bjaanes/Roommates-For-CloudCode</a>
 
 &nbsp;
-
-I have also made a simple landing page for Roommate:
-
-<a href="http://gjermundbjaanes.com/roommates" target="_blank">http://gjermundbjaanes.com/roommates</a>

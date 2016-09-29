@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=371
 permalink: /smart-home-series-part-0-starting-point/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4148543627
 categories:

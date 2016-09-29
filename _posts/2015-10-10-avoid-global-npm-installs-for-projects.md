@@ -40,15 +40,9 @@ The way to still be able to run all your gulp tasks and whatnot, is by using npm
 
 <pre class="lang:default decode:true">gulp serve</pre>
 
-&nbsp;
-
 to build, set up watchers and server, you could just do
 
 <pre class="lang:default decode:true ">npm start</pre>
-
-&nbsp;
-
-&nbsp;
 
 In package.json:
 
@@ -56,11 +50,7 @@ In package.json:
     "start": "gulp serve"
 }</pre>
 
-&nbsp;
-
 Easy and nice!
-
-&nbsp;
 
 Npm has a couple of script names that can be used without writing "run" in front of them, like start and test. For other words, you have to do it like this:
 
@@ -88,25 +78,17 @@ Installs all extra dependencies (from bower, since I am still using that, for no
 
 <pre class="lang:default decode:true ">npm run clientdep</pre>
 
-&nbsp;
-
 Build, watchers (automatically reload) and serve (local webserver for development):
 
 <pre class="lang:default decode:true">npm start</pre>
-
-&nbsp;
 
 Run unit tests with watchers (automatically rereun tests):
 
 <pre class="lang:default decode:true ">npm test</pre>
 
-&nbsp;
-
 Update web drivers and start a selenium server for protractor to use:
 
 <pre class="lang:default decode:true ">npm run selenium</pre>
-
-&nbsp;
 
 Run e2e tests with protractor
 

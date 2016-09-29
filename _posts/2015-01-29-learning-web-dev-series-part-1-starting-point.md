@@ -5,18 +5,6 @@ date: 2015-01-29T19:27:37+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /learning-web-dev-series-part-1-starting-point/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3467149014
 categories:

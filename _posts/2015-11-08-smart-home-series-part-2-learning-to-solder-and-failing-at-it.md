@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=446
 permalink: /smart-home-series-part-2-learning-to-solder-and-failing-at-it/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4300949387
 categories:
@@ -124,8 +122,6 @@ I also ordered a few non-shield versions of the ESP8266 so that I can still cont
 
 &nbsp;
 
-Perhaps I should have practiced on some less important things first? Yes, I should have. I really should have... \*sigh\*. Nothing do to about that now.
-
-&nbsp;
+Perhaps I should have practiced on some less important things first? Yes, I should have. I really should have... *sigh*. Nothing do to about that now.
 
 I think the soldering technique was decent; I just messed up somewhere. It happens.

@@ -5,18 +5,6 @@ date: 2015-03-28T18:45:09+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /picks-of-the-month-march-2015/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3634761307
 categories:

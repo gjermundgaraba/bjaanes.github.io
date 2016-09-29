@@ -5,18 +5,6 @@ date: 2015-04-26T14:03:07+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /picks-of-the-month-april-2015/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3714265827
 categories:
@@ -30,6 +18,8 @@ It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
 This month's picks are going to be a couple of things I have recently enjoyed quite a lot.
+
+&nbsp;
 
 # #1 ng-conf 2015
 

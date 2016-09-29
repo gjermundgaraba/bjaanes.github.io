@@ -21,6 +21,7 @@ Well, that's easy, it's practice. It's doing that thing over and over again. Jus
 The same goes for coding.
 
 <!--more-->
+
 The principle can be easily remembered by a nice little acronym.
 ABC.
 

@@ -6,8 +6,6 @@ author: Gjermund Bjaanes
 layout: post
 guid: http://gjermundbjaanes.com/?p=483
 permalink: /picks-of-the-month-november-2015/
-suevafree_template:
-  - right-sidebar
 dsq_thread_id:
   - 4382350099
 categories:
@@ -20,7 +18,9 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
-A little late picks of the month this time. I was in London for a vacation with my family, and <a href="http://gjermundbjaanes.com/i-dont-have-time-for-it-all/" target="_blank">I just didn't have the time for everything</a>.
+A little late picks of the month this time. I was in London for a vacation with my family, and 
+
+<a href="http://gjermundbjaanes.com/i-dont-have-time-for-it-all/" target="_blank">I just didn't have the time for everything</a>.
 
 No matter, here is my picks for November 2015!
 
@@ -75,10 +75,10 @@ I am not quite done with all three books yet, but the first two has been a great
 
 The books are about a future where nano-drugs can enhance humans and basically turn their mind into a super computer, linking them together and doing amazing things. The problem is of course that many people are afraid of this, which causes witch hunts against "non-humans"/"post-humans".
 
-The author, Ramez Naam, is a computer scientist which knows quite a few things about the stuff he is writing about. It feels like this \*almost\* could be real in the future.
+The author, Ramez Naam, is a computer scientist which knows quite a few things about the stuff he is writing about. It feels like this *almost* could be real in the future.
 
 Inspiring books so far. I really recommend at least trying out the first book. Seriously cool stuff, especially for programmers, because there is a lot of programming talk in them.
 
-<a href="http://www.amazon.com/Nexus-Arc-Book-1/dp/0857665502/ref=la_B001IOH84S_1_1?s=books&ie=UTF8&qid=1449420254&sr=1-1" target="_blank">http://www.amazon.com/Nexus-Arc-Book-1/dp/0857665502/ref=la_B001IOH84S_1_1?s=books&ie=UTF8&qid=1449420254&sr=1-1</a>
+<a href="https://www.amazon.com/Nexus-Arc-Book-1/dp/0857665502" target="_blank">https://www.amazon.com/Nexus-Arc-Book-1/dp/0857665502</a>
 
 &nbsp;

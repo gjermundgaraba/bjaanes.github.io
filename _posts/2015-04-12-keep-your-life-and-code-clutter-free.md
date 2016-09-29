@@ -5,18 +5,6 @@ date: 2015-04-12T18:54:31+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /keep-your-life-and-code-clutter-free/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3675808716
 categories:
@@ -41,6 +29,8 @@ When things are clean around me, the work I do tend to also be cleaner and bette
 # Try it out!
 
 So, I want you to try this out. I have a couple of exercises to get things clean and good:
+
+&nbsp;
 
 ### Clean your house
 

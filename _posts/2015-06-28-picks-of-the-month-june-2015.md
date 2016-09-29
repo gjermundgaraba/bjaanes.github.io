@@ -5,18 +5,6 @@ date: 2015-06-28T18:54:19+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /picks-of-the-month-june-2015/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3887176353
 categories:
@@ -29,7 +17,10 @@ Welcome to Picks of the month, where I share a few things I have found useful th
 It can be anything from blog posts and software tools to books and techniques.
 
 <!--more-->
+
 New month, new picks! I have a couple of things I have really enjoyed the last month. Things that really stood out to me. Take a look!
+
+&nbsp;
 
 # #1 Ergonomic Standing desk
 
@@ -47,9 +38,11 @@ I wrote a little post about why should be standing more, take a read if you are 
   
 <a href="http://gjermundbjaanes.com/why-its-so-important-to-stand-up/" target="_blank">Why it’s so important to stand up</a>
 
+&nbsp;
+
 # #2 Blogpost: "We have a problem with promises" by Nolan Lawson
 
-I have used promises quite much for a while now, but I didn't use their true potential (I didn’t even know). From this blog post I learned how to write cleaner and more powerful promise based code in Angular (and really everywhere else too).
+I have used promises quite a lot for a while now, but I didn't use their true potential (I didn’t even know). From this blog post I learned how to write cleaner and more powerful promise based code in Angular (and really everywhere else too).
 
 The blog post about really helped me understand how to properly promises them.
 

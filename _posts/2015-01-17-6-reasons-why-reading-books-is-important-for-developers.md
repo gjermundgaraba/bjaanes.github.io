@@ -5,18 +5,6 @@ date: 2015-01-17T10:54:53+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /6-reasons-why-reading-books-is-important-for-developers/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3428862494
 categories:
@@ -25,34 +13,26 @@ categories:
 tags:
   - Lifestyle
 ---
-**Disclaimer: These are my personal opinions and I have not backed all points by heavy research (although they might be, I don’t really know).**
-
 <!--more-->
 I grew up reading a lot of books. My parents read to me before I could read myself, and later I read a lot of books myself. I believe that reading helped me a lot through school; writing essays and texts always came easy for me.
 
-&nbsp;
-
 After early school years I became “too busy” to read books. There was “important" gaming to be done, friends to hang with, girls to be chased. I think that might have been a bad move (not doing those things, just the stop reading part), because my writing got a lot worse. Even still, I am struggling a lot writing this blog post right now (and I am reading a lot more these days).
-
-&nbsp;
 
 I think that reading is extremely important for a lot of reasons. It’s of course great reading practice (duh), but its also very important for writing, and not only for essays and such. Gathering your thoughts and putting them into well-written sentences is truly an art. It is SO difficult. But isn’t that what programming is a lot about too? Expressing yourself in a written form? Well written and clean code is very important for developers, because of maintainability, testability and so on.
 
-> <q>Clean code reads like well-written prose.</q>
-  
->  _Grady Booch, author of Object-Oriented Analysis and Design with Applications_
+> Clean code reads like well-written prose.
+
+_Grady Booch, author of Object-Oriented Analysis and Design with Applications_
 
 &nbsp;
 
 Literacy is the most basic part of programming. We write and we read code. We write and read. So why don’t we focus more on reading and writing? OK, so I guess we do practice reading and writing when we work with code, but why stop there? Why not get even better than we ever could by just reading code?
 
-&nbsp;
-
 When I am talking about books here, I am mostly thinking about non-technical books (fiction, self-help, non-fiction). You should most certainly read technical books, but they wont necessarily provide all the same benefits that I talk about in this post.
 
-&nbsp;
-
 These are 6 benefits I believe that reading books provides for programmers:
+
+&nbsp;
 
 # 1. You’ll get better at reading
 
@@ -94,8 +74,8 @@ This is sort of linked to reason #4, but it’s so important for programmers to 
 
 &nbsp;
 
-## Further reading about why reading is great:
+# Further reading about why reading is great:
 
- <a title=" 10 Benefits of Reading: Why You Should Read Every Day" href="http://www.lifehack.org/articles/lifestyle/10-benefits-reading-why-you-should-read-everyday.html" target="_blank">10 Benefits of Reading: Why You Should Read Every Day</a>
+<a title=" 10 Benefits of Reading: Why You Should Read Every Day" href="http://www.lifehack.org/articles/lifestyle/10-benefits-reading-why-you-should-read-everyday.html" target="_blank">10 Benefits of Reading: Why You Should Read Every Day</a>
   
 <a title="The value of reading books or how to get ahead of the pack" href="http://www.fundamentalprogrammer.com/the-value-of-reading-books-or-how-to-get-ahead-of-the-pack/" target="_blank">The value of reading books or how to get ahead of the pack</a>

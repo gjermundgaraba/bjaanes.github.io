@@ -5,18 +5,6 @@ date: 2015-05-03T16:02:08+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /angular-controller-communication-using-delegates/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3732759362
 categories:

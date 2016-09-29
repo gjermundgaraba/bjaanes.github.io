@@ -5,18 +5,6 @@ date: 2015-02-22T19:54:08+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /learning-web-dev-series-part-3-all-that-front-end/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3539176938
 categories:
@@ -29,7 +17,10 @@ tags:
 This will be a short update about my progress on learning web development.
 
 <!--more-->
+
 [Last time](http://gjermundbjaanes.com/learning-web-dev-series-part-2-wrong-turn/ "Learning Web Dev Series – Part 2: Wrong turn") I mentioned I wanted to get more fundamentals in place before starting to use things like Bootstrap and other utilities that lets you skip a lot of details. I also said that I would do some courses on CodeSchool (and I have). I even got some tips for great learning resources on the web.
+
+&nbsp;
 
 # CodeSchool
 
@@ -44,14 +35,14 @@ I started out on the HTML/CSS path where i finished the following courses:
   * CSS Cross-Country
   * Journey Into Mobile
 
-&nbsp;
-
 I also wanted to do something else than just HTML & CSS, so I started down the JavaScript path as well. There i have finished:
 
   * JavaScript Road Trip Part 1
   * JavaScript Road Trip Part 2
   * JavaScript Road Trip Part 3
   * Shaping up with Angular.JS (I was just really curious)
+
+&nbsp;
 
 # Next up
 
@@ -66,6 +57,8 @@ As an example of what I have started doing:
 I want to create a personal page that is just about me, and I want to create it from the bottom up myself. I have started doing the design (lending/stealing bits and peaces from around the web) on my own, but I feel really inadequate when it comes to design, so that is something I might consider learning more about as time goes on. For now though, I will focus on the coding.
 
 All in all, I am very happy that I realized that my previous path was a wrong one. Learning more fundamentals from people who know what they are talking about (hopefully!) seems like a much better path than just learning to create website really fast. I need to have a strong fundament before doing too much
+
+&nbsp;
 
 # The Journey – Visualized
 

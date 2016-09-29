@@ -5,18 +5,6 @@ date: 2015-07-05T21:26:38+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /how-i-dealt-with-my-shoulder-tendonitis/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3907470578
 categories:
@@ -31,17 +19,12 @@ Really, go ask your doctor for some help. Perhaps he can get you in touch with a
 That said, the following tips are pretty non-controversial, and would probably do little harm.
 
 <!--more-->
-&nbsp;
 
 If you want to learn more about shoulder tendonitis and what causes it, and the names of the muscles that are effected (and such), you need to do that research on your own. This post is all about how to fix it.
 
-&nbsp;
-
-Lately, I have had (past tense, **yay!**) issues with my shoulder.
+Lately, I have had issues with my shoulder.
 
 It was all because i sit in front of the computer, programming all day, every day. So I started developing something besides awesome software; _shoulder tendonitis (SAD FACE)_.
-
-&nbsp;
 
 It's very important to take steps to fix the problem before it becomes a huge issue, where you can't work at all. Nobody wants that.
 

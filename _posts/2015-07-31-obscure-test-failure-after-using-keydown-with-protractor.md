@@ -5,18 +5,6 @@ date: 2015-07-31T15:01:14+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /obscure-test-failure-after-using-keydown-with-protractor/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3992889454
 categories:

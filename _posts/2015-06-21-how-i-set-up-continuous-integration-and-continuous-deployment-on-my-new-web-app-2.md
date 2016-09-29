@@ -5,18 +5,6 @@ date: 2015-06-21T11:01:36+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /how-i-set-up-continuous-integration-and-continuous-deployment-on-my-new-web-app-2/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3866297397
 categories:
@@ -30,9 +18,10 @@ I recently started working on a brand new web app. It has been a blast, but I wa
 These things exists and are called Continuous Deployment (CD) and Continuous Integration (CI).
 
 <!--more-->
+
 Update: I Added how to set up the CI to run e2e tests with protractor.
 
-# 
+&nbsp;
 
 # Continuous Integration with Travis
 
@@ -58,8 +47,6 @@ before_script:
 script:
   - node_modules/.bin/karma start karma.conf.js --no-auto-watch --single-run
   - node_modules/.bin/protractor protractor.conf.js --browser=firefox</pre>
-
-&nbsp;
 
 All it really does is set up what it needs to be able to run the tests with karma on Travis. It has a setup set called “before_script” where any installation and other preparation needs to happen. The “script” step is where you run your tests. I will soon add a new line for starting my protractor test suite.
 
@@ -88,8 +75,6 @@ Finally, the tests are run using the:
 
 <pre class="lang:default decode:true">- node_modules/.bin/protractor protractor.conf.js --browser=firefox</pre>
 
-&nbsp;
-
 <div id="attachment_308" style="width: 741px" class="wp-caption alignnone">
   <a href="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-15-at-19.14.25.png"><img class=" wp-image-308" src="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-15-at-19.14.25.png" alt="Screenshot from Travis website" width="731" height="205" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-15-at-19.14.25.png 1962w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-15-at-19.14.25-300x84.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-15-at-19.14.25-1024x287.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-15-at-19.14.25-945x265.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-15-at-19.14.25-600x168.png 600w" sizes="(max-width: 731px) 100vw, 731px" /></a>
   
@@ -98,13 +83,11 @@ Finally, the tests are run using the:
   </p>
 </div>
 
-&nbsp;
-
 Feel free to use my travis script, it was taken from the angular seed project:
   
 <a href="https://github.com/angular/angular-seed" target="_blank">https://github.com/angular/angular-seed</a>
 
-# 
+&nbsp;
 
 # Continuous Deployment with dploy
 

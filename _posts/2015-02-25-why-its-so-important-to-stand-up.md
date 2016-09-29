@@ -5,18 +5,6 @@ date: 2015-02-25T20:56:31+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /why-its-so-important-to-stand-up/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3548035474
 categories:
@@ -29,6 +17,7 @@ As software developers, our job is to sit a lot.
 Well, its actually to develop a lot, but it usually involves a whole lot of sitting. 
 
 <!--more-->
+
 Unless you have a standing desk, you are probably sitting 8 hours a day, and then probably sitting even more when you get home. 
 
 That is no way to live. And even if you don’t sit all day when you get home, it’s still too much sitting still. 
@@ -43,7 +32,11 @@ First things first: start exercising! There is just no good reason not to. You w
 
 # Sitting. Don't.
 
+&nbsp;
+
 Sitting. We are just not made for it. The human body does not work properly when sitting on it's ass all day. And while you might (and really should!) get some exercise every day, you still need to take some breaks from sitting too. The sitting marathons we take part in every day is destroying our bodies. Almost every part of your body suffers from this. Not only that, but your MIND even suffers from it. If you stand up every once in a while and walk around a bit, not only will you feel better, but your mind will refresh and get ready to work again!
+
+&nbsp;
 
 # Why not sit?
 
@@ -54,6 +47,8 @@ Mortality, High cholesterol, Obesity, Back pain, Type 2 diabetes, Slow blood cir
 That sucks.
 
 Also, In term of energy levels, sitting takes a heavy toll on it. Coding with high efficiency is very difficult when your head is not in the game.
+
+&nbsp;
 
 # Why stand up?
 

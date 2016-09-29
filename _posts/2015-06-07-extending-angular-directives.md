@@ -5,18 +5,6 @@ date: 2015-06-07T19:09:13+00:00
 author: Gjermund Bjaanes
 layout: post
 permalink: /extending-angular-directives/
-video_url:
-  - 
-audio_url:
-  - 
-quote_content:
-  - 
-quote_attribution:
-  - 
-link_url:
-  - 
-link_title:
-  - 
 dsq_thread_id:
   - 3829208144
 categories:
@@ -30,6 +18,7 @@ tags:
 In this post I will explain some techniques for extending Angular Directives and how to design for extensibility.
 
 <!--more-->
+
 It might not always make sense to go crazy and extend directives everywhere. Try not to use this more often than necessary. It’s no point making huge generic components just to call thing reusable. More often than not, it’s not even worth it to make things that generic. It all depends on the use case of course. Try to keep things small and reusable instead.
 
 That said, when we do want to create some directive that is reusable and extendable, there exists many ways to do that. It all depends on you code style and what you actually want to extend.
@@ -38,11 +27,15 @@ All code created for this blog post is available on Github:
   
 <a href="https://github.com/bjaanes/Extending-Directives-Blog-Post-Code" target="_blank">https://github.com/bjaanes/Extending-Directives-Blog-Post-Code</a>
 
+&nbsp;
+
 # Require Directive for extension and decoration of controller
 
 Let’s say you have a base directive of some sorts and you want to create a directive that extends the functionality of that base directive. Depending on what you want, using ‘require’ to decorate the base controller might solve your problems.
 
 There are two very similar ways to do this:
+
+&nbsp;
 
 ## Separate Directive
 
@@ -141,7 +134,7 @@ What happens when you click Do Something Else:
 
 [<img class="alignnone wp-image-285" src="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.41.55.png" alt="Screenshot require Do Something Else" width="460" height="25" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.41.55.png 956w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.41.55-300x16.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.41.55-945x51.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.41.55-600x33.png 600w" sizes="(max-width: 460px) 100vw, 460px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.41.55.png)
 
-## 
+&nbsp;
 
 ## Stacked Directive
 
@@ -237,8 +230,6 @@ What happens when you click Do Something:
 What happens when you click Do Something Else:
 
 [<img class="alignnone wp-image-292" src="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.56.43.png" alt="Screenshot require stack do something else" width="630" height="21" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.56.43.png 1140w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.56.43-300x10.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.56.43-1024x34.png 1024w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.56.43-945x32.png 945w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.56.43-600x20.png 600w" sizes="(max-width: 630px) 100vw, 630px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.56.43.png)
-
-&nbsp;
 
 Works exactly the same.
 
@@ -339,8 +330,6 @@ Actual usage:
 
 <pre class="lang:xhtml decode:true ">&lt;delegate-extension&gt;&lt;/delegate-extension&gt;</pre>
 
-&nbsp;
-
 How it looks:
 
 [<img class="alignnone wp-image-293" src="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.58.57.png" alt="Screenshot Delegate Extension" width="461" height="190" srcset="http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.58.57.png 820w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.58.57-300x124.png 300w, http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.58.57-600x247.png 600w" sizes="(max-width: 461px) 100vw, 461px" />](http://gjermundbjaanes.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-07-at-19.58.57.png)
@@ -372,6 +361,8 @@ Transclude in Angular directives is basically putting the markup that appears in
 That can be utilized in my different ways, but in this case I assume you want a generic widget of some sorts that can be extended by putting html in certain places.
 
 Let’s take the example of a header directive. Perhaps you need to use a header widget over several apps. You can create a simple base directive that takes some of the application-specific markup as transclusion.
+
+&nbsp;
 
 ## Simple (Single) Transclude
 
@@ -424,9 +415,13 @@ Everything on the left side of the header is now decided with the transcluded co
 
 If you need to input HTML several places in a widget there are two options available:
 
+&nbsp;
+
 ### Split up the directive
 
 The sane option usually. If it needs a lot of application specific stuff many places it might be better to split the directive up somehow
+
+&nbsp;
 
 ### Using multiple transclude
 
@@ -499,12 +494,11 @@ Using JavaScript Prototype for inheritance:
   
 <a href="http://blog.mgechev.com/2013/12/18/inheritance-services-controllers-in-angularjs/" target="_blank">http://blog.mgechev.com/2013/12/18/inheritance-services-controllers-in-angularjs/</a>
 
+&nbsp;
+
 Sources:
   
-<a href="http://stackoverflow.com/questions/17005122/extending-angular-directive" target="_blank">http://stackoverflow.com/questions/17005122/extending-angular-directive</a>
-  
-<a href="https://github.com/angular/angular.js/wiki/Understanding-Directives" target="_blank">https://github.com/angular/angular.js/wiki/Understanding-Directives</a>
-  
-<a href="https://github.com/zachsnow/ng-multi-transclude" target="_blank">https://github.com/zachsnow/ng-multi-transclude</a>
-  
-<a href="http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/" target="_blank">http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/</a>
+* <a href="http://stackoverflow.com/questions/17005122/extending-angular-directive" target="_blank">http://stackoverflow.com/questions/17005122/extending-angular-directive</a>
+* <a href="https://github.com/angular/angular.js/wiki/Understanding-Directives" target="_blank">https://github.com/angular/angular.js/wiki/Understanding-Directives</a>
+* <a href="https://github.com/zachsnow/ng-multi-transclude" target="_blank">https://github.com/zachsnow/ng-multi-transclude</a>
+* <a href="http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/" target="_blank">http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/</a>
