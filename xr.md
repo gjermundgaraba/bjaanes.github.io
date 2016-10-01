@@ -98,6 +98,13 @@ Hot spots is kind of a simple overview of what is important to you.
 
 It allows you to map out the important areas of your life and help you spend your time in those.
 
+For instance, you might have a hot spot bucket called Life. In it you could have a list of Hot Spots:
+* Mind
+* Body
+* Fun
+
+And you could have another hot spot bucket called Work. It would contain other things that are key to work.
+
 [Learn about Hot Spots](http://www.30daysofgettingresults.com/2011/10/day-5-hot-spots-map-out-whats-important.html)
 
 &nbsp;
