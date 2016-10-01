@@ -42,6 +42,8 @@ The simplicity and modularity of it all makes the barrier for entry very small.
 
 What I want to focus on here, is something called outcomes and reflections. They are very simple, but powerful.
 
+&nbsp;
+
 ## Outcomes
 
 The point of outcomes is to outline 3 goals you want to achieve within a specific time frame.
@@ -69,6 +71,8 @@ And again, if you forget for a few days, it's easy to get back up on the horse.
 Just write down 3 things you want to have done by the end of the day. 
 Super simple!
 
+&nbsp;
+
 ## Reflections
 
 You use reflections to learn and improve upon your process.
@@ -85,6 +89,18 @@ And, if things change right under your feet, you can easily adapt (being all Agi
 
 Using the reflections, you can improve the goals you choose (so that you choose good goals that you can actually finish), 
 and the way you do them.
+
+&nbsp;
+
+## Hot Spots
+
+Hot spots is kind of a simple overview of what is important to you.
+
+It allows you to map out the important areas of your life and help you spend your time in those.
+
+[Learn about Hot Spots](http://www.30daysofgettingresults.com/2011/10/day-5-hot-spots-map-out-whats-important.html)
+
+&nbsp;
  
 ## Learning more
 
@@ -113,6 +129,8 @@ If XR is something more people want, I am fully committed to evolving it into a 
 
 The app can be found here: [https://xr.gjermundbjaanes.com/](https://xr.gjermundbjaanes.com/)
 
+&nbsp;
+
 ## Related entries
 
 For instance, when creating your daily outcomes, wouldn't it make sense to be able to see your
@@ -123,6 +141,8 @@ higher level, more abstract goals, like weekly or monthly?
 Or how about being able to look over your past weeks outcomes when writing your reflections?
 
 [![Related Entries for Reflections]({{ site.baseurl}}/img/pages/Reflections.png)]({{ site.baseurl}}/img/pages/Reflections.png) 
+
+&nbsp;
 
 ## Getting an overview
 
