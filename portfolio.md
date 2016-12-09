@@ -88,11 +88,16 @@ Parse Cloud Code: [https://github.com/bjaanes/Roommates-For-CloudCode](https://g
 
 # MQTT Dashboard
 
-An MQTT Dashboard developed during the two-day hackathon Angular Attack 2016. 
+An MQTT Dashboard developed during the two-day hackathon Angular Attack 2016.
+
+The app was a finalist among the about 300 entries, but did not win any prices. 
+I was still most happy with the result. I learned a lot, and it was a lot of fun to participate.
 
 A demo is available at [http://bjaanes.2016.angularattack.io/](http://bjaanes.2016.angularattack.io/){:target="_blank"}
 
-It allows you to monitor any MQTT topics in real time from anywhere (as long as they are available online)
+I also wrote a blog post about the submission: [http://www.gjermundbjaanes.com/angular-attack-2016-submission/](http://www.gjermundbjaanes.com/angular-attack-2016-submission/){:target="_blank"}
+
+The app allows you to monitor any MQTT topics in real time from anywhere (as long as they are available online)
 
 The MQTT Dashboard allows the user to connect to any number of MQTT sources and topics and view the data the publish in real time.
 
@@ -100,7 +105,7 @@ The app is written mainly with Angular 2 and TypeScript.
 
 The biggest technical challenge related to this app is the fact that most MQTT brokers do no support Websockets (some do, but that is not the most common today) and browsers do not support MQTT.
 
-To solve this problem the app uses an MQTT Websocket bridge as it's backend. That means that the MQTT Dashboard connects to the backend with websockets, which deals with all the MQTT business that the browser cannot.
+To solve this problem the app uses an MQTT WebSocket bridge as it's backend. That means that the MQTT Dashboard connects to the backend with websockets, which deals with all the MQTT business that the browser cannot.
 
 Such a bridge already exists, but did not work exactly like needed for the app, so I forked the original and updated it to work the way I needed it to.
 
@@ -186,3 +191,25 @@ The app also has an extensive statistics page to show fun metrics over time.
 
 Raffle App Code: [https://github.com/bjaanes/Raffle](https://github.com/bjaanes/Raffle){:target="_blank"}
 
+&nbsp;
+
+# .NET Core for your Web API's?
+
+I did a session on a local .NET meetup group where I shared my experience with using ASP.NET Core for RESTful API's.
+
+[![Raffle Drawing]({{ site.baseurl}}/img/portfolio/aspnet_talk.jpg)]({{ site.baseurl }}/img/portfolio/aspnet_talk.jpg)
+
+The premise of the talk was to find out if .NET Core could be a good solution for creating Web API’s for the modern web stack. 
+More precisely, could ASP.NET Core be used just as easily as for instance Node to create RESTful API’s?
+
+Another aspect of the talk was that I had no experience with .NET from before. This made the learning experience quite interesting, I think.
+
+I created a web client, and implemented a simple RESTful API in Node.js, .NET Core (ASP.NET Core) and Java. I then explored the viability of each option.
+
+I wrote a blog post about the subject: [http://www.gjermundbjaanes.com/dot-net-core-for-your-web-apis/](http://www.gjermundbjaanes.com/dot-net-core-for-your-web-apis/){:target="_blank"}
+
+The talk was in Norwegian, and the slide are too.
+
+All the code, and the slides, are available on GitHub:
+
+[https://github.com/bjaanes/dotnet-core-api-talk](https://github.com/bjaanes/dotnet-core-api-talk){:target="_blank"}
