@@ -1,5 +1,5 @@
 ---
-title: 'Goodreads Backup - With a web app'
+title: 'Goodreads Backup - With a Web App'
 date: 2016-12-10T15:00:00+02:00
 author: Gjermund Bjaanes
 layout: post
