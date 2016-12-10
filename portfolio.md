@@ -5,18 +5,20 @@ layout: page
 header-img: "img/portfolio_bg.jpg"
 ---
 
-On this page, I wanted to just showcase a few of the projects I do *on my own time*.
+On this page, I wanted to just showcase a few of the projects I do **on my own time**.
+
 All the code is available on GitHub: [https://gibhub.com/bjaanes](https://gibhub.com/bjaanes){:target="_blank"}.
 
 # Extreme Results
 
 This project was big enough that I have a separate sub page for it:
-[https://xr.gjermundbjaanes.com](https://xr.gjermundbjaanes.com){:target="_blank"}
+[http://gjermundbjaanes.com/xr](https://gjermundbjaanes.com/xr){:target="_blank"}
+
+The project is also deployed on: [http://xr.gjermundbjaanes.com](https://xr.gjermundbjaanes.com){:target="_blank"}
 
 Extreme Results is an Open Source software solution for implementing J.D Meier’s personal productivity system, Getting Results The Agile Way (Also called Agile Results).
 
 [![Extreme Results Overview]({{ site.baseurl}}/img/portfolio/xr-portfolio.png)]({{ site.baseurl }}/img/portfolio/xr-portfolio.png)
-
 
 It's a web app where I control the entire stack. Client and server written from scratch.
 
@@ -152,18 +154,38 @@ Gulp Plugin Code: [https://github.com/bjaanes/gulp-clean-compiled-typescript](ht
 
 # Goodreads Backup
 
-A python script/application to back up Goodreads shelves using the Goodreads API.
+This project started as a simple python script to be able to download all my book shelves from Goodreads.
+
+It ended up as a two-part project with a script and a simple web app to operate it.
+
+The Goodreads Backup app let's you enter your Goodreads User ID and get back a zip file containing a CSV file for each of your shelves. 
+
+A demo can be found here: [http://demo.gjermundbjaanes.com:8080/goodreads-backup/](http://demo.gjermundbjaanes.com:8080/goodreads-backup/){:target="_blank"}
+
+[![Goodreads Backup Screenshot]({{ site.baseurl}}/img/portfolio/goodreads-backup-portfolio.png)]({{ site.baseurl }}/img/portfolio/goodreads-backup-portfolio.png)
+
+The python script downloads and processes your Goodreads shelves using the Goodreads API. It then saves each of them as a CSV file.
 
 The reasoning for writing this script was that Goodreads seems to have some pretty buggy apps, and I don't completly trust them with keeping all my data safe. 
 My to-read list is especially important for me to not lose.
 
-The script fetches all your books from all shelves and saves them to seperate CSV files.
+The web app I created mostly to let others use the functionality I created a bit easier.
+
+The script fetches all your books from all shelves and saves them to separated CSV files.
 
 - Technology
-    - Python
-    - XML (DOM Parsing from Goodreads API's)
+    - Script
+        - Python
+        - XML (DOM Parsing from Goodreads API's)
+    - Web app
+        - Java
+        - Spring Boot
+        - HTML/CSS/JavaScript + jQuery
+    
 
-Goodreads Backup Code: [https://github.com/bjaanes/goodreads-backup](https://github.com/bjaanes/goodreads-backup){:target="_blank"}
+Goodreads Backup Script: [https://github.com/bjaanes/goodreads-backup](https://github.com/bjaanes/goodreads-backup){:target="_blank"}
+
+Goodreads Backup Web: [https://github.com/bjaanes/goodreads-backup-web](https://github.com/bjaanes/goodreads-backup-web){:target="_blank"}
 
 &nbsp;
 
