@@ -18,7 +18,13 @@ If you want to just download the code and give it try for yourself, it should be
 As always, the code is available on GitHub:
 [https://github.com/bjaanes/dotnet-core-api-talk](https://github.com/bjaanes/dotnet-core-api-talk){:target="_blank"}
 
-[![Picutre from the talk]({{ site.baseurl}}/img/posts/aspnet_talk.jpg)]({{ site.baseurl }}/img/posts/aspnet_talk.jpg)
+[![Picture from the talk]({{ site.baseurl}}/img/posts/aspnet_talk.jpg)]({{ site.baseurl }}/img/posts/aspnet_talk.jpg)
+
+You can also find the slides from the talk on the GitHub project (warning, they are in Norwegian):
+
+PPTX: [https://github.com/bjaanes/dotnet-core-api-talk/blob/master/dotnet-core-foredrag.pptx](https://github.com/bjaanes/dotnet-core-api-talk/blob/master/dotnet-core-foredrag.pptx){:target="_blank"}
+
+PDF: [https://github.com/bjaanes/dotnet-core-api-talk/blob/master/dotnet-core-foredrag.pdf](https://github.com/bjaanes/dotnet-core-api-talk/blob/master/dotnet-core-foredrag.pdf){:target="_blank"}
 
 &nbsp;
 
