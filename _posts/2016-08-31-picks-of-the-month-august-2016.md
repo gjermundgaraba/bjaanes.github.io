@@ -35,7 +35,7 @@ Great fiction book about hacking, killing people (using hacking) and social netw
 A lot of techy talk and references that only programmers will get. 
 If you like geeky books that are slightly though provoking, this might be a book for you.
 
-[![Kill Process Cover]({{ site.baseurl}}/img/posts/killprocess.jpg)]({{ site.baseurl }}/img/posts/killprocess.jpg)
+[![Kill Process Cover]({{ site.baseurl}}/img/posts/kill_process_cover.jpg)]({{ site.baseurl }}/img/posts/kill_process_cover.jpg)
 
 > By day, Angie, a twenty-year veteran of the tech industry, is a data analyst at Tomo, the world's largest social networking company; by night, she exploits her database access to profile domestic abusers and kill the worst of them. She can't change her own traumatic past, but she can save other women.
 >  
@@ -56,7 +56,7 @@ Not saying it really is (I'm not really sure yet), but these books, while a bit 
 
 Either way, it's a fun little series, and I recommend it highly.
 
-[![Singularity Book 1 Avogadro Corp Cover]({{ site.baseurl}}/img/posts/singularitycover.jpg)]({{ site.baseurl }}/img/posts/singularitycover.jpg)
+[![Singularity Book 1 Avogadro Corp Cover]({{ site.baseurl}}/img/posts/avogadro_corp_cover.jpg)]({{ site.baseurl }}/img/posts/avogadro_corp_cover.jpg)
 
 > From Book 1: David Ryan is the designer of ELOPe, an email language optimization program, that if successful, will make his career. But when the project is suddenly in danger of being canceled, David embeds a hidden directive in the software accidentally creating a runaway artificial intelligence.
 >   
@@ -74,7 +74,7 @@ The world is a couple of totalitarian states (extreme Big Brother kind of societ
  
 I really loved this book, and I highly recommend it to anyone who likes thought provoking books.
 
-[![1984 Cover]({{ site.baseurl}}/img/posts/1984.jpg)]({{ site.baseurl }}/img/posts/1984.jpg)
+[![1984 Cover]({{ site.baseurl}}/img/posts/1984_cover.jpg)]({{ site.baseurl }}/img/posts/1984_cover.jpg)
 
 > Written in 1948, 1984 was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, Orwell’s narrative is timelier than ever. 1984 presents a startling and haunting vision of the world, so powerful that it is completely convincing from start to finish. No one can deny the power of this novel, its hold on the imaginations of multiple generations of readers, or the resiliency of its admonitions—a legacy that seems only to grow with the passage of time.
 
