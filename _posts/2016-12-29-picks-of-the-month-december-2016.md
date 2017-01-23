@@ -21,7 +21,7 @@ Still reading quite a bit, but I have been spending most of my free time on pers
 As always, if you want to share my book journey with me, [add me on Goodreads](https://www.goodreads.com/friend/i?i=LTM1Njg4OTU3MjE6NDE5){:target="_blank"}
 
 I am currently on vacation, which I really really needed. This year has been filled with a lot of work and some rather stressful periods. 
-I finally have some time to let things go. It takes some time to get there - to really wind down properly.  
+I finally have some time to let things go. It takes some time to get there - to really wind down properly.
 One good way to wind down is to do some reading. Some fun reading!
 
 &nbsp;
@@ -72,7 +72,7 @@ I don't want to write too much about how it all works, because I feel like I don
 At least in a very good way. I hope to be able to write more about all of it later.
 
 All I can really say is that if you want to look into some very interesting future-esque technology, Blockchain is a good choice. 
-Especially Bitcoin and Ethereum are really interesting to places to start right now.
+Especially Bitcoin and Ethereum are really interesting places looking at this.
 
 Especially Ethereum looks like a very cool concept. In their own words: 
 "Ethereum is a  decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference."

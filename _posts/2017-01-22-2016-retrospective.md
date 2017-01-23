@@ -161,7 +161,7 @@ What I will say however, is that if you want to get more peace of mind, more con
 
 [![Reading]({{ site.baseurl}}/img/posts/read.jpg)]({{ site.baseurl }}/img/posts/read.jpg) 
 
-I got really into reading in 2016! During my summer vacation I remembered the joy of reading books. So since then I have read a ton of them! I found out that I am a big fan of Science Fiction books (should've seen that one coming, I guess) as well as non-fiction books.
+I got really into reading in 2016! During my summer vacation I remembered the joy of reading books. Since then I have read a ton of them! I found out that I am a big fan of Science Fiction books (should've seen that one coming, I guess) as well as non-fiction books.
 
 I think reading is a really great way to relax, learn and get a lot of experience you otherwise wouldn't.
 
