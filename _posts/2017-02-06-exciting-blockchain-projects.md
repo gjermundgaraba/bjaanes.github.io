@@ -8,7 +8,7 @@ categories:
   - Uncategorized
 ---
 
-Blockchain technology seems to everywhere, but what are some of coolest, most innovative and exciting projects happening in this space right now?
+Blockchain technology seems to be everywhere, but what are some of the coolest, most innovative and exciting projects happening in this space right now?
 
 <!--more-->
 
