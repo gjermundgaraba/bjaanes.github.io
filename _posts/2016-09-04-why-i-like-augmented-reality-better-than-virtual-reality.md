@@ -41,9 +41,11 @@ And just to be clear. When I say Augmented Reality, I definitely don’t mean ho
 
 With that out of the way, I will continue saying Augmented Reality, when I in reality mean both Augmented Reality, and Mixed Reality. I’ll also shorten all the terms to AR, MR and VR.
 
+I recently wrote a post about AR glasses in 2017, so if you are interested in what products are available for AR today, have a look: [Overview of Augmented Reality Glasses in 2017]({{ site.baseurl }}/augmented-reality-glasses-2017/){:target="_blank"}
+
 To get us started, a quick video that demonstrates some potential AR power:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aThCr0PsyuA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6XcZOP-PKU" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
 
