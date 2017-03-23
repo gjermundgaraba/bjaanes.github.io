@@ -80,7 +80,7 @@ There is actually another quirk with _var_, and that is hoisting.
 It's not really specific to _var_, but it's behaviour is a bit weird.
 
 What hoisting does, is that it moves all declarations to the top of it's scope.
-Not the actual initialization though.
+However, it does not move the initialization.
 
 What that means in practice, is that this code block:
 
@@ -110,7 +110,25 @@ function test() {
 console.log(typeof test); // "function"
 {% endhighlight %}
 
-But... But why? Because JavaScript, and that's just how it is.
+AND, to highlight the initialization part more clearly too (Thanks to Umamaheswararao Meka for pointing this out!)
+
+{% highlight javascript %}
+console.log(willBeHoisted) //undefined
+var willBeHoisted;
+{% endhighlight %}
+
+This will actually be translated to:
+
+{% highlight javascript %}
+var willBeHoisted;
+console.log(willBeHoisted) //undefined
+{% endhighlight %}
+
+which is why it does not behave the same way as:
+
+{% highlight javascript %}
+console.log(what) // Uncaught ReferenceError: what is not defined
+{% endhighlight %}
 
 &nbsp;
 
