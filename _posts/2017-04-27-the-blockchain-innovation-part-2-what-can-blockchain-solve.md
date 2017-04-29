@@ -1,76 +1,26 @@
 ---
-title: 'The Blockchain Innovation'
-date: 2017-02-05T10:00:00+02:00
+title: 'The Blockchain Innovation Part 2: What can Blockchain solve'
+date: 2017-04-27T10:00:00+02:00
 author: Gjermund Bjaanes
 layout: post
-permalink: /the-blockchain-innovation/
+permalink: /the-blockchain-innovation-part-2-what-can-blockchain-solve/
 categories:
   - Uncategorized
 ---
 
 You might not be aware, but there is an innovation revolution happening right now. It's changing the economy, business, the Internet, and could soon also change the entire world. This innovation is called blockchain.
 
+This post is all about what kind of problems that Blockchain can solve.
+
 <!--more-->
 
-Blockchain originated as the technology behind Bitcoin, but it is so much more. It's a ledger of information that enables trust, transparency, and decentralization of transactions and data. It can sound dull, and perhaps you don't understand what it can do, but when you realize what this will mean, you too might get excited.
+All three parts of this series: 
 
-[![Blockchain Dilbert Comic]({{ site.baseurl}}/img/posts/blockchain/blockchaindilbert.jpg)]({{ site.baseurl }}/img/posts/blockchain/blockchaindilbert.jpg) 
-
-In this post, I will cover some of the key concepts behind the technology of blockchain and some of the things it can do. In the end, I will outline some of some of the challenges it faces as well.
-
-Before starting, if you want a quick (but thorough) intro to Bitcoin and Blockchain, I can recommend this little video by SciShow:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kubGCSj5y3k" frameborder="0" allowfullscreen></iframe>
-
-&nbsp;
-
-# What is blockchain?
-
-In it's most abstract form, you can think of a blockchain as a distributed database secured by cryptography. In simple terms, it means there is a network of people that has a full copy of the blockchain database, and everyone helps decide what goes into it, and what is the correct state of the database. This makes it hard to hack or take down, because it's in so many places, and there are a bunch of people controlling it. Not just a single company.
-
-[![Network drawing]({{ site.baseurl}}/img/posts/blockchain/network.png)]({{ site.baseurl }}/img/posts/blockchain/network.png) 
-
-As the name implies, a blockchain is a chain of blocks. Each block contains some transactions or pieces of data. Each block also includes a reference to its previous block, making it a sort of a reverse linked list. This keeps the order of the blocks in check, which is important to keep the data correct. 
-
-[![Blockchain drawing]({{ site.baseurl}}/img/posts/blockchain/blockchain.png)]({{ site.baseurl }}/img/posts/blockchain/blockchain.png) 
-
-Each block is encrypted with a particular algorithm, giving it a unique hash. This has also has to follow some rules, so it takes quite a while to find a correct one. This hash is part of the security. If you try to change a block, the hash changes. And if the hash changes, then anyone linking to that block will need to change - and then you have to change every block after that. So changing data in the middle of a blockchain is a big hassle as it requires you to re-apply your cryptographic magic on each changed block (each block coming after the first changed block). 
-
-There is more going on with the cryptography part of blockchain and how it is secured. If you are interested, I suggest reading this excellent article: [How Does the Blockchain Work](https://medium.com/@micheledaliessi/how-does-the-blockchain-work-98c8cd01d2ae){:target="_blank"}
-
-[![Blockchain drawing]({{ site.baseurl}}/img/posts/blockchain/block.png)]({{ site.baseurl }}/img/posts/blockchain/block.png) 
-
-To better wrap your head around how these blocks work, I suggest this video to help visualize and understand:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_160oMzblY8" frameborder="0" allowfullscreen></iframe>
-
-What makes blockchain shine is the fact that it's distributed. Without that, it's just a fancy technique for storing stuff and keeping track of transactions.
-
-A blockchain is said to be distributed because it's not stored in one single place. It's saved many places! A lot of people have full copies of blockchains. And a lot of individuals are running full blockchain nodes to verify and secure the network. All the data is in the network, not some data center controlled by a single company. Blockchains are owned by no one and everyone.
- 
-You cannot simply take down a blockchain, as long as it is in use. You can't shut it down, nor control it. The only way to partially control a blockchain is by doing what is called a "51% attack" (by controlling more than 51% of the network) and removing already processed transactions, which is bad, but not catastrophic. Also, it's not feasible to change things too far back in the future either. It's actually pretty safe.
-
-Learn about 51% attacks: [https://learncryptography.com/cryptocurrency/51-attack](https://learncryptography.com/cryptocurrency/51-attack){:target="_blank"}
-
-&nbsp;
-
-## The Trust Protocol
-
-The last thing that makes blockchain technology so cool is the fact that it eliminates a lot of need for trust.
-
-Let me explain why that is a good thing. In business and transactions in general, there has always been the need to trust the ones you are interacting with, to know that we are not being deceived. This is why we have a lot of big third parties involved with things today. PayPal, Uber, Airbnb, etc. Most middlemen are there to reduce the need for trust between actors.
-
-The interesting thing is that blockchain removes a lot of that need because trust is implicit in the platform. You can't cheat the platform. You can't cheat a smart contract. Code is law! This has some negative consequences as well, which I will get back to later.
-
-[![Trust drawing]({{ site.baseurl}}/img/posts/blockchain/trust.png)]({{ site.baseurl }}/img/posts/blockchain/trust.png) 
-
-If you want to read an article about blockchain and trust, take a look at this one from CoinDesk: [Blockchain's Big Innovation is Trust, Not Money](http://www.coindesk.com/blockchain-innovation-trust-money/){:target="_blank"}
-
-&nbsp;
+[Part 1: What is Blockchain (this post)]({{ site.baseurl }}/the-blockchain-innovation-part-1-what-is-blockchain/){:target="_blank"}  
+[Part 2: What can Blockchain solve?]({{ site.baseurl }}/the-blockchain-innovation-part-2-what-can-blockchain-solve/){:target="_blank"}  
+[Part 3: Exciting Blockchain Projects]({{ site.baseurl }}/the-blockchain-innovation-part-3-exciting-blockchain-projects/){:target="_blank"}  
 
 # What can blockchain do?
-
-What can't it do? The more you look at it, the more it seems like the solution to many of our problems. So much wealth could be distributed if we had fewer middlemen than we have today. But there are a lot of challenges that blockchain can solve in an elegant way to make things easier for everyone involved.
 
 The most important aspects of blockchain is the fact that it is decentralized secure, and how it negates the need for a lot of trust. Today we often use third parties to solve the problem of trust.
 
@@ -354,14 +304,16 @@ I hope organizations like the Internet Engineering Task Force and W3C will form 
 
 &nbsp;
 
-# Exiting Blockchain Projects
-
-I have written a post about some of the coolest, most innovative and exciting projects happening in the blockchain space right now. Take a look: [Exiting Blockchain Projects]({{ site.baseurl }}/exciting-blockchain-projects/){{ site.baseurl}}{:target="_blank"}
-
-&nbsp;
-
 # The future of Blockchain
 
 The future of blockchain is super exciting. I can't wait to see what people will come up with!
 
 There is so much going on in this space that I can't possibly keep up with all of it. If you want to learn more, try to follow a few Reddit boards on different kinds of blockchain technology.
+
+&nbsp;
+
+# Exciting Blockchain Projects
+
+In the next part of this series, I explore some of the most innovative and exciting projects right now in the blockchain space:
+
+[Part 3: Exciting Blockchain Projects]({{ site.baseurl }}/the-blockchain-innovation-part-3-exciting-blockchain-projects/){:target="_blank"}  
