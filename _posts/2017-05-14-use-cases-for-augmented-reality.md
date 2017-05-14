@@ -10,7 +10,7 @@ categories:
 
 2016 was the year of Virtual Reality. Now it seems like 2017 might be the year of Augmented Reality. Facebook has announced their belief in the technology. Microsoft has been working on their HoloLens technology for a while already. Even Snapchat is trying to incorporate Augmented Reality into their offerings.
 
-There are many players out there starting to emerge with AR technology, but many of today's applications usage of AR is pretty lame. Or at least not very useful for anything else than a cheap laugh. Dog ears and rainbows are not what is innovative and exciting about AR.
+There are many players out there starting to emerge with AR technology, but most of the usage of AR today is pretty lame. Or at least not very useful for anything else than a cheap laugh. Dog ears and rainbows are not what is innovative and exciting about AR.
 
 <!--more-->
 
@@ -31,15 +31,12 @@ Probably one of the biggest use cases right now, and not without reason. Letting
 You can imagine using AR for
 
 * Fitting rooms
-* Trying out furniture in you home
-* Decorating
+* Decorating and trying out furniture in you home
 * Real estate
     * When showing someone an empty house, create an incredible narrative.
     * In fact, it might be BETTER to show someone an empty house and using AR to create a beautiful scenario
-* Shopping
-    * All kinds of shopping
-    * Real estate, personal shopping, fitting rooms
-* Decorating
+* Online Shopping
+    * Wonder what that thing you want to buy look like? Just put a hologram of it on your desk.
 
 &nbsp;
 
@@ -55,7 +52,7 @@ Allowing people to more easily imagine how great your product is, by showing the
 
 # Games
 
-As with Virtual Reality, gamers are going to be pushing forward Augmented Reality also. Gamers are great at using and wanting more of new tech, which is exactly what is going to open for more and more use cases in other industries as well.
+As with Virtual Reality, gamers are going to be pushing forward Augmented Reality too. Gamers are great at using and wanting more of new tech, which is exactly what is going to open for more and more use cases in other industries as well.
 
 Casual games that are not confined to a screen is what AR bring to the table here. Integrating a game world into your real world allowing for better immersion and a ton of interesting scenarios.
 
@@ -70,11 +67,15 @@ While this video is purely a concept video by Magic Leap, it still demonstrates 
 Now we are getting into the topic of Industry (with a capital I). Training people is hard. Training people to do complex tasks is even more difficult.
 
 Since paper sucks for training material, this has traditionally been solved with video training or hands-on, real world training. 
-However, videos are not very interactive, and you won't learn as much. Hands-on training can be extremely expensive depending on equipment and personnel requirements. Think of repair training for a large plane engine. You need to have an engine that is not in use, and you have to get people to where an engine is, and an expert is available. Also, you better not destroy that engine.
+However, videos are not very interactive, and you won't learn as much. Hands-on training can be extremely expensive depending on equipment and personnel requirements. 
+Think of repair training for a large plane engine. You need to have an engine that is not in use, you have to get people to where an engine is, and get a hold of an expert. Also, you better not destroy that engine.
 
 These problems have been partially solved already by VR. VR is excellent for training, but it has the problem of removing you from the real world and being a bit more expensive to develop because you need to simulate the entire environment in which the training is happening.
 
-What I like about AR for training is the prospect of being a lot more flexible and potentially cost-friendly than VR. If you have a piece of equipment available, it's stupid to simulate it in a VR world. You could instead combine training instructions on top of that real equipment. Or if you don't have that piece of equipment you can simulate the whole thing, but perhaps using real world tools during training.
+What I like about AR for training is the potential for being a lot more flexible than VR. 
+If you have a piece of equipment available, it's stupid to simulate it in a VR world. 
+You could instead combine training instructions on top of that real equipment. 
+Or if you don't have that piece of equipment you can simulate the whole thing, but perhaps using real world tools during training.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eVV5tUmky6c" frameborder="0" allowfullscreen></iframe> 
 
@@ -114,6 +115,10 @@ When teaching, being able to visually demonstrate any concept would allow almost
 # Storytelling
 
 Storytelling is already an emerging topic for VR, but there is no reason it can't be just as effective (or more) with AR.
+
+Storytelling doesn't need to be confined to text OR audio OR video. Why not combine elements to truly bring a story to life?
+
+People are experiment with this today, take a look at the video below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YO1E7DBuqtc" frameborder="0" allowfullscreen></iframe>
 
@@ -159,6 +164,8 @@ A simple prototype or sketch can never bring big ideas to life. You have to coun
 # Navigation
 
 Navigation without having to glance at your phone or GPS device? Sure. Indoor turn-by-turn navigation? Yeah, that sounds useful.
+
+I think navigation could be an immersive experience that is truly useful. Information and turn-by-turn navigation overlaid on the world can be done with AR. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X5bzMm-vEIs" frameborder="0" allowfullscreen></iframe>
 
