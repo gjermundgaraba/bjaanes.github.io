@@ -16,6 +16,8 @@ I just wanted to share my opinion and view on Augmented Reality (AR) and Virtual
 
 <!--more-->
 
+I wrote another article on AR use cases that might be of interest: [Use Cases for Augmented Reality]({{ site.baseurl }}/use-cases-for-augmented-reality/){:target="_blank"}
+
 &nbsp;
 
 Before starting, I want to clarify a couple of terms.
@@ -94,3 +96,7 @@ I think something like "holoportation" could be an amazing way to hold meetings 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7d59O6cfaM0" frameborder="0" allowfullscreen></iframe>
 
 There are a ton of amazing things you could imagine with proper AR, and I’m just more exited by that, than by VR.
+
+# Use cases
+
+I mentioned it in the beginning as well, but if you are interested in what you can do with AR, check out this post too: [Use Cases for Augmented Reality]({{ site.baseurl }}/use-cases-for-augmented-reality/){:target="_blank"}

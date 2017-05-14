@@ -2,7 +2,7 @@
 
 This is my personal blog. 
 
-It's all about programming, productivity and lifestyle. 
+It focuses on Innovation and Technology.
 
 It runs on Jekyll and is completely open source. Because I love open source.
 
