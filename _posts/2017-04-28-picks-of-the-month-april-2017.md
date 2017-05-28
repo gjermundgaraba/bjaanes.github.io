@@ -1,5 +1,5 @@
 ---
-title: 'Picks of the month - April 2017'
+title: 'Picks of the Month - April 2017'
 date: 2017-04-29T12:00:00+02:00
 author: Gjermund Bjaanes
 layout: post
