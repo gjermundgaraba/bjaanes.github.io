@@ -64,3 +64,29 @@ input::-webkit-search-decoration,
 input::-webkit-search-cancel-button {
     display: none;
 }
+
+.pager li.post-count {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 13px;
+    font-size: 0.9em;
+}
+
+.pager li.post-count-small {
+    display: none;
+}
+
+@media only screen and (max-width: 530px) {
+    .pager li.post-count {
+        display: none;
+    }
+
+    .pager li.post-count-small {
+        font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        display: inline-block;
+        margin-top: 13px;
+        font-size: 0.9em;
+    }
+}
