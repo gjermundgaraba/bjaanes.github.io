@@ -37,7 +37,7 @@ Before starting, if you want a quick intro to Bitcoin and Blockchain (which migh
 
 # What is blockchain?
 
-In it's most abstract form, a blockchain is a distributed database or ledger. 
+In its most abstract form, a blockchain is a distributed database or ledger. 
 In simple terms, it means there is a network of people that has a full copy of the blockchain database, and everyone helps decide what goes into it, and what is the correct state of the database. 
 This makes it hard to hack or take down, because it's in so many places, and there are a bunch of people controlling and making sure everybody plays nice. 
 It's not just a single person or company controlling it all.
