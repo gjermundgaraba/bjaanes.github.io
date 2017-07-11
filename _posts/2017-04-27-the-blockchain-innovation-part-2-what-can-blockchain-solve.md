@@ -16,8 +16,8 @@ This post is all about what kind of problems that Blockchain can solve.
 
 All three parts of this series: 
 
-[Part 1: What is Blockchain (this post)]({{ site.baseurl }}/the-blockchain-innovation-part-1-what-is-blockchain/){:target="_blank"}  
-[Part 2: What can Blockchain solve?]({{ site.baseurl }}/the-blockchain-innovation-part-2-what-can-blockchain-solve/){:target="_blank"}  
+[Part 1: What is Blockchain]({{ site.baseurl }}/the-blockchain-innovation-part-1-what-is-blockchain/){:target="_blank"}  
+[Part 2: What can Blockchain solve? (this post)]({{ site.baseurl }}/the-blockchain-innovation-part-2-what-can-blockchain-solve/){:target="_blank"}  
 [Part 3: Exciting Blockchain Projects]({{ site.baseurl }}/the-blockchain-innovation-part-3-exciting-blockchain-projects/){:target="_blank"}  
 
 # What can blockchain do?

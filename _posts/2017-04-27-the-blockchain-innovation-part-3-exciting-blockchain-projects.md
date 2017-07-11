@@ -18,9 +18,9 @@ This is the third part of my blockchain series. In this post I am focusing on so
 
 All three parts of this series: 
 
-[Part 1: What is Blockchain (this post)]({{ site.baseurl }}/the-blockchain-innovation-part-1-what-is-blockchain/){:target="_blank"}  
+[Part 1: What is Blockchain]({{ site.baseurl }}/the-blockchain-innovation-part-1-what-is-blockchain/){:target="_blank"}  
 [Part 2: What can Blockchain solve?]({{ site.baseurl }}/the-blockchain-innovation-part-2-what-can-blockchain-solve/){:target="_blank"}  
-[Part 3: Exciting Blockchain Projects]({{ site.baseurl }}/the-blockchain-innovation-part-3-exciting-blockchain-projects/){:target="_blank"}  
+[Part 3: Exciting Blockchain Projects (this post)]({{ site.baseurl }}/the-blockchain-innovation-part-3-exciting-blockchain-projects/){:target="_blank"}  
 
 &nbsp;
 
