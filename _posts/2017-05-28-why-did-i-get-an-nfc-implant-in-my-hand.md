@@ -42,7 +42,7 @@ As you can see, the procedure is quick. There was no pain. And the healing proce
 
 It seems like it might be weird to want to implant an NFC chip in your hand. After all, it sounds like it will hurt, and seriously, what's the point?
 
-Funnily enough, I didn't have any *particular* reason for doing, other than that I liked the idea of hacking my body. I figured: "I'll just get it implanted and explore from there." 
+Funnily enough, I didn't have any *particular* reason for doing it, other than that I liked the idea of hacking my body. I figured: "I'll just get it implanted and explore from there." 
 
 So that is essentially why. I am curious. I want to explore what I can use an NFC chip in my hand for.
 
