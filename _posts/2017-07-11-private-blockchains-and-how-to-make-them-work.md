@@ -42,7 +42,7 @@ You can't just slap that kind of that on a public blockchain. To share those kin
 
 &nbsp;
 
-# Public vs. Private
+# Strengths: Public vs. Private
 
 When choosing between a public and private blockchain, I believe you can summarize the reasons down to this:
 
@@ -88,7 +88,7 @@ To continue this discussion, we need to define how a private blockchain needs to
 
 &nbsp;
 
-# Private vs. Public Blockchains
+# Definitions: Public vs. Private
 
 Let's define what a private and public blockchain is.
 

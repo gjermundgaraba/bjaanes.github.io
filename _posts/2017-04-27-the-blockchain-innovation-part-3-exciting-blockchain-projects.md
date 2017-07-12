@@ -188,6 +188,8 @@ I don't want to put too many projects here, but a few other projects that I'm ke
      - Started by the Linux Foundation
      - Focuses on global business transactions
      - Has a lot of big members like IBM, Cisco, Intel, American Express and a bunch of others.
+- [MultiChain](https://www.multichain.com){:target="_blank"}
+    - Open source private blockchain platform
 
 &nbsp;
 
