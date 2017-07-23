@@ -6,6 +6,7 @@ layout: post
 permalink: /private-blockchains-and-how-to-make-them-work/
 categories:
   - Uncategorized
+header-img: "img/private_blockchain_bg.jpg"
 ---
 
 Many people are getting excited about blockchain technology, and for good reasons. Immutability, trustless sharing of data, secure transactions and much more can truly change the way we do business.
