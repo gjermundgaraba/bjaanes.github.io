@@ -232,3 +232,9 @@ Magic Leap is the mysterious AR technology that tech giants like Google keep thr
 Their promise though is not a small thing. Small glasses with incredibly immersive AR is no small feat. At least not to the point that is shown in their videos. I won't talk too much about Magic Leap because I don't really know much (I mean, nobody does). Just watch the videos and be excited by the possibility that this might come true:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmdXJy_IdNw" frameborder="0" allowfullscreen></iframe>
+
+# More Glasses
+
+There are many glasses, both in development and ready to buy. Many of them are not really interesting to me, and have been left out of this post.
+
+However, if you like to see more alternatives, or view more data on the ones mentioned here, take a look at ["The Definitive Guide to Augmented Reality Smart Glasses"](http://www.arglassesbuyersguide.com){:target="_blank"}
