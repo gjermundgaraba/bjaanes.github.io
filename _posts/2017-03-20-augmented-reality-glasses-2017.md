@@ -233,8 +233,11 @@ Their promise though is not a small thing. Small glasses with incredibly immersi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmdXJy_IdNw" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;
+
 # More Glasses
 
-There are many glasses, both in development and ready to buy. Many of them are not really interesting to me, and have been left out of this post.
+There are many glasses out there, both in development and that you can purchase right now. A lot of them are not really interesting to me, and have therefore been left out of this post.
 
-However, if you like to see more alternatives, or view more data on the ones mentioned here, take a look at ["The Definitive Guide to Augmented Reality Smart Glasses"](http://www.arglassesbuyersguide.com){:target="_blank"}
+However, if you like to see more alternatives, or view more data on the ones mentioned here, take a look at ["The Definitive Guide to Augmented Reality Smart Glasses"](http://www.arglassesbuyersguide.com){:target="_blank"}.
+This site has a lot of different options and a lot of data you can look at.
