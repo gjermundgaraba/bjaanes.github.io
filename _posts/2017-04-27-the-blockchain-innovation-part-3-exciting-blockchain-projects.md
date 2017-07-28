@@ -9,6 +9,7 @@ categories:
 redirect_from:  
   - /exciting-blockchain-projects/
 header-img: "img/blockchain_app_bg.jpg"
+image: "img/blockchain_app_bg.jpg"
 ---
 
 Blockchain technology seems to be everywhere, but what are some of the coolest, most innovative and exciting projects happening in this space right now?
