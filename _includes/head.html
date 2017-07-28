@@ -10,7 +10,40 @@
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta name="twitter:site" content="@{{ site.twitter_username}} " />
     <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-    
+    {% if page.title %}
+    <!-- Article specific OG data -->
+    <!-- The OG:Type dictates a number of other tags on posts. -->
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content="{{ page.date }}" />
+
+    <meta property="article:author" content="http://twitter.com/{{ site.twitter_username}}" />
+    <meta property="article:publisher" content="http://twitter.com/{{ site.twitter_username}}" />
+
+    {% for tag in page.categories %}
+    <meta property="article:tag" content="{{ tag }}" />
+    {% endfor %}
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@{{ site.twitter_username}} " />
+    <meta name="twitter:title" content="{{ page.title }}" />
+
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.image }}" />
+    <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}" />
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}/{{ site.header-img }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.header-img }}" />
+    {% endif %}
+
+    {% else %}
+    <!-- OG data for homepage -->
+    <meta property="og:image" content="{{ site.url }}/{{ site.header-img }}" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:image" content="{{ site.url }}/{{ site.header-img }}" />
+    {% endif %}
+
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -20,41 +53,6 @@
       ga('create', 'UA-58254874-1', 'auto');
       ga('send', 'pageview');
     </script>
-
-    {% if page.title %}
-        <!-- Article specific OG data -->
-        <!-- The OG:Type dictates a number of other tags on posts. -->
-        <meta property="og:type" content="article" />
-        <meta property="article:published_time" content="{{ page.date }}" />
-
-        <meta property="article:author" content="http://twitter.com/{{ site.twitter_username}}" />
-        <meta property="article:publisher" content="http://twitter.com/{{ site.twitter_username}}" />
-
-        {% for tag in page.categories %}
-        <meta property="article:tag" content="{{ tag }}" />
-        {% endfor %}
-
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content="@{{ site.twitter_username}} " />
-        <meta name="twitter:title" content="{{ page.title }}" />
-
-        {% if page.image %}
-            <meta property="og:image" content="{{ site.url }}/{{ page.image }}" />
-            <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}" />
-        {% else %}
-            <meta property="og:image" content="{{ site.url }}/{{ site.header-img }}" />
-            <meta name="twitter:image" content="{{ site.url }}{{ site.header-img }}" />
-        {% endif %}
-
-    {% else %}
-        <!-- OG data for homepage -->
-        <meta property="og:image" content="{{ site.url }}/{{ site.header-img }}" />
-        <meta property="og:type" content="website" />
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content="{{ site.title }}" />
-        <meta name="twitter:image" content="{{ site.url }}/{{ site.header-img }}" />
-    {% endif %}
-
 
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
