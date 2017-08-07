@@ -22,7 +22,6 @@ It can be anything from blog posts and software tools to books and techniques.
 &nbsp;
 
 # #1 Cold Showers
-[Part 1: What is Blockchain]({{ site.baseurl }}/the-blockchain-innovation-part-1-what-is-blockchain/){:target="_blank"}  
 
 I briefly mentioned on the [last picks of the months]({{ site.baseurl }}/picks-of-the-month-june-2017/){:target="_blank"} that I had gotten into the habit of taking cold showers in the morning. I wanted to expand a bit on that in this post.
 
