@@ -232,6 +232,19 @@ Here is a video on how Storj works:
 
 &nbsp;
 
+## Gathering Big Data
+
+Getting hold of Big Data of any type can be a challenge for anyone who wants to do machine learning.
+
+Blockchain can help incentivize people with data to give it up (sold for tokens) and make it available for people who need it (purchased with tokens).
+
+A great example of this is the Lampix token PIX project. They need a billion {image, description} data sets to train their machine learning algorithms. 
+They have created a blockchain system with allows people to sell such sets to the chain (sold for PIX tokens) and allow anyone to purchase data sets of any size they need (purchased with PIX tokens).
+
+This could be used for any kind of data sets that someone might need. In the future, there might be marketplaces where you can purchase real data on the blockchain!
+
+&nbsp;
+
 # Blockchain challenges
 
 While there are a lot of great things that blockchain technology can be utilized for, there are also a lot of challenges it needs to overcome going forward.
