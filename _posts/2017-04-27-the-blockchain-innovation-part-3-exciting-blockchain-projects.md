@@ -192,6 +192,15 @@ I don't want to put too many projects here, but a few other projects that I'm ke
      - Has a lot of big members like IBM, Cisco, Intel, American Express and a bunch of others.
 - [MultiChain](https://www.multichain.com){:target="_blank"}
     - Open source private blockchain platform
+- [Aion](https://aion.network/){:target="_blank"}
+    - Aiming to connect all blockchains together
+- [Pally](https://www.pally.co){:target="_blank"}
+    - Decentralized social travel ecosystem
+- [EOS](https://eos.io/){:target="_blank"}
+    - A new contender for decentralized applications (potential Ethereum killer?)
+- [NEM](https://nem.io/){:target="_blank"}
+    - Decentralized applications
+    - Done with less flexibility (no turing complete programming language), but more security and performance
 
 &nbsp;
 
