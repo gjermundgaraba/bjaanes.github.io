@@ -24,7 +24,15 @@ In particular the "What can Blockchain solve" post.
 
 But it is not all old stuff. I have included new use cases and done more research on the existing ones. Different format, different content.
 
-Anyway, I hope you enjoy it:
+&nbsp;
+
+# About the talk:
+
+Blockchain technology is being talked about everywhere. Some people say it's just the underlying technology of some scammy digital currency, while others say it's the new Internet.  If you have spent any time looking at what Blockchain is in technical terms, it's a fair chance that you are more confused than before you started learning about it. How can this technology that essentially is meant for storage be that important? Sure, it makes sense for Bitcoin, but what else can it be used for?
+
+This talk is for anyone who is curious about which possibilities Blockchain enables. We will not go into technical detail about how blockchain works but instead will focus on some of the potential use cases.
+
+You will be taken through some of the most exciting and promising use cases for Blockchain technology. We will talk about everything from currency and democracy to IoT and Big Data.
 
 <iframe src="https://player.vimeo.com/video/233648689" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/233648689">Blockchain, what is it good for?: Gjermund Bjaanes</a> from <a href="https://vimeo.com/javazone">JavaZone</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
