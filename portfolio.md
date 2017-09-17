@@ -2,7 +2,7 @@
 title: Portfolio
 author: Gjermund Bjaanes
 layout: page
-header-img: "img/portfolio_bg.jpg"
+header-img: "img/portfolio_bg.png"
 ---
 
 On this page, I wanted to just showcase a few of the projects I do **on my own time**.
