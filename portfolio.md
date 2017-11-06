@@ -51,6 +51,24 @@ Client Code: [https://github.com/bjaanes/ExtremeResults-WebApp](https://github.c
 
 &nbsp;
 
+# BeaconMQTT
+
+[![BeaconMQTT Logo]({{ site.baseurl}}/img/beaconmqtt/logo.png)]({{ site.baseurl }}/img/beaconmqtt/logo.png)
+
+This is an Android app I created to solve the problem of integrating Bluetooth Beacons into home automation systems (using the IoT messaging protocol MQTT).
+
+Using BeaconMQTT you can bring your Bluetooth Beacons into your home automation system. Whenever your phone is near or exits the area of a Beacon you can send an MQTT message. Perfect for bringing context into your home automation system!
+
+[![BeaconMQTT Landing Page Screenshot]({{ site.baseurl}}/img/beaconmqtt/landingpage.png)]({{ site.baseurl }}/img/beaconmqtt/landingpage.png)
+
+This is an app meant for developers and tinkerers using IoT and Home Automation.
+
+[BeaconMQTT Landing Page](http://beaconmqtt.gjermundbjaanes.com/){:target="_blank"}
+
+The app is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.gjermundbjaanes.beaconmqtt){:target="_blank"}
+
+&nbsp;
+
 # Roommates
 
 Roommates is an app for Android and iOS to make shared housing easier.
