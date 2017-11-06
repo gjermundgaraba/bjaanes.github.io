@@ -57,7 +57,8 @@ Client Code: [https://github.com/bjaanes/ExtremeResults-WebApp](https://github.c
 
 This is an Android app I created to solve the problem of integrating Bluetooth Beacons into home automation systems (using the IoT messaging protocol MQTT).
 
-Using BeaconMQTT you can bring your Bluetooth Beacons into your home automation system. Whenever your phone is near or exits the area of a Beacon you can send an MQTT message. Perfect for bringing context into your home automation system!
+BeaconMQTT can bring Bluetooth Beacons into home automation systems. When your phone is entering or exiting the "area" (range) of a Beacon you can send an MQTT message. 
+This translates to bringing more context to your system - allowing you to do smart things based on real-time data.
 
 [![BeaconMQTT Landing Page Screenshot]({{ site.baseurl}}/img/beaconmqtt/landingpage.png)]({{ site.baseurl }}/img/beaconmqtt/landingpage.png)
 
