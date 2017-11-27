@@ -6,7 +6,11 @@ layout: post
 permalink: /understanding-ethereum-smart-contracts/
 categories:
   - Uncategorized
+header-img: "img/blockchain_smart_contract_bg.png"
+image: "img/blockchain_smart_contract_bg.png"
 ---
+
+
 
 You might have heard the term "smart contract," and you might even know that they are "code" you can run on a blockchain.
 
