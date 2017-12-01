@@ -37,7 +37,7 @@ This special database is just a list of transactions. Every transaction that has
 Everybody can have their own copy. This distribution coupled with strong monetary incentives removes the need for trust between parties.
 
 Traditionally, trust between parties has been solved using middlemen, third parties. Paypal. Your bank. 
-A transact with someone you don't trust would go through an intermediary both parties trust. 
+A transaction with someone you don't trust would go through an intermediary both parties trust. 
 
 With blockchain, this need is eliminated because you can instead put your trust in a network where the want to cheat is removed by strong incentives (in short: it's much more profitable to stay within the rules).
 
@@ -233,7 +233,7 @@ Now, when the transaction is put into a block in the blockchain the change of st
 
 # The World Computer
 
-Ethereum is being called by many for the World Computer. And it's not a bad analogy. It's like a virtual machine that is being maintained by the whole world!
+Many have called Ethereum for the World Computer. And it's not a bad analogy. It's like a virtual machine that is being maintained by the whole world!
 
 One thing to keep in mind though: while smart contracts are Turing complete and can, in theory, do anything, they are not well suited to heavy computational work.
 
@@ -277,7 +277,7 @@ Movements of money are done with simple functions that just subtract from one ac
 ```
 public transfer(Account from, Account to, double amount) {
   verifySenderOfMoneyIsCaller(from);
-  verifySenderOfMoneyHasEnoughMoney(from, account);
+  verifySenderOfMoneyHasEnoughMoney(from, amount);
   usersAndTheirMoney.put(from, usersAndTheirMoney.get(from)-amount);
   usersAndTheirMoney.put(to, usersAndTheirMoney.get(to)+amount);
 }
