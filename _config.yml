@@ -21,4 +21,4 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed, kramdown, rouge, jekyll-watch, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-feed, kramdown, rouge, jekyll-watch, jekyll-redirect-from]
