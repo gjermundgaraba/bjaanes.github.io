@@ -302,6 +302,8 @@ contract MyToken {
 
 This is the general programming concepts that lie beneath the ICO craze that is going on. I think that says something about the power of Ethereum as a platform. With some simple code, you can generate a token out of thin air that is essentially just some variables being kept track of by the world computer. Welcome to the new internet.
 
+&nbsp;
+
 # Learning more about Ethereum (and smart contracts)
 
 I found an amazing resource for learning more about Ethereum. 

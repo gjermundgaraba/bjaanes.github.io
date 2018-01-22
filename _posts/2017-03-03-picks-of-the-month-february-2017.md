@@ -45,6 +45,10 @@ I recently flew to Shanghai for work and wanted some noise canceling for the lon
 
 These are quite expensive, they are like $350, but they might just be worth it.
 
+Reviews.com agree: [The Best Bluetooth Headphones](https://www.reviews.com/bluetooth-headphones/){:target="_blank"}
+
+They call them the best over-ear BT Headphones: "This lightweight pair of headphones sounds great, filters out noise, and gently cushions your head."
+
 &nbsp;
 
 # #3 Jose' Picks of the Month!
