@@ -6,8 +6,8 @@ layout: post
 permalink: /the-blockchain-innovation-part-2-what-can-blockchain-solve/
 categories:
   - Uncategorized
-header-img: "img/blockchain_trust_bg.jpg"
-image: "img/blockchain_trust_bg.jpg"
+header-img: "img/blockchain_smart_contract_bg.png"
+image: "img/blockchain_smart_contract_bg.png"
 ---
 
 You might not be aware, but there is an innovation revolution happening right now. It's changing the economy, business, the Internet, and could soon also change the entire world. This innovation is called blockchain.
